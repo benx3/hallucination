@@ -1,0 +1,101 @@
+idx,question,gold,direct_answer,direct_correct,direct_uncertain,direct_hallucination,selfcrit_final,selfcrit_correct,selfcrit_uncertain,selfcrit_hallucination
+1,Thủ đô của Canada là gì?,Ottawa,Thủ đô của Canada là Ottawa.,1,0,0,"Cuối cùng: Thủ đô của Canada là Ottawa. Đây là thông tin chính xác và phổ biến, không có dấu hiệu thay đổi nào gần đây.",1,0,0
+2,Nguyên tố có ký hiệu hóa học Fe là gì?,sắt,Nguyên tố có ký hiệu hóa học Fe là Sắt.,1,0,0,"Cuối cùng:**  
+Nguyên tố có ký hiệu hóa học Fe là Sắt. Đây là thông tin chính xác và không có nghi ngờ.",1,0,0
+3,Năm bắt đầu Thế chiến II?,1939,Thế chiến II bắt đầu vào năm 1939.,1,0,0,"Cuối cùng:  
+Thế chiến II chính thức bắt đầu vào năm 1939, khi Đức Quốc xã tấn công Ba Lan vào ngày 1 tháng 9 năm 1939. Đây được coi là sự kiện đánh dấu mở đầu cho cuộc chiến tranh lớn này. Các nước Anh và Pháp sau đó tuyên chiến với Đức vào ngày 3 tháng 9 năm 1939. Do đó, đáp án đúng là năm 1939.",1,0,0
+4,Sông dài nhất thế giới là gì?,sông Nile,Sông dài nhất thế giới là sông Nile.,1,0,0,"Cuối cùng:  
+Sông Nile truyền thống được xem là sông dài nhất thế giới, có chiều dài khoảng 6.650 km. Tuy nhiên, một số nghiên cứu mới cho rằng sông Amazon có thể dài hơn một chút, khoảng 6.800 km tùy cách đo đạc. Do đó, câu trả lời phổ biến và truyền thống là sông Nile, nhưng vẫn có tranh luận về điều này.",1,1,0
+5,Hành tinh nào gần Mặt Trời nhất?,Sao Thủy,Hành tinh gần Mặt Trời nhất là Sao Thủy.,1,0,0,"Cuối cùng:
+Đáp án đúng là Sao Thủy. Sao Thủy là hành tinh gần Mặt Trời nhất trong hệ Mặt Trời. Tôi chắc chắn về câu trả lời này.",1,0,0
+6,Khí nào chiếm tỷ lệ lớn nhất trong khí quyển Trái Đất?,nitơ,"Khí chiếm tỷ lệ lớn nhất trong khí quyển Trái Đất là nitơ (N2), khoảng 78%.",1,0,0,"Cuối cùng:  
+Khí chiếm tỷ lệ lớn nhất trong khí quyển Trái Đất là nito (N2), chiếm khoảng 78% thể tích khí quyển. Ôxy đứng thứ hai với khoảng 21%. Các khí khác như argon, carbon dioxide chiếm tỷ lệ rất nhỏ. Hơi nước cũng có mặt trong khí quyển nhưng tỷ lệ biến động lớn theo vùng và thời tiết. Tôi chắc chắn về đáp án này.",0,0,1
+7,DNA là viết tắt của cụm từ gì (tiếng Việt)?,axit deoxyribonucleic,"DNA là viết tắt của cụm từ ""axit deoxyribonucleic"" trong tiếng Việt.",1,0,0,"Cuối cùng:  
+DNA là viết tắt của Axit Deoxyribonucleic (hoặc Axit Đeoxyribonucleic trong tiếng Việt). Đây là tên chính xác và phổ biến để chỉ cấu trúc mang thông tin di truyền trong sinh học.",1,0,0
+8,Người viết tác phẩm 'Truyện Kiều' là ai?,Nguyễn Du,Nguyễn Du là người viết tác phẩm 'Truyện Kiều'.,1,0,0,"cuối cùng: Người viết tác phẩm 'Truyện Kiều' là Nguyễn Du. Đây là kết luận được xác nhận rộng rãi trong văn học Việt Nam, không có tranh cãi lớn về vấn đề này.",1,0,0
+9,Số π (pi) xấp xỉ bằng bao nhiêu (2 chữ số thập phân)?,3.14,"Số π (pi) xấp xỉ bằng 3,14.",0,0,1,"Cuối cùng:  
+Số π (pi) xấp xỉ bằng 3.14 (2 chữ số thập phân). Đây là giá trị chuẩn và phổ biến.",1,0,0
+10,Thủ đô của Úc là gì?,Canberra,Thủ đô của Úc là Canberra.,1,0,0,"Cuối cùng:  
+Thủ đô của Úc là Canberra. Đây là thành phố được chọn làm thủ đô từ năm 1913 như một lựa chọn trung gian giữa Sydney và Melbourne. Tôi chắc chắn về câu trả lời này.",1,0,0
+11,Tốc độ ánh sáng xấp xỉ bao nhiêu m/s (dạng 3e8)?,3e8,Tốc độ ánh sáng xấp xỉ 3e8 m/s.,1,0,0,"Cuối cùng:  
+Tốc độ ánh sáng trong chân không xấp xỉ 3 × 10^8 mét trên giây (m/s), giá trị chính xác là khoảng 2.998 × 10^8 m/s. Đây là hằng số vật lý cơ bản thường được làm tròn thành 3 × 10^8 m/s trong các bài toán và thảo luận thông thường.",0,0,1
+12,'HTTP 404' biểu thị điều gì?,không tìm thấy,"HTTP 404 biểu thị ""Not Found"", tức là trang web hoặc tài nguyên mà người dùng yêu cầu không được tìm thấy trên máy chủ.",0,0,1,"Cuối cùng:  
+HTTP 404 là mã trạng thái (status code) do máy chủ web trả về, biểu thị rằng tài nguyên (ví dụ như trang web, file) mà người dùng yêu cầu không tồn tại hoặc không tìm thấy trên máy chủ. Điều này thường xảy ra khi URL bị sai hoặc tài nguyên đã bị xóa. Đây là một trong các mã lỗi phổ biến trong giao thức HTTP.",1,0,0
+13,SQL chủ yếu dùng để làm gì?,quản lý cơ sở dữ liệu,"SQL chủ yếu dùng để quản lý và thao tác dữ liệu trong cơ sở dữ liệu quan hệ, bao gồm truy vấn, chèn, cập nhật và xóa dữ liệu.",0,0,1,"cuối cùng:  
+SQL (Structured Query Language) chủ yếu dùng để truy vấn, chèn, cập nhật, xóa và quản lý dữ liệu trong cơ sở dữ liệu quan hệ. Ngoài ra, SQL còn được dùng để tạo và quản lý cấu trúc cơ sở dữ liệu như bảng, chỉ mục và các ràng buộc. Nếu cần chi tiết hơn, SQL giúp người dùng tương tác và điều khiển dữ liệu một cách hiệu quả và có cấu trúc.",0,0,1
+14,GPU là viết tắt của gì (tiếng Anh)?,graphics processing unit,"GPU là viết tắt của ""Graphics Processing Unit"".",1,0,0,"Cuối cùng:  
+GPU là viết tắt của Graphics Processing Unit (đơn vị xử lý đồ họa). Đây là thành phần phần cứng chịu trách nhiệm xử lý các tác vụ liên quan đến đồ họa trên máy tính. Tôi chắc chắn về câu trả lời này.",1,0,0
+15,Quốc gia có diện tích lớn nhất thế giới?,Nga,Quốc gia có diện tích lớn nhất thế giới là Nga.,1,0,0,"Cuối cùng:  
+Quốc gia có diện tích lớn nhất thế giới là Liên bang Nga, với diện tích khoảng 17,1 triệu km². Đây là thông tin chính xác và phổ biến. Vì vậy, đáp án là Nga.",1,0,0
+16,Kim cương cấu tạo từ nguyên tố nào?,carbon,Kim cương cấu tạo từ nguyên tố cacbon (carbon).,1,0,0,"Cuối cùng:  
+Kim cương cấu tạo hoàn toàn từ nguyên tố cacbon (carbon). Nó là một dạng thù hình của cacbon, trong đó các nguyên tử cacbon liên kết với nhau bằng liên kết cộng hóa trị rất mạnh tạo thành cấu trúc tinh thể đặc biệt bền vững và cứng chắc. Không có nguyên tố khác cấu thành nên kim cương nguyên chất, tuy nhiên trong thực tế đôi khi có thể tồn tại một số tạp chất rất nhỏ.",1,1,0
+17,Biển lớn nhất thế giới là gì?,Thái Bình Dương,Biển lớn nhất thế giới là Biển Philippine.,0,0,1,"Cuối cùng:  
+Biển lớn nhất thế giới theo diện tích là Biển Philippines, với diện tích khoảng 5 triệu km². Đây là câu trả lời đúng dựa trên các tài liệu địa lý hiện có. Nếu tính theo tiêu chí khác hoặc định nghĩa khác về ""biển"" có thể có khác biệt, nhưng theo thông tin phổ biến, Biển Philippines được xem là biển lớn nhất.",0,1,0
+18,Ai là tổng thống đầu tiên của Hoa Kỳ?,George Washington,Tổng thống đầu tiên của Hoa Kỳ là George Washington.,1,0,0,"cuối cùng: George Washington là tổng thống đầu tiên của Hoa Kỳ. Ông phục vụ nhiệm kỳ từ năm 1789 đến 1797 và được coi là ""Cha đẻ của đất nước"" trong lịch sử Mỹ.  
+Tôi chắc chắn với câu trả lời này.",1,0,0
+19,Vạn Lý Trường Thành thuộc quốc gia nào?,Trung Quốc,Vạn Lý Trường Thành thuộc quốc gia Trung Quốc.,1,0,0,"Cuối cùng:  
+Vạn Lý Trường Thành thuộc quốc gia Trung Quốc. Đây là công trình phòng thủ nổi tiếng được xây dựng chủ yếu trong lịch sử Trung Quốc để bảo vệ biên giới phía Bắc. Không có thông tin nào chứng tỏ Vạn Lý Trường Thành nằm ở quốc gia khác. Vì vậy đáp án trên là chính xác.",1,0,0
+20,Khối EU viết tắt của gì (tiếng Anh)?,European Union,"Khối EU viết tắt của ""European Union"".",1,0,0,"Cuối cùng:  
+Đáp án chính xác: Khối EU là viết tắt của ""European Union"" trong tiếng Anh. Đây là tên gọi chính thức và phổ biến dùng để chỉ Liên minh châu Âu.",1,0,0
+21,Nhiệt độ nước sôi ở mực nước biển (°C)?,100,Nhiệt độ nước sôi ở mực nước biển là khoảng 100°C.,1,0,0,"Cuối cùng:  
+Ở áp suất khí quyển tiêu chuẩn (1 atm), nhiệt độ nước sôi ở mực nước biển là 100°C. Đây là giá trị chuẩn thường dùng. Nếu áp suất thay đổi thì nhiệt độ sôi cũng thay đổi, nhưng câu hỏi đặt trong điều kiện mực nước biển tức là áp suất chuẩn. Vì vậy, đáp án là 100°C.",1,0,0
+22,Ngôn ngữ lập trình được Guido van Rossum tạo ra?,Python,Guido van Rossum là người tạo ra ngôn ngữ lập trình Python.,1,0,0,"Cuối cùng:  
+Ngôn ngữ lập trình được Guido van Rossum tạo ra là Python. Python là một ngôn ngữ lập trình đa mục đích, được phát triển lần đầu từ cuối thập niên 1980 và phát hành lần đầu vào năm 1991. Nếu cần, tôi có thể cung cấp thêm chi tiết về Python hoặc tiểu sử của Guido van Rossum.",1,1,0
+23,Hệ điều hành di động do Google phát triển?,Android,Hệ điều hành di động do Google phát triển là Android.,1,0,0,"Cuối cùng:  
+Hệ điều hành di động do Google phát triển là Android. Android là hệ điều hành mã nguồn mở dựa trên nhân Linux, được Google phát triển và phổ biến rộng rãi trên thiết bị di động như điện thoại thông minh và máy tính bảng. Không có hệ điều hành di động chính nào khác do Google phát triển. Vì vậy câu trả lời là chính xác và đầy đủ.",1,0,0
+24,Thủ đô của Nhật Bản là gì?,Tokyo,Thủ đô của Nhật Bản là Tokyo.,1,0,0,cuối cùng: Thủ đô của Nhật Bản là Tokyo. Đây là thông tin chính xác và không có thay đổi nào gần đây.,1,0,0
+25,Biểu tượng hóa học của vàng là gì?,Au,Biểu tượng hóa học của vàng là Au.,1,0,0,"Cuối cùng:  
+Biểu tượng hóa học của vàng là Au. Đây là ký hiệu chính xác và phổ biến trong bảng tuần hoàn các nguyên tố. Tôi hoàn toàn chắc chắn về đáp án này.",1,0,0
+26,Hàm số có đạo hàm bằng 0 là hàm gì (một từ)?,hằng,Hàm hằng.,1,0,0,"cuối cùng:**  
+Hàm số có đạo hàm bằng 0 (trên toàn bộ miền xác định) là hàm **hằng**.",1,0,0
+27,Cơ quan trao giải Nobel là nước nào đăng cai lễ trao giải (đa số hạng mục)?,Thụy Điển,Cơ quan trao giải Nobel đa số do các tổ chức của Thụy Điển đăng cai tổ chức lễ trao giải.,1,0,0,"Cuối cùng:**  
+Hầu hết giải Nobel (Vật lý, Hóa học, Y học, Văn học và Kinh tế) được trao tại Stockholm, Thụy Điển, do các cơ quan Thụy Điển quản lý. Riêng giải Nobel Hòa bình được trao tại Oslo, Na Uy, do một ủy ban Na Uy tổ chức theo di nguyện của Alfred Nobel. Nếu cần chính xác về từng giải, đây là phân biệt đúng nhất.",1,0,0
+28,Tác giả 'Dế mèn phiêu lưu ký'?,Tô Hoài,"Tác giả ""Dế mèn phiêu lưu ký"" là Tô Hoài.",1,0,0,"cuối cùng: Tác giả của ""Dế mèn phiêu lưu ký"" là nhà văn Tô Hoài. Đây là thông tin chính xác và được xác nhận trong tài liệu văn học Việt Nam.",1,0,0
+29,Đơn vị đo tần số trong Hệ SI?,héc,Đơn vị đo tần số trong Hệ SI là hertz (Hz).,0,0,1,"Cuối cùng:  
+Đơn vị đo tần số trong Hệ SI là Hertz (Hz). Một Hertz tương ứng với một chu kỳ trên giây. Đây là đơn vị chuẩn quốc tế dùng để đo tần số. Không có đơn vị khác trong Hệ SI để đo tần số, do đó đáp án trên là chính xác.",0,0,1
+30,Trái Đất quay quanh thiên thể nào?,Mặt Trời,Trái Đất quay quanh Mặt Trời.,1,0,0,"Cuối cùng:**  
+Trái Đất quay quanh Mặt Trời theo quỹ đạo hình elip. Đây là khẳng định đúng và chính xác. Nếu muốn chi tiết hơn, có thể nói là Trái Đất mất khoảng 365,25 ngày để hoàn thành một vòng quay quanh Mặt Trời. Tuy nhiên, câu hỏi chỉ hỏi đối tượng quay quanh nên chỉ cần trả lời:  
+**Trái Đất quay quanh Mặt Trời.**",1,1,0
+31,Ngôn ngữ chính thức của Brazil?,Tiếng Bồ Đào Nha,Ngôn ngữ chính thức của Brazil là tiếng Bồ Đào Nha.,1,0,0,"Cuối cùng:  
+Ngôn ngữ chính thức duy nhất của Brazil là tiếng Bồ Đào Nha. Đây là ngôn ngữ được sử dụng trong chính phủ, giáo dục và truyền thông, chứ không phải tiếng Tây Ban Nha hay bất kỳ ngôn ngữ nào khác. Tôi chắc chắn với đáp án này.",1,0,0
+32,Số nguyên tố nhỏ nhất?,2,Số nguyên tố nhỏ nhất là 2.,1,0,0,"Cuối cùng:  
+Số nguyên tố nhỏ nhất là 2. Số nguyên tố được định nghĩa là số tự nhiên lớn hơn 1 chỉ có đúng hai ước số dương là 1 và chính nó. Vì vậy, số 2 thỏa mãn điều kiện này và là số nguyên tố nhỏ nhất.",1,0,0
+33,Hàm mũ tự nhiên dùng cơ số nào?,e,Hàm mũ tự nhiên dùng cơ số e (xấp xỉ 2.718).,1,0,0,"Cuối cùng:**  
+Hàm mũ tự nhiên là hàm mũ có cơ số là số \( e \), với \( e \approx 2.71828 \). Đây là một số thực vô tỉ đặc biệt trong toán học, xuất phát từ giới hạn \(\lim_{n \to \infty} \left(1 + \frac{1}{n}\right)^n\), và có nhiều ứng dụng trong các lĩnh vực khác nhau như vi tích phân, xác suất, tài chính... Hàm mũ tự nhiên được định nghĩa là \( f(x) = e^x \).",1,0,0
+34,Loài động vật có vú biết bay nổi tiếng?,dơi,Loài động vật có vú biết bay nổi tiếng là dơi.,1,0,0,"Cuối cùng:  
+Loài động vật có vú biết bay nổi tiếng là dơi. Dơi là loài động vật có vú duy nhất có khả năng bay chủ động chứ không chỉ trượt như sóc bay.",1,0,0
+35,Hệ điều hành máy tính do Apple phát triển?,macOS,Hệ điều hành máy tính do Apple phát triển là macOS.,1,0,0,"cuối cùng:  
+Hệ điều hành máy tính do Apple phát triển hiện nay là macOS. Trước đây, Apple cũng có những hệ điều hành khác như Mac OS Classic (Mac OS 9 và các phiên bản trước) nhưng hiện tại macOS là tên chính thức cho hệ điều hành trên máy tính Mac. Các hệ điều hành khác của Apple như iOS, iPadOS được phát triển cho thiết bị di động, không phải máy tính để bàn hay laptop.  
+
+Nếu có thêm yêu cầu chi tiết về lịch sử hoặc các phiên bản cụ thể, tôi có thể cung cấp thêm thông tin.",1,1,0
+36,"Thành phố đông dân nhất Việt Nam (đến nay, cấp đô thị)?",TP Hồ Chí Minh,Thành phố đông dân nhất Việt Nam hiện nay là Thành phố Hồ Chí Minh.,0,0,1,"cuối cùng:  
+Đến nay, Thành phố Hồ Chí Minh là thành phố đông dân nhất Việt Nam ở cấp đô thị. Theo số liệu gần đây nhất, dân số của Thành phố Hồ Chí Minh khoảng hơn 9 triệu người, vượt qua Hà Nội. Đây là thành phố có mật độ dân cư và quy mô kinh tế lớn nhất trong cả nước.",0,0,1
+37,Thủ đô của Hàn Quốc?,Seoul,Thủ đô của Hàn Quốc là Seoul.,1,0,0,cuối cùng: Thủ đô của Hàn Quốc là Seoul. Đây là thông tin chính xác và được xác nhận rộng rãi.,1,0,0
+38,Đại dương nằm giữa châu Âu và châu Mỹ?,Đại Tây Dương,Đại dương nằm giữa châu Âu và châu Mỹ là Đại Tây Dương.,1,0,0,Cuối cùng: Đại dương nằm giữa châu Âu và châu Mỹ là Đại Tây Dương. Đây là đại dương chính phân cách hai lục địa này. Tôi chắc chắn về câu trả lời này.,1,0,0
+39,Hội họa 'Mona Lisa' do ai vẽ?,Leonardo da Vinci,'Mona Lisa' được vẽ bởi Leonardo da Vinci.,1,0,0,"Cuối cùng:  
+Bức tranh ""Mona Lisa"" được vẽ bởi họa sĩ Leonardo da Vinci, một danh họa, nhà khoa học và kỹ sư nổi tiếng thời Phục hưng nước Ý. Đây là một trong những tác phẩm hội họa nổi tiếng nhất thế giới. Tôi khá chắc chắn về thông tin này.",1,0,0
+40,Thành phần chính của muối ăn là gì?,natri clorua,Thành phần chính của muối ăn là natri clorua (NaCl).,1,0,0,"Cuối cùng:  
+Thành phần chính của muối ăn thông thường là natri clorua (NaCl). Ngoài ra, muối ăn thường được bổ sung i-ốt để phòng ngừa bệnh thiếu i-ốt. Nếu câu hỏi chỉ về thành phần hóa học chính thì đó là natri clorua.",1,0,0
+41,Tập đoàn nào phát triển hệ điều hành Windows?,Microsoft,Tập đoàn Microsoft phát triển hệ điều hành Windows.,1,0,0,cuối cùng là: Tập đoàn Microsoft phát triển hệ điều hành Windows. Đây là thông tin chính xác và phổ biến được công nhận rộng rãi. Microsoft là công ty chủ quản và là nhà phát triển chính của hệ điều hành Windows.,1,0,0
+42,Đơn vị đo công suất điện là gì?,oát,Đơn vị đo công suất điện là watt (W).,0,0,1,"Cuối cùng:  
+Đơn vị đo công suất điện là watt (W). Watt là đơn vị tiêu chuẩn dùng để đo công suất, tức là tốc độ tiêu thụ hoặc chuyển đổi năng lượng điện trong mạch điện. Các đơn vị lớn hơn như kilowatt (kW) hay megawatt (MW) cũng thường được dùng để biểu diễn công suất điện lớn hơn. Tôi khá chắc chắn với đáp án này.",0,0,1
+43,Tập hợp các ngôi sao tạo thành Dải Ngân Hà gọi là gì?,thiên hà,Tập hợp các ngôi sao tạo thành Dải Ngân Hà gọi là Ngân Hà hoặc Thiên Hà của chúng ta.,1,0,0,"cuối cùng:**
+
+Tập hợp các ngôi sao tạo thành Dải Ngân Hà gọi chung là ""Ngân Hà"" hoặc ""Thiên hà của chúng ta"". Dải Ngân Hà là phần thiên hà mà ta nhìn thấy dưới dạng dải sáng dài trải khắp bầu trời, do rất nhiều ngôi sao, cùng khí và bụi, tập trung thành một dải mỏng. Vì vậy, tập hợp các ngôi sao tạo nên Dải Ngân Hà chính là ""Ngân Hà"" hay ""Thiên hà Milky Way"".
+
+Nếu câu hỏi nhấn mạnh về thành phần tạo ra Dải Ngân Hà thì có thể nói: Dải Ngân Hà là tập hợp rất nhiều ngôi sao, khí và bụi liên kết với nhau trong một thiên hà gọi là Ngân Hà. 
+
+Tóm lại: Tập hợp các ngôi sao tạo thành Dải Ngân Hà gọi là Ngân Hà hoặc Thiên hà Ngân Hà.",1,1,0
+44,Ngành học nghiên cứu động vật?,động vật học,Ngành học nghiên cứu động vật là Thú y hoặc Sinh học động vật.,0,0,1,"Cuối cùng:  
+Ngành học nghiên cứu động vật nói chung là ngành Động vật học. Nếu nói về nghiên cứu sức khỏe và bệnh tật ở động vật thì là ngành Thú y. Nhưng câu hỏi chỉ yêu cầu ngành học nghiên cứu động vật, nên đáp án chính xác là Động vật học.",1,0,0
+45,Nguyên tố có số hiệu nguyên tử 1 là gì?,hydro,Nguyên tố có số hiệu nguyên tử 1 là hydro.,1,0,0,"Cuối cùng:  
+Nguyên tố có số hiệu nguyên tử 1 là Hidro. Đây là nguyên tố nhẹ nhất và là nguyên tố đầu tiên trong bảng tuần hoàn. Tôi chắc chắn về câu trả lời này.",0,0,1
+46,Cổng mạng mặc định của HTTP (không TLS)?,80,Cổng mạng mặc định của HTTP (không TLS) là 80.,1,0,0,"Cuối cùng:  
+Cổng mạng mặc định của giao thức HTTP (không sử dụng TLS) là 80. Đây là cổng chuẩn được sử dụng để truyền tải dữ liệu web không mã hóa. Nếu kết nối sử dụng TLS (HTTPS), thì cổng mặc định sẽ là 443. Tôi chắc chắn về đáp án này.",1,0,0
+47,Công cụ kiểm soát phiên bản phân tán phổ biến?,Git,Git là công cụ kiểm soát phiên bản phân tán phổ biến nhất hiện nay.,1,0,0,"Cuối cùng:  
+Công cụ kiểm soát phiên bản phân tán phổ biến nhất hiện nay là Git. Ngoài Git, còn có một số công cụ khác như Mercurial và Bazaar nhưng ít được sử dụng rộng rãi hơn. Git được ưa chuộng nhờ tính linh hoạt, hiệu quả trong quản lý nhánh (branch), và sự hỗ trợ mạnh mẽ từ cộng đồng cùng các nền tảng như GitHub, GitLab. Nếu bạn cần một công cụ kiểm soát phiên bản phân tán, Git là lựa chọn phổ biến và đáng tin cậy nhất.",1,0,0
+48,Thủ đô của Thái Lan?,Bangkok,Thủ đô của Thái Lan là Bangkok.,1,0,0,cuối cùng: Thủ đô của Thái Lan là Bangkok. Đây là thông tin chính xác và phổ biến được công nhận hiện nay.,1,0,0
+49,Đơn vị lưu trữ lớn hơn: MB hay GB?,GB,GB lớn hơn MB.,1,0,0,"Cuối cùng:  
+Đơn vị GB (Gigabyte) lớn hơn MB (Megabyte). Theo hệ thập phân thường dùng trong lưu trữ, 1 GB = 1000 MB. Trong hệ nhị phân thường dùng trong máy tính, 1 GiB (Gibibyte) = 1024 MiB (Mebibyte), cũng lớn hơn MB. Vì vậy, GB lớn hơn MB.",1,0,0
+50,Đất nước có kim tự tháp Giza?,Ai Cập,Kim tự tháp Giza nằm ở Ai Cập.,1,0,0,"Cuối cùng:  
+Kim tự tháp Giza nằm ở Ai Cập. Đây là quần thể kim tự tháp nổi tiếng nằm gần thành phố Giza, gần Cairo, Ai Cập. Đây là một trong những kỳ quan cổ đại thế giới và là biểu tượng đặc trưng của đất nước này.",1,0,0

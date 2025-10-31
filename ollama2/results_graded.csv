@@ -1,0 +1,148 @@
+idx,question,gold,direct_answer,direct_correct,direct_uncertain,direct_hallucination,selfcrit_final,selfcrit_correct,selfcrit_uncertain,selfcrit_hallucination
+1,Ai là người đề xuất giả thuyết “RNA world” đầu tiên?,Carl Woese,"Không chắc chắn về ai là người đề xuất giả thuyết ""RNA world"" đầu tiên.",0,1,0,"Đáp án: Không chắc chắn về người đề xuất giả thuyết ""RNA world"" đầu tiên.
+
+Giải thích: Giả thuyết ""RNA world"" là một ý tưởng trong sinh học tiến hóa, cho rằng trên thế giới ban đầu, chỉ có RNA (axit ribonucleic) và các phân tử cơ bản khác, sau đó phát triển thành DNA và protein. Tuy nhiên, không có thông tin cụ thể về người đề xuất giả thuyết này.",0,1,0
+2,Phân tử nào là chất truyền tin thứ hai trong cơ thể liên quan đến AMP?,cAMP,Không chắc chắn.,0,1,0,"cuối cùng:
+
+Không chắc chắn, nhưng một chất truyền tin liên quan đến AMP có thể là ATP (Adenosine Triphosphate), vì nó cũng được sử dụng để truyền tín hiệu trong các hoạt động sinh học khác nhau. Tuy nhiên, không có thông tin cụ thể về việc AMP là ""chất truyền tin thứ hai"" trong cơ thể.",0,1,0
+3,Ngôn ngữ lập trình đầu tiên hỗ trợ OOP?,Simula,Không chắc chắn về ngôn ngữ lập trình đầu tiên hỗ trợ OOP (Object-Oriented Programming).,0,1,0,"Cuối cùng, tôi sẽ đưa ra đáp án:
+
+Không chắc chắn, nhưng một số nguồn cho rằng ngôn ngữ lập trình đầu tiên hỗ trợ OOP là Modula-3, được phát triển vào năm 1978.",0,1,0
+4,Ai là người phát minh thuật toán PageRank?,Larry Page & Sergey Brin,Người phát minh thuật toán PageRank là Google,0,0,1,"cuối cùng là: Larry Page.
+
+Tuy nhiên, tôi vẫn cần kiểm tra lại thông tin này với các nguồn đáng tin cậy khác để đảm bảo tính chính xác.",0,0,1
+5,Năm nào TCP/IP chính thức được áp dụng cho Internet?,1983,Năm 1985.,0,0,1,"Năm 1985 là năm TCP/IP chính thức được áp dụng cho Internet.
+
+Điểm có thể sai hoặc thiếu:
+
+- Không chắc chắn về năm cụ thể mà TCP/IP được áp dụng. Tuy nhiên, theo thông tin chung, năm 1985 là một trong những năm quan trọng đối với việc phổ biến và áp dụng TCP/IP cho internet.
+
+- Có thể không cần kiểm tra lại thông tin cụ thể về việc áp dụng TCP/IP cho internet.",0,1,0
+6,Quốc gia nào có nhiều múi giờ nhất thế giới (bao gồm lãnh thổ)?,Pháp,"Không chắc chắn về thông tin cụ thể về quốc gia có nhiều múi giờ nhất thế giới. Tuy nhiên, một số quốc gia nổi bật như Greenland, Iceland và các hòn đảo ở Bắc Cực, đều sử dụng múi giờ khác nhau tùy theo mùa hè hoặc mùa đông.",0,1,0,"Cuối cùng:
+  - Sau khi kiểm tra, được biết rằng Nga có nhiều múi giờ nhất thế giới bao gồm lãnh thổ vì nó trải rộng trên nhiều khu vực thời gian khác nhau.",0,0,1
+7,Cấu trúc tinh thể của kim cương thuộc hệ nào?,Lập phương,Cấu trúc tinh thể của kim cương thuộc hệ lập phương (cubic crystal system).,1,0,0,"cuối cùng
+Cấu trúc tinh thể của kim cương được xác định là hệ cubic, nhưng cần lưu ý rằng đây không phải là hệ cubic đơn giản nhất (cubic), mà nó có thể bao gồm các loại cubic khác.",0,1,0
+8,Ai là người đầu tiên mô tả virus?,Dmitri Ivanovsky,Không chắc.,0,1,0,"cuối cùng 
+
+Tôi không chắc chắn về người đầu tiên mô tả virus. Tuy nhiên, Luc Montagnier là một trong những nhà khoa học nổi tiếng nhất trong lĩnh vực virology và đã có đóng góp quan trọng cho việc khám phá và hiểu biết về virus.",0,1,0
+9,Tiêu chuẩn IEEE cho Wi-Fi 6 là gì?,802.11ax,"Wi-Fi 6 (còn được gọi là Wi-Fi 802.11ax) của IEEE được xác định bởi tiêu chuẩn sau:
+
+- Tốc độ cao hơn so với Wi-Fi 5 (802.11ac).
+- Có thể hỗ trợ từ 1.9 Gbps đến 9.6 Gbps.
+- Có khả năng giảm băng thông để cải thiện hiệu suất trong các mạng có nhiều thiết bị.
+
+Tiêu chuẩn này cũng đưa ra các tính năng khác như:
+
+- Mặc định phải truyền ít nhất bằng cách sử dụng một kênh không liên quan đến việc giảm tốc độ của các lớp lưu trữ khác.",1,1,0,"cuối cùng
+
+Tiêu chuẩn IEEE cho Wi-Fi 6 là 802.11ax, được công bố vào tháng 6 năm 2019 và cung cấp nhiều cải tiến so với các phiên bản trước của Wi-Fi, như tốc độ internet cao hơn, khả năng kết nối nhiều thiết bị đồng thời tăng lên, và hiệu suất trong môi trường có nhiều người dùng đồng thời tốt hơn.
+
+Nếu không chắc chắn về câu trả lời, tôi sẽ nói rõ rằng không chắc chắn.",1,1,0
+10,Tên thật của Turing Test lúc ban đầu?,Imitation Game,"Tên thật của Turing Test lúc ban đầu là ""Imitation Game"".",1,0,0,"cuối cùng: Tôi không chắc về thông tin này, nhưng tên thật của Turing Test ban đầu được cho là ""Đàn bà"" hoặc có thể là một câu hỏi không rõ ràng.",0,1,0
+11,Householder transformation thuộc ngành nào?,Đại số tuyến tính,"Householder transformation là một khái niệm trong toán học, cụ thể là trong lĩnh vực giải quyết phương trình tuyến tính và tối ưu hóa.",0,0,1,"Cuối cùng
+Householder transformation thuộc lĩnh vực hình ảnh và máy tính.",0,0,1
+12,Mức CO2 khí quyển trước thời kỳ công nghiệp khoảng bao nhiêu ppm?,~280 ppm,"Trước thời kỳ công nghiệp, lượng CO2 trong khí quyển được ước tính khoảng 280-300 ppm (phần triệu).",0,0,1,"cuối cùng
+ Không chắc chắn về mức độ chính xác của câu trả lời. Tuy nhiên, thông tin chung cho biết trước khi công nghiệp hóa, khí hậu trên Trái Đất có tính đến các yếu tố tự nhiên như diễn biến địa chất và thời tiết.",0,1,0
+13,Số lượng nhiễm sắc thể người Neanderthal?,46,Không chắc chắn.,0,1,0,"Cuối cùng, đáp án là: Người Neanderthal có 23 nhiễm sắc thể.",0,0,1
+14,Thành phần chính của khí quyển sao Kim?,CO₂,Không chắc chắn về thành phần chính của khí quyển Sao Kim.,0,1,0,"Để trả lời câu hỏi này một cách chính xác nhất, cần phải biết thông tin về khí quyển của sao Kim (hay còn gọi là Sao Hỏa). Tuy nhiên, tôi sẽ đưa ra thông tin chung được biết đến cho đến thời điểm kiến thức của tôi được cập nhật lần cuối vào tháng 12 năm 2023.
+
+Khí quyển của Sao Hỏa chủ yếu được tạo thành từ các khí như carbon dioxide (CO2), nitrogen (N2), và argon (Ar). Nhiều nghiên cứu cho rằng tỷ lệ thành phần này có thể thay đổi tùy thuộc vào nhiều yếu tố, bao gồm cả vị trí trên hành tinh và thời điểm đo.
+
+Tuy nhiên, cần lưu ý rằng thông tin về khí quyển của Sao Hỏa vẫn còn hạn chế và được tiếp tục nghiên cứu. Vì vậy, đây là một số điểm có thể ảnh hưởng đến tính chính xác của câu trả lời:
+
+- Khí quyển của Sao Hỏa có thể thay đổi do các yếu tố như hoạt động địa chất hoặc thời tiết.
+- Các nghiên cứu về khí quyển của Sao Hỏa vẫn đang được tiến hành và có thể dẫn đến việc cập nhật thông tin trong tương lai.
+
+Dựa trên thông tin hiện có, thành phần chính của khí quyển Sao Hỏa bao gồm carbon dioxide (CO2), nitrogen (N2) và argon (Ar).",0,1,0
+15,Bằng chứng trực tiếp đầu tiên về Big Bang là gì?,Vi bức xạ nền (CMB),Không chắc chắn về bằng chứng trực tiếp đầu tiên về Big Bang.,0,1,0,"cuối cùng: Góc sight Cosmic Microwave Background (CMB) là một bằng chứng quan trọng về Big Bang, nhưng nó không phải là bằng chứng trực tiếp đầu tiên. Bằng chứng trực tiếp đầu tiên về Big Bang thường được coi là sự phụ thuộc vật lý của các nguyên tố nhẹ trong vũ trụ, chẳng hạn như Hydro và Helium.
+
+Tuy nhiên, CMB vẫn là một bằng chứng quan trọng và đáng tin cậy, hỗ trợ cho thuyết Big Bang.",0,0,1
+16,Loài người tách khỏi tinh tinh khoảng bao nhiêu triệu năm?,6–7 triệu năm,Không chắc chắn về thời gian loài người tách khỏi tinh tinh.,0,1,0,"cuối cùng
+Không chắc chắn về số năm chính xác, nhưng theo hiện tượng học và sinh học, loài người và tinh tinh đã xuất hiện và phát triển độc lập khoảng 6-8 triệu năm trước.",0,1,0
+17,Ngân hàng trung ương lâu đời nhất thế giới?,Sveriges Riksbank,"Ngân hàng trung ương lâu đời nhất thế giới là Ngân hàng trung ương Liên minh (European Central Bank), được thành lập vào năm 1998.",0,0,1,cuối cùng là: Ngân hàng Trung ương Anh (Bank of England) là ngân hàng trung ương lâu đời nhất thế giới.,0,0,1
+18,RFC đầu tiên của Internet là năm nào?,1969,RFC đầu tiên của Internet được phát hành vào tháng 10 năm 1969.,1,0,0,"cuối cùng
+Không chắc chắn về tính chính xác của câu trả lời, nhưng RFC 1 là một trong những bản ghi tiêu chuẩn đầu tiên của Internet và được công bố vào năm 1969.",1,1,0
+19,Protein gấp nếp sai gây bệnh gì nổi bật?,Prion / Creutzfeldt-Jakob,"Không chắc chắn về thông tin cụ thể về protein gấp nếp sai gây bệnh nào nhất định. Tuy nhiên, protein gấp nếp (folding proteins) là một chủ đề quan trọng trong khoa học sinh học và y học, và sự cố sai ở cấp độ phân tử có thể dẫn đến nhiều loại bệnh và rối loạn khác nhau. Nếu bạn muốn biết thông tin cụ thể, vui lòng cung cấp thêm chi tiết hoặc liên hệ với các nguồn khoa học uy tín để tìm hiểu thêm.",0,1,0,"cuối cùng: Protein gấp nếp sai là beta-amyloid, nhưng thường nhất được nhắc đến trong hội chứng Alzheimers là tau, đồng thời protein gấp nếp alpha-synuclein cũng liên quan đến các bệnh như Parkinson.",0,0,1
+20,Hệ mã hóa ECC dùng trên Bitcoin?,secp256k1,"Không chắc chắn về hệ mã hóa ECC (Elliptic Curve Cryptography) được sử dụng trên Bitcoin. Tuy nhiên, được biết là Bitcoin sử dụng một loại mật khẩu công, không phải mã hóa ECC.",0,1,0,"cuối cùng
+
+Không chắc chắn về hệ mã hóa ECC được sử dụng trên Bitcoin. Tuy nhiên, theo thông tin công khai, Bitcoin sử dụng SHA-256 trong giao dịch và xác thực transactions, nhưng không rõ liệu nó có sử dụng ECC hay không. Để xác định chính xác hệ mã hóa ECC được sử dụng trên Bitcoin, cần tham khảo các nguồn tin cậy và thông tin từ người dùng của Bitcoin.",0,1,0
+21,Nhà toán học phát minh Fourier transform?,Joseph Fourier,"Không chắc, nhưng nhà toán học nổi tiếng có liên quan đến Fourier transform là Joseph Fourier.",1,1,0,"cuối cùng:
+
+Không chắc, nhưng thường được biết Joseph Fourier là người phát minh ra phương pháp giải tích Fourier transform.",1,1,0
+22,Axit amin bắt đầu phiên mã ở vi khuẩn?,Formyl-methionine,Không chắc.,0,1,0,"Cuối cùng, đáp án là: Axit amin không bắt đầu phiên mã ở vi khuẩn.",0,0,1
+23,Nguyên tố nào có điểm nóng chảy cao nhất?,Tungsten,Không chắc. Dưới đây là thông tin được biết đến: Osmium (Os) - với nhiệt độ nóng chảy khoảng 3033 độ C,0,1,0,"cuối cùng: Osmium (Os) là nguyên tố có điểm nóng chảy cao nhất, khoảng 3033°C.",0,0,1
+24,CPU đầu tiên của Intel?,Intel 4004,"CPU đầu tiên của Intel là 4004, được ra mắt vào năm 1971.",0,0,1,"CPU đầu tiên của Intel là Intel 4004, được phát hành vào năm 1971.
+
+Điểm có thể sai hoặc thiếu:
+
+- Không thông tin về thời gian sản xuất
+- Không thông tin về bộ vi xử lý có gì đặc biệt",1,1,0
+25,Hằng số Hubble xấp xỉ (km/s/Mpc)?,~70,"Hầu hết các tài liệu hiện đại cho rằng Hubble constant là khoảng 67,5 km/s/Mpc, song không chắc liệu có sự thống nhất hay không.",0,1,0,"cuối cùng
+
+Hằng số Hubble xấp xỉ là 67,8 km/s/Mpc. Tuy nhiên, cần lưu ý rằng thông tin này có thể thay đổi theo thời gian và nguồn gốc của hằng số này nên cần kiểm tra lại thông tin từ các nguồn uy tín nhất có thể.",0,1,0
+26,Lý thuyết “Gödel incompleteness” nói về điều gì?,Hệ tiên đề không thể đầy đủ và nhất quán,"Lý thuyết ""Gödel Incompleteness"" của Kurt Gödel nói rằng bất kỳ hệ thốnglogic nào đều có thể chứa những bài toán không thể giải quyết được, tức là có những khẳng định logic là đúng nhưng không thể chứng minh được. Điều này dẫn đến sự hạn chế về khả năng tổng quát và toàn diện của các hệ thống logic.",0,1,0,"Đáp án: ""Gödel Incompleteness"" là một lý thuyết toán học do Kurt Gödel phát triển, mô tả rằng bất kỳ hệ thống logic nào với các quy tắc chặt chẽ và đủ mạnh sẽ có ít nhất một câu đàm phán không thể giải quyết được.
+
+Điểm có thể sai hoặc thiếu:
+
+- Không rõ ràng về ""câu đàm phán"" như là gì.
+- Không nêu rõ mối quan hệ giữa ""Gödel Incompleteness"" và các khái niệm khác trong toán học hoặc logic.
+- Có thể không đề cập đến tất cả các kết quả và ảnh hưởng của lý thuyết Gödel Incompleteness.
+
+Tuy nhiên, đây là một đáp án ngắn gọn nhất có thể.",0,1,0
+27,Đơn vị đo entropi trong thông tin?,Bit,Đơn vị đo entropi trong thông tin là bit (bít).,1,0,0,cuối cùng: Bit.,1,0,0
+28,Số nguyên tố lớn nhất đã biết thuộc dạng gì?,Số Mersenne,Không chắc.,0,1,0,"cuối cùng:
+
+Không chắc chắn về độ chính xác của câu trả lời, nhưng tôi có thể nói rằng các số nguyên tố được biết đến phổ biến nhất trong thực tế thường ở dạng 2^n - 1 hoặc Mersenne prime. Các ví dụ bao gồm 3, 7, 31, 127... Tuy nhiên, để tìm ra số nguyên tố lớn nhất hiện tại vẫn là một vấn đề mở.",0,1,0
+29,Tập đoàn nào sản xuất chip M1?,Apple,Tập đoàn Apple sản xuất chip M1.,1,0,0,cuối cùng: Apple.,1,0,0
+30,Lần đầu nhân loại chụp ảnh lỗ đen năm nào?,2019,Không chắc.,0,1,0,"Cuối cùng: 
+Tôi không chắc chắn về câu trả lời vì không có thông tin chính xác về lần đầu tiên con người chụp ảnh lỗ đen.",0,1,0
+31,Bằng chứng hóa thạch lâu đời nhất khoảng bao nhiêu năm?,~3.5 tỷ năm,"Bằng chứng hóa thạch lâu đời nhất được tìm thấy ở vùng Horniman và thuộc địa Nam Cực, cách Trân Châu Cảng khoảng 1.300 km, có tuổi ước tính là khoảng 3,6 tỷ năm trước.",0,0,1,"Cuối cùng:
+
+Tôi không chắc chắn về tính chính xác của câu trả lời vì thông tin có thể thay đổi theo các công cụ và phương pháp phát hiện mới. Tuy nhiên, đá Acheron được coi là một trong những bằng chứng hóa thạch lâu đời nhất được biết đến cho tới thời điểm kiến thức của tôi được cập nhật lần cuối vào tháng 12 năm 2023.",0,1,0
+32,Nhiên liệu chính của mặt trời?,Hydro,Không chắc chắn.,0,1,0,"cuối cùng
+Nhiên liệu chính của mặt trời là Hydrogen.",1,0,0
+33,Quốc gia đầu tiên hợp pháp hóa Bitcoin làm tiền tệ?,El Salvador,Không chắc chắn.,0,1,0,"cuối cùng: Không chắc chắn, vì thông tin trên có thể chưa chính xác hoặc không đầy đủ. Tuy nhiên, nó được biết rằng một số quốc gia như Jamaica đã hợp pháp hóa Bitcoin làm tiền tệ ở cấp tiểu bang vào năm 2018.",0,1,0
+34,Ngôn ngữ Haskell đặt theo tên ai?,Haskell Curry,"Ngôn ngữ Haskell được đặt theo tên của Haskell Curry, một nhà toán học và logician người Anh.",1,0,0,"cuối cùng là:
+
+Haskell được đặt theo tên của Alfred Charles Whitehead và Bertrand Russell, nhưng cũng có thể liên kết đến George Boole.",0,1,0
+35,Dịch vụ DNS hoạt động trên cổng UDP nào?,53,Dịch vụ DNS hoạt động trên cổng UDP 53.,1,0,0,cuối cùng là: DNS hoạt động trên cổng UDP là 53.,1,0,0
+36,NLP viết tắt của gì?,Natural Language Processing,"NLP viết tắt của Natural Language Processing, tức là xử lý ngôn ngữ tự nhiên.",1,0,0,"cuối cùng
+NLP viết tắt chính xác là ""Natural Language Processing"" (xử lý ngôn ngữ tự nhiên).
+
+Nếu không chắc, tôi sẽ nói rằng không chắc chắn về thông tin trả lời.",1,1,0
+37,Không gian Hilbert thuộc nhánh nào?,Giải tích hàm,Không gian Hilbert thuộc Branching của hàm số hoán đổi (Fourier).,0,0,1,cuối cùng: Không gian Hilbert không thuộc một nhánh cụ thể mà là một khái niệm độc lập trong toán học.,0,0,1
+38,Hệ mã hóa RSA dựa trên vấn đề toán gì?,Phân tích thừa số số nguyên lớn,Hệ mã hóa RSA dựa trên vấn đề yếu tố số (factorization problem).,0,0,1,cuối cùng cho câu hỏi là: Hệ mã hóa RSA dựa trên vấn đề toán học của ước phân biệt trong số lớn.,0,0,1
+39,Cá thể sống đa bào cổ nhất là gì?,Porifera,Không chắc.,0,1,0,cuối cùng: Cá thể sống đa bào cổ nhất là Spongia (Sponge).,0,0,1
+40,“Red shift” trong thiên văn nghĩa là gì?,Giãn nở vũ trụ / vật thể rời xa,"""Red shift"" (giãn đỏ) là hiện tượng ánh sáng từ xa bị giãn màu đỏ hơn do sự di chuyển của vật thể away từ chúng ta.",0,0,1,"cuối cùng: Đồng đỏ (red shift) là một hiện tượng xảy ra khi ánh sáng từ xa bị kéo dài về màu đỏ do hiệu ứng Doppler của vũ trụ, làm thay đổi màu sắc ban đầu của ánh sáng.",0,0,1
+41,Ai phát minh Gradient Descent?,Cauchy,Không chắc.,0,1,0,"cuối cùng: David Rumelhart, Geoffrey Hinton và Ronald Williams đã phát triển Gradient Descent vào những năm 1980.",0,0,1
+42,Nước đầu tiên phóng vệ tinh nhân tạo?,Liên Xô,Không chắc.,0,1,0,Nước đầu tiên phóng vệ tinh nhân tạo là Liên Xô.,1,0,0
+43,Nhà toán học đứng sau lý thuyết Turing completeness?,Alan Turing,Không chắc chắn về ai đứng sau lý thuyết Turing completeness.,0,1,0,"cuối cùng: Tôi không chắc chắn về câu trả lời ban đầu, vì không có thông tin cụ thể về nhà toán học đứng sau lý thuyết Turing completeness. Tuy nhiên, Alan Turing là một trong những nhà toán học và nhà triết học nổi tiếng nhất thế giới và đã đóng góp nhiều vào lĩnh vực toán học, bao gồm cả lý thuyết Turing completeness. Nhưng không phải anh ta là người đặt ra lý thuyết này. Lý thuyết Turing completeness được đặt ra bởi Alan Turing nhưng tôi không tìm thấy thông tin cụ thể về người đứng sau nó.",1,1,0
+44,Đồng vị phóng xạ dùng trong PET scan?,Fluorine-18,Đồng vị phóng xạ thường được sử dụng trong PET scan là Fluorine-18 (¹ eight).,1,0,0,"cuối cùng:
+
+Đồng vị phóng xạ thường được sử dụng trong PET scan là Carbon-11 (11C) và Fluorine-18 (18F).",1,0,0
+45,Quantum tunneling là hiện tượng gì?,Hạt xuyên rào cấm lượng tử,"Quantum tunneling là hiện tượng khi một hạt như electron hoặc proton có đủ năng lượng, nó có thể vượt qua rào cản vật lý mà nếu chúng ta xét theo thuyết tương đối điển hình thì không thể đi qua. Hiện tượng này được phát minh lần đầu tiên vào năm 1928 bởi David Bohm và Erwin Schrödinger",0,1,0,"cuối cùng: Quantum tunneling là một hiện tượng vật lý xảy ra ở mức năng lượng thấp hơn so với năng lượng cơ bản của một hệ thống, cho phép các hạt như điện tử đi qua vùng có năng lượng cao hơn mà không bị cản trở.",0,0,1
+46,Nguyên tắc Heisenberg nói về điều gì?,Không thể biết chính xác đồng thời vị trí & động lượng,Nguyên tắc Heisenberg nói về khái niệm không thể đo chính xác cả vị trí và vận động của một vật tại cùng một thời điểm.,0,0,1,"cuối cùng: Nguyên tắc Heisenberg là một trong những nguyên tắc cơ bản trong lý thuyết vật lý, mô tả mối quan hệ giữa việc quan sát và trạng thái của một vật thể. Nguyên tắc này nói rằng việc đo lường hoặc quan sát một quan sát sẽ làm thay đổi trạng thái của nó.",0,0,1
+47,Loại sóng não khi ngủ sâu?,Delta,"Sóng não khi ngủ sâu được gọi là sóng delta (Δ). Sóng delta có tần số thấp nhất trong các loại sóng não, thường xuất hiện khi chúng ta ở trong giai đoạn giấc ngủ nặng và không dễ bị thức dậy.",1,0,0,"Cuối cùng, tôi nhận ra rằng:
+
+Đáp án: Loại sóng não thường được quan sát trong giai đoạn ngủ sâu là sóng Theta (theta waves) và sóng Delta (delta waves), cả hai đều có thể xuất hiện trong các giai đoạn ngủ khác nhau.",1,1,0
+48,Cơ chế chính của vaccine mRNA?,Dạy tế bào tạo protein kháng nguyên,"Cơ chế chính của vaccine mRNA là sử dụng DNA (mRNA) được tổng hợp từ gene có liên quan đến bệnh, sau đó chuyển hóa thành protein giống như protein tự nhiên của virus. Vaccine này kích thích hệ miễn dịch tạo ra các kháng thể và T细胞 có năng lực tấn công virus.",0,0,1,"Cơ chế chính của vaccine mRNA là sử dụng mRNA (messenger RNA) để kích hoạt hệ miễn dịch của cơ thể. Dưới đây là quá trình cụ thể:
+
+1.  Sử dụng gen của vi khuẩn hoặc virus để tạo ra mRNA.
+2.  Tiêm mRNA vào cơ thể người, nơi nó được mã hóa thành protein.
+3.  Protein này kích thích hệ miễn dịch của người nhận thức và tạo ra các tế bào miễn dịch có khả năng tấn công virus.
+4.  Dưới đây là một số điểm cần lưu ý: *   Vaccine mRNA không chứa DNA hoặc virus, nên an toàn cao.",0,0,1
+49,Mật mã lượng tử dựa trên tính chất gì?,Rối & bất định lượng tử,"Mật mã lượng tử dựa trên tính chất ""đồng bộ hóa"" và ""tích hợp"".",0,0,1,"cuối cùng:
+
+Mật mã lượng tử dựa trên tính chất của nguyên lý lượng tử, bao gồm tính không phân biệt, tính ngắt đoạn và tính bất định.",0,0,1
+50,Mô hình học sâu đầu tiên thắng ImageNet?,AlexNet,Không chắc.,0,1,0,"Đáp án:
+
+Mô hình học sâu đầu tiên thắng ImageNet là AlexNet.
+
+Tuy nhiên, tôi cần tự kiểm lại để đảm bảo tính chính xác của câu trả lời. Dưới đây là điểm có thể sai hoặc thiếu:
+
+- Điểm có thể sai: không chắc chắn về mô hình học sâu đầu tiên thắng ImageNet.
+- Điểm có thể thiếu: không cung cấp thông tin về cách thức AlexNet thắng ImageNet.
+
+Sau khi kiểm tra, tôi kết luận rằng:
+
+Đáp án đúng là AlexNet. AlexNet được phát triển bởi Alex Krizhevsky, Ilya Sutskever và Geoffrey Hinton vào năm 2012 và đã thắng tại cuộc thi ImageNet Large Scale Visual Recognition Challenge (ILSVRC) với tỉ lệ xác suất 82,9%.",1,1,0
