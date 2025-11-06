@@ -47,7 +47,10 @@ Thumbs.db
 
 # Project specific
 configs/config.json
-data/results/*/
+data/results/*/*.csv
+data/results/*/*.json
+data/results/*/*.txt
+!data/results/*/README.md
 *.log
 logs/
 

@@ -52,7 +52,18 @@ def load_all_existing_results(results_dir=None):
     results_path = Path(results_dir)
     if not results_path.exists():
         if 'st' in globals():
-            st.warning(f"Results directory not found: {results_dir}")
+            st.info(f"""
+            📊 **Welcome to Enhanced Hallucination Detection Dashboard!**
+            
+            This dashboard analyzes LLM hallucination patterns across 4 models.
+            
+            **To get started:**
+            1. Run experiments using the main application 
+            2. Results will appear in: `{results_dir}`
+            3. Return here to view comprehensive analytics
+            
+            **Currently showing demo mode** - the directory structure is ready for your experiments!
+            """)
         else:
             print(f"Results directory not found: {results_dir}")
         return results_data
