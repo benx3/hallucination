@@ -1,5 +1,5 @@
-# app.py - Giao diện UI cho Hallucination Detection Research
-# REQUIRE: pip install streamlit pandas plotly
+# app.py - Enhanced Hallucination Detection Research Dashboard
+# Optimized for Streamlit Cloud deployment
 
 import streamlit as st
 import pandas as pd
@@ -15,20 +15,76 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import sys
 
-# Add parent directory to path for imports
-parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-sys.path.append(parent_dir)
-sys.path.append(os.path.join(parent_dir, 'configs'))
-sys.path.append(os.path.join(parent_dir, 'src'))
-sys.path.append(os.path.join(parent_dir, 'ui'))
+# Streamlit Cloud compatible path setup
+def setup_paths():
+    """Setup import paths for both local and Streamlit Cloud environments"""
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    parent_dir = os.path.dirname(current_dir)
+    
+    # Add paths for imports
+    paths_to_add = [
+        parent_dir,
+        os.path.join(parent_dir, 'configs'),
+        os.path.join(parent_dir, 'src'),
+        os.path.join(parent_dir, 'ui'),
+        current_dir
+    ]
+    
+    for path in paths_to_add:
+        if path not in sys.path:
+            sys.path.append(path)
+    
+    return parent_dir
 
+# Setup paths
+parent_dir = setup_paths()
+
+# Streamlit Cloud secrets support
+def get_api_keys():
+    """Get API keys from Streamlit secrets or environment variables"""
+    api_keys = {}
+    
+    # Try Streamlit secrets first (for Streamlit Cloud)
+    if hasattr(st, 'secrets'):
+        try:
+            api_keys['openai'] = st.secrets.get("OPENAI_API_KEY", "")
+            api_keys['deepseek'] = st.secrets.get("DEEPSEEK_API_KEY", "")
+            api_keys['google'] = st.secrets.get("GOOGLE_API_KEY", "")
+            api_keys['ollama_url'] = st.secrets.get("OLLAMA_BASE_URL", "http://localhost:11434")
+        except Exception:
+            pass
+    
+    # Fallback to environment variables
+    if not any(api_keys.values()):
+        api_keys['openai'] = os.getenv("OPENAI_API_KEY", "")
+        api_keys['deepseek'] = os.getenv("DEEPSEEK_API_KEY", "")
+        api_keys['google'] = os.getenv("GOOGLE_API_KEY", "")
+        api_keys['ollama_url'] = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
+    
+    return api_keys
+
+# Handle imports with error handling for Streamlit Cloud
 try:
-    # Dynamic import cho config manager
+    # Try to import config manager
     configs_path = os.path.join(parent_dir, 'configs', 'config_manager.py')
-    spec = importlib.util.spec_from_file_location("config_manager", configs_path)
-    config_manager_module = importlib.util.module_from_spec(spec)
-    spec.loader.exec_module(config_manager_module)
-    ConfigManager = config_manager_module.ConfigManager
+    if os.path.exists(configs_path):
+        spec = importlib.util.spec_from_file_location("config_manager", configs_path)
+        config_manager_module = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(config_manager_module)
+        ConfigManager = config_manager_module.ConfigManager
+    else:
+        # Fallback for Streamlit Cloud if config_manager.py not available
+        class ConfigManager:
+            def __init__(self):
+                self.config = get_api_keys()
+            
+            def get_config(self):
+                return self.config
+            
+            def is_api_configured(self, api_name):
+                return bool(self.config.get(api_name))
+        
+        st.info("🔧 Using simplified configuration for cloud deployment")
     
     # Import từ ui folder  
     from experiment_runner import ExperimentRunner  
@@ -430,7 +486,7 @@ def main():
             st.subheader("API Performance Comparison")
             comparison_chart = create_api_comparison_chart(existing_results)
             if comparison_chart:
-                st.plotly_chart(comparison_chart, use_container_width=True)
+                st.plotly_chart(comparison_chart, width='stretch')
             else:
                 st.info("No comparison data available")
             
@@ -438,13 +494,13 @@ def main():
             st.subheader("Hallucination Analysis by API")
             hallu_chart = create_hallucination_analysis_chart(existing_results)
             if hallu_chart:
-                st.plotly_chart(hallu_chart, use_container_width=True)
+                st.plotly_chart(hallu_chart, width='stretch')
         
         with tab2:
             st.subheader("Detailed Performance Metrics")
             metrics_table = create_detailed_metrics_table(existing_results)
             if metrics_table is not None:
-                st.dataframe(metrics_table, use_container_width=True)
+                st.dataframe(metrics_table, width='stretch')
             else:
                 st.info("No detailed metrics available")
         
@@ -697,33 +753,45 @@ def main():
                 if st.button("🔍 Generate Comprehensive Analysis", type="primary"):
                     try:
                         with st.spinner("Analyzing hallucination patterns across all APIs..."):
-                            # Import and run comprehensive analysis
-                            from comprehensive_hallucination_analysis import generate_comprehensive_hallucination_report
+                            # Use existing enhanced analytics instead
+                            st.info("📊 Using enhanced analytics from loaded results...")
                             
-                            output_path, stats, recommendations = generate_comprehensive_hallucination_report(
-                                "comprehensive_hallucination_analysis.docx"
-                            )
-                            
-                            st.success(f"✅ Comprehensive analysis completed!")
-                            
-                            # Show key insights
-                            st.write("**Key Insights:**")
-                            total_hallucinations = sum([data['total_hallucinations'] for data in stats.values()])
-                            most_problematic = max(stats.keys(), key=lambda x: stats[x]['total_hallucinations']) if stats else 'None'
-                            
-                            st.write(f"• Total hallucination cases analyzed: {total_hallucinations}")
-                            st.write(f"• Most problematic question type: {most_problematic}")
-                            st.write(f"• Question types analyzed: {len(stats)}")
-                            
-                            # Show download button
-                            if os.path.exists(output_path):
-                                with open(output_path, "rb") as file:
-                                    st.download_button(
-                                        label="📥 Download Comprehensive Analysis",
-                                        data=file.read(),
-                                        file_name="comprehensive_hallucination_analysis.docx",
-                                        mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document"
-                                    )
+                            # Calculate comprehensive stats from loaded data
+                            all_results = load_all_existing_results()
+                            if all_results:
+                                total_cases = len(all_results)
+                                hallucination_cases = extract_hallucination_cases(all_results)
+                                total_hallucinations = len(hallucination_cases)
+                                
+                                st.success(f"✅ Analysis completed! Found {total_hallucinations} hallucination cases out of {total_cases} total cases.")
+                                
+                                # Show key insights
+                                st.write("**Key Insights:**")
+                                
+                                # API breakdown
+                                api_stats = {}
+                                for case in hallucination_cases:
+                                    api = case.get('API', 'Unknown')
+                                    if api not in api_stats:
+                                        api_stats[api] = 0
+                                    api_stats[api] += 1
+                                
+                                most_problematic = max(api_stats.keys(), key=lambda x: api_stats[x]) if api_stats else 'None'
+                                
+                                st.write(f"• Total hallucination cases analyzed: {total_hallucinations}")
+                                st.write(f"• Most problematic API: {most_problematic}")
+                                st.write(f"• APIs analyzed: {len(api_stats)}")
+                                
+                                # Show breakdown by API
+                                if api_stats:
+                                    st.write("**Breakdown by API:**")
+                                    for api, count in sorted(api_stats.items(), key=lambda x: x[1], reverse=True):
+                                        st.write(f"  - {api}: {count} cases")
+                            else:
+                                st.warning("No data available for analysis. Please run experiments first.")
+                                
+                            # Note about comprehensive analysis
+                            st.info("💡 **Note**: This analysis uses existing result data. For detailed Word report generation, use the individual API analysis features above.")
                                     
                     except Exception as e:
                         st.error(f"Error generating comprehensive analysis: {e}")
@@ -868,7 +936,7 @@ def main():
             # Metrics comparison chart
             chart = create_metrics_chart(st.session_state.experiment_results)
             if chart:
-                st.plotly_chart(chart, use_container_width=True)
+                st.plotly_chart(chart, width='stretch')
             else:
                 st.info("No metrics data available for visualization")
             
@@ -923,7 +991,7 @@ def main():
                     })
             
             if detailed_data:
-                st.dataframe(pd.DataFrame(detailed_data), use_container_width=True)
+                st.dataframe(pd.DataFrame(detailed_data), width='stretch')
         
         with tab3:
             # Export options
