@@ -1,0 +1,43 @@
+{
+  "total_questions": 25,
+  "total_responses": 50,
+  "direct_prompt": {
+    "total": 25,
+    "correct": 8,
+    "hallucinated": 14,
+    "uncertain": 3,
+    "accuracy": 32.0,
+    "hallucination_rate": 56.0,
+    "uncertainty_rate": 12.0,
+    "overconfidence_score": 44.0
+  },
+  "self_critique_prompt": {
+    "total": 25,
+    "correct": 10,
+    "hallucinated": 10,
+    "uncertain": 5,
+    "accuracy": 40.0,
+    "hallucination_rate": 40.0,
+    "uncertainty_rate": 20.0,
+    "overconfidence_score": 20.0
+  },
+  "overall": {
+    "total": 50,
+    "correct": 18,
+    "hallucinated": 24,
+    "uncertain": 8,
+    "accuracy": 36.0,
+    "hallucination_rate": 48.0,
+    "uncertainty_rate": 16.0,
+    "improvement": {
+      "accuracy_gain": 8.0,
+      "hallucination_reduction": 16.0,
+      "uncertainty_increase": 8.0
+    }
+  },
+  "model_info": {
+    "name": "Llama 3.2 Local (Demo)",
+    "provider": "ollama",
+    "dataset": "scientific_facts_demo"
+  }
+}

@@ -1,0 +1,8 @@
+question,correct_answer,model_response,prompt_type,is_correct,is_uncertain,is_hallucinated,response_time,model_name,dataset
+"Tốc độ ánh sáng trong chân không là bao nhiêu?","3×10^8 m/s","Tốc độ ánh sáng trong chân không là 299,792,458 m/s, thường được làm tròn thành 3×10^8 m/s.",direct,True,False,False,1.2,gemini-pro,scientific_facts_demo
+"Ai phát minh ra bóng đèn điện?","Thomas Edison","Thomas Edison phát minh ra bóng đèn điện đầu tiên vào năm 1879.",direct,True,False,False,0.8,gemini-pro,scientific_facts_demo
+"Nguyên tố nào có ký hiệu hóa học Au?","Vàng","Au là ký hiệu hóa học của vàng (gold).",direct,True,False,False,0.9,gemini-pro,scientific_facts_demo
+"Động vật nào là vua của rừng xanh?","Sư tử","Sư tử được gọi là vua của rừng xanh vì sức mạnh và sự thống trị của chúng.",direct,False,False,True,1.1,gemini-pro,scientific_facts_demo
+"Có bao nhiêu lục địa trên Trái Đất?","7","Trái Đất có 7 lục địa: Châu Á, Châu Âu, Châu Phi, Bắc Mỹ, Nam Mỹ, Châu Đại Dương và Nam Cực.",direct,True,False,False,1.0,gemini-pro,scientific_facts_demo
+"Tốc độ ánh sáng trong chân không là bao nhiêu?","3×10^8 m/s","Tôi cần kiểm tra lại thông tin này. Tốc độ ánh sáng trong chân không là một hằng số vật lý quan trọng, khoảng 299,792,458 m/s hay 3×10^8 m/s.",self_critique,True,True,False,2.3,gemini-pro,scientific_facts_demo
+"Ai phát minh ra bóng đèn điện?","Thomas Edison","Cần xem xét kỹ hơn. Mặc dù Thomas Edison thường được cho là người phát minh bóng đèn, nhưng thực tế có nhiều người đã đóng góp vào sự phát triển của bóng đèn điện.",self_critique,True,True,False,2.8,gemini-pro,scientific_facts_demo

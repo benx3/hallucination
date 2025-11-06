@@ -1,0 +1,905 @@
+idx,question,answer,direct_answer,selfcrit_answer,selfcrit_final_span,api,model,gold_answer,direct_correct,direct_uncertain,direct_hallucination,selfcrit_correct,selfcrit_uncertain,selfcrit_hallucination
+1,Ngôi sao neutron có khối lượng trung bình bao nhiêu lần khối lượng Mặt Trời?,1.4 lần khối lượng Mặt Trời,Ngôi sao neutron có khối lượng trung bình khoảng 1.4 lần khối lượng Mặt Trời.,"**Bước 1 — Nháp:** Ngôi sao neutron có khối lượng trung bình khoảng 1.4 lần khối lượng Mặt Trời.
+
+**Bước 2 — Tự kiểm:**
+- Có thể ngôi sao neutron thay đổi khối lượng trong một số trường hợp.
+- Có thể thông tin về khối lượng trung bình chưa chính xác hoặc cần thêm thông tin về các yếu tố ảnh hưởng.
+
+**Bước 3 — Đáp án cuối cùng:** Ngôi sao neutron thường có khối lượng khoảng từ 1.1 đến 2.0 lần khối lượng Mặt Trời, với khối lượng trung bình có thể lấy là khoảng 1.4 lần. Tuy nhiên, khối lượng chính xác có thể thay đổi tùy thuộc vào lịch sử hình thành của ngôi sao.","cuối cùng:** Ngôi sao neutron thường có khối lượng khoảng từ 1.1 đến 2.0 lần khối lượng Mặt Trời, với khối lượng trung bình có thể lấy là khoảng 1.4 lần. Tuy nhiên, khối lượng chính xác có thể thay đổi tùy thuộc vào lịch sử hình thành của ngôi sao.",openai,gpt-4o-mini,1.4 lần khối lượng Mặt Trời,True,False,False,False,True,False
+2,Hố đen siêu khối lượng lớn nhất được phát hiện có khối lượng bao nhiêu?,Khoảng 66 tỷ lần khối lượng Mặt Trời,"Hố đen siêu khối lượng lớn nhất được phát hiện có khối lượng khoảng 66 tỷ lần khối lượng Mặt Trời, được đặt tên là TON 618.","Bước 1 — Nháp: Hố đen siêu khối lượng lớn nhất được phát hiện tính đến thời điểm hiện tại là hố đen trong thiên hà NGC 4889, có khối lượng khoảng 21 tỷ lần khối lượng Mặt Trời.
+
+Bước 2 — Tự kiểm: 
+- Cần xác minh thông tin về khối lượng chính xác của hố đen.
+- Kiểm tra xem NGC 4889 có phải là hố đen siêu khối lượng lớn nhất hiện tại không, hay có hố đen khác được phát hiện gần đây hơn.
+- Đảm bảo không bỏ qua các nguồn thông tin khác từ những nghiên cứu mới.
+
+Bước 3 — Đáp án cuối cùng: Hố đen siêu khối lượng lớn nhất được phát hiện tính đến thời điểm hiện tại là hố đen trong thiên hà NGC 4889, với khối lượng khoảng 21 tỷ lần khối lượng Mặt Trời. Tuy nhiên, cần lưu ý rằng thông tin về hố đen có thể được cập nhật và thay đổi theo các nghiên cứu mới, vì vậy luôn cần kiểm tra các tài liệu khoa học gần đây để đảm bảo tính chính xác.","cuối cùng: Hố đen siêu khối lượng lớn nhất được phát hiện tính đến thời điểm hiện tại là hố đen trong thiên hà NGC 4889, với khối lượng khoảng 21 tỷ lần khối lượng Mặt Trời. Tuy nhiên, cần lưu ý rằng thông tin về hố đen có thể được cập nhật và thay đổi theo các nghiên cứu mới, vì vậy luôn cần kiểm tra các tài liệu khoa học gần đây để đảm bảo tính chính xác.",openai,gpt-4o-mini,Khoảng 66 tỷ lần khối lượng Mặt Trời,True,False,False,False,True,False
+3,Khoảng cách từ Trái Đất đến trung tâm Ngân Hà là bao nhiêu?,Khoảng 26000 năm ánh sáng,Khoảng cách từ Trái Đất đến trung tâm Ngân Hà là khoảng 26.000 năm ánh sáng.,"Bước 1 — Nháp: Khoảng cách từ Trái Đất đến trung tâm Ngân Hà (nơi có hố đen siêu khối lượng Sagittarius A*) là khoảng 26.000 ánh sáng.
+
+Bước 2 — Tự kiểm:
+- Khoảng cách có thể được đo bằng các đơn vị khác nhau (ánh sáng, parsec, km).
+- Cần nêu rõ hơn về đơn vị đo ( chẳng hạn như parsec).
+- Cũng nên xác định rằng khoảng cách này có thể thay đổi do sự di chuyển của các thiên thể.
+
+Bước 3 — Đáp án cuối cùng: Khoảng cách từ Trái Đất đến trung tâm Ngân Hà là khoảng 26.000 ánh sáng, tương đương với khoảng 8.000 parsec hoặc 24.000.000.000.000 km. Khoảng cách này có thể bị ảnh hưởng bởi sự chuyển động của các thiên thể trong thiên hà.","cuối cùng: Khoảng cách từ Trái Đất đến trung tâm Ngân Hà là khoảng 26.000 ánh sáng, tương đương với khoảng 8.000 parsec hoặc 24.000.000.000.000 km. Khoảng cách này có thể bị ảnh hưởng bởi sự chuyển động của các thiên thể trong thiên hà.",openai,gpt-4o-mini,Khoảng 26000 năm ánh sáng,False,False,True,False,True,False
+4,Sóng hấp dẫn đầu tiên được phát hiện vào năm nào?,2015,Sóng hấp dẫn đầu tiên được phát hiện vào năm 2015.,"**Bước 1 — Nháp:** Sóng hấp dẫn đầu tiên được phát hiện vào năm 2015.
+
+**Bước 2 — Tự kiểm:**
+- Kiểm tra năm phát hiện: Đúng là năm 2015.
+- Kiểm tra nguồn thông tin: Sóng hấp dẫn được phát hiện bởi hệ thống LIGO.
+- Có thể cần bổ sung thông tin về sự kiện phát hiện và tầm quan trọng của nó.
+
+**Bước 3 — Đáp án cuối cùng:** Sóng hấp dẫn đầu tiên được phát hiện vào năm 2015, cụ thể vào ngày 14 tháng 9. Sự kiện này được thông báo bởi LIGO và đánh dấu một bước ngoặt quan trọng trong ngành vật lý thiên văn và nghiên cứu thuyết tương đối của Einstein.","cuối cùng:** Sóng hấp dẫn đầu tiên được phát hiện vào năm 2015, cụ thể vào ngày 14 tháng 9. Sự kiện này được thông báo bởi LIGO và đánh dấu một bước ngoặt quan trọng trong ngành vật lý thiên văn và nghiên cứu thuyết tương đối của Einstein.",openai,gpt-4o-mini,2015,True,False,False,True,False,False
+5,Hằng số Hubble hiện tại có giá trị xấp xỉ là bao nhiêu?,70 km/s/Mpc,Hằng số Hubble hiện tại có giá trị xấp xỉ 70 km/s/Mpc.,"Bước 1 — Nháp: Hằng số Hubble hiện tại xấp xỉ là 70 km/s/Mpc.
+
+Bước 2 — Tự kiểm: 
+1. Kiểm tra giá trị: 70 km/s/Mpc có phải là giá trị phổ biến và chấp nhận được không? Nhiều nguồn tài liệu đưa ra giá trị khoảng 67-75 km/s/Mpc.
+2. Kiểm tra xem các yếu tố khác có thể ảnh hưởng đến giá trị này không (như đo lường, phương pháp v.v.)
+
+Bước 3 — Đáp án cuối cùng: Hằng số Hubble hiện tại được ước lượng xấp xỉ từ 67 đến 75 km/s/Mpc, và giá trị 70 km/s/Mpc là một ước lượng phổ biến. Tuy nhiên, con số chính xác có thể thay đổi tùy thuộc vào phương pháp đo lường cụ thể.","cuối cùng: Hằng số Hubble hiện tại được ước lượng xấp xỉ từ 67 đến 75 km/s/Mpc, và giá trị 70 km/s/Mpc là một ước lượng phổ biến. Tuy nhiên, con số chính xác có thể thay đổi tùy thuộc vào phương pháp đo lường cụ thể.",openai,gpt-4o-mini,70 km/s/Mpc,True,False,False,True,True,False
+6,Vụ nổ gamma ray burst xa nhất được quan sát có redshift là bao nhiêu?,z ≈ 9.4,Vụ nổ gamma ray burst xa nhất được quan sát có redshift khoảng 9.4.,"Bước 1 — Nháp: Vụ nổ gamma ray burst xa nhất được quan sát tính đến thời điểm 2023 có redshift khoảng z = 9.4.
+
+Bước 2 — Tự kiểm: 
+- Cần kiểm tra xem có vụ nổ gamma ray burst nào khác với redshift lớn hơn z = 9.4 đã được quan sát gần đây không.
+- Cần xem xét ngày phát hiện và nghiên cứu có tương ứng với thông tin mới nhất không.
+
+Bước 3 — Đáp án cuối cùng: Vụ nổ gamma ray burst xa nhất được quan sát tính đến thời điểm hiện tại có redshift khoảng z = 9.4. Tuy nhiên, thông tin này có thể thay đổi do những quan sát mới trong tương lai.","cuối cùng: Vụ nổ gamma ray burst xa nhất được quan sát tính đến thời điểm hiện tại có redshift khoảng z = 9.4. Tuy nhiên, thông tin này có thể thay đổi do những quan sát mới trong tương lai.",openai,gpt-4o-mini,z ≈ 9.4,False,False,True,False,True,False
+7,Hành tinh ngoài hệ Mặt Trời đầu tiên quay quanh ngôi sao dãy chính được phát hiện vào năm nào?,1995 (51 Pegasi b),Hành tinh ngoài hệ Mặt Trời đầu tiên quay quanh ngôi sao dãy chính được phát hiện vào năm 1995.,"**Bước 1 — Nháp:** Hành tinh ngoài hệ Mặt Trời đầu tiên quay quanh ngôi sao dãy chính được phát hiện vào năm 1995.
+
+**Bước 2 — Tự kiểm:** 
+1. Hành tinh này là 51 Pegasi b.
+2. Năm phát hiện là 1995, nhưng cần xác nhận thêm thông tin về ngôi sao và hành tinh.
+3. Cần kiểm tra xem có hàng loạt hành tinh nào khác được phát hiện trước 1995 hay không.
+
+**Bước 3 — Đáp án cuối cùng:** Hành tinh ngoài hệ Mặt Trời đầu tiên quay quanh ngôi sao dãy chính được phát hiện là 51 Pegasi b vào năm 1995. Đây là thông tin chính xác.",cuối cùng:** Hành tinh ngoài hệ Mặt Trời đầu tiên quay quanh ngôi sao dãy chính được phát hiện là 51 Pegasi b vào năm 1995. Đây là thông tin chính xác.,openai,gpt-4o-mini,1995 (51 Pegasi b),False,False,True,False,False,True
+8,Kính thiên văn không gian James Webb có gương chính đường kính bao nhiêu?,6.5 mét,"Gương chính của kính thiên văn không gian James Webb có đường kính 6,5 mét.","Bước 1 — Nháp: Gương chính của kính thiên văn không gian James Webb có đường kính khoảng 6,5 mét.
+
+Bước 2 — Tự kiểm:
+1. Kiểm tra thông số kỹ thuật: Đúng, gương chính có đường kính 6,5 mét.
+2. Kiểm tra thông tin bổ sung: Có thể cần nêu rõ hơn về cấu trúc gương hoặc công nghệ nếu người hỏi cần thông tin chi tiết hơn.
+
+Bước 3 — Đáp án cuối cùng: Gương chính của kính thiên văn không gian James Webb có đường kính 6,5 mét. Thông tin này là chính xác.","cuối cùng: Gương chính của kính thiên văn không gian James Webb có đường kính 6,5 mét. Thông tin này là chính xác.",openai,gpt-4o-mini,6.5 mét,False,False,True,False,False,True
+9,Nhiệt độ bức xạ nền vũ trụ là bao nhiêu Kelvin?,2.725 K,"Nhiệt độ bức xạ nền vũ trụ khoảng 2,7 Kelvin.","Bước 1 — Nháp: Nhiệt độ bức xạ nền vũ trụ khoảng 2.7 Kelvin.
+
+Bước 2 — Tự kiểm:
+- Nhiệt độ bức xạ nền vũ trụ được xác định chính xác là khoảng 2.725 Kelvin, nhưng thường được làm tròn thành 2.7 Kelvin.
+- Có thể cần lưu ý về độ chính xác của nhiệt độ vì có thể thay đổi một chút theo thời gian và phương pháp đo.
+
+Bước 3 — Đáp án cuối cùng: Nhiệt độ bức xạ nền vũ trụ là khoảng 2.725 Kelvin.",cuối cùng: Nhiệt độ bức xạ nền vũ trụ là khoảng 2.725 Kelvin.,openai,gpt-4o-mini,2.725 K,False,False,True,True,False,False
+10,Ngôi sao Proxima Centauri cách Trái Đất bao nhiêu năm ánh sáng?,4.24 năm ánh sáng,"Ngôi sao Proxima Centauri cách Trái Đất khoảng 4,24 năm ánh sáng.","Bước 1 — Nháp: Proxima Centauri cách Trái Đất khoảng 4.24 năm ánh sáng.
+
+Bước 2 — Tự kiểm: 
+- Kiểm tra số liệu: Proxima Centauri là ngôi sao gần nhất với Hệ Mặt Trời và thông tin về khoảng cách là chính xác.
+- Xem xét định nghĩa: 1 năm ánh sáng là khoảng cách mà ánh sáng đi được trong một năm.
+- Xem xét liệu có thông tin bổ sung nào cần thiết không: Nên đề cập rằng Proxima Centauri thuộc chòm sao Centaurus.
+
+Bước 3 — Đáp án cuối cùng: Proxima Centauri cách Trái Đất khoảng 4.24 năm ánh sáng và nó là ngôi sao gần nhất với chúng ta, thuộc chòm sao Centaurus.","cuối cùng: Proxima Centauri cách Trái Đất khoảng 4.24 năm ánh sáng và nó là ngôi sao gần nhất với chúng ta, thuộc chòm sao Centaurus.",openai,gpt-4o-mini,4.24 năm ánh sáng,False,False,True,True,False,False
+11,Năng lượng tối chiếm bao nhiêu phần trăm vũ trụ?,Khoảng 68%,Năng lượng tối chiếm khoảng 68% vũ trụ.,"Bước 1 — Nháp: Năng lượng tối chiếm khoảng 68% vũ trụ.
+
+Bước 2 — Tự kiểm:
+- Kiểm tra xem số liệu có được cập nhật nhất không.
+- Đảm bảo rằng không nhầm lẫn với năng lượng vật chất hoặc năng lượng tối.
+
+Bước 3 — Đáp án cuối cùng: Năng lượng tối chiếm khoảng 68% của tổng năng lượng vũ trụ, theo các quan sát và mô hình hiện tại. Tôi tự tin rằng thông tin này là chính xác.","cuối cùng: Năng lượng tối chiếm khoảng 68% của tổng năng lượng vũ trụ, theo các quan sát và mô hình hiện tại. Tôi tự tin rằng thông tin này là chính xác.",openai,gpt-4o-mini,Khoảng 68%,True,False,False,True,False,False
+12,Chu kỳ quay của lỗ đen Sagittarius A* là bao nhiêu?,Khoảng 11.2 phút,Không chắc.,"### Bước 1 — Nháp
+Chu kỳ quay của lỗ đen Sagittarius A* không thể được xác định chính xác bởi vì nó không quay theo một chu kỳ đơn giản như các thiên thể khác. Tuy nhiên, các nghiên cứu cho thấy rằng các ngôi sao xung quanh, như sao S2, mất khoảng 15 năm để quay quanh Sagittarius A*.
+
+### Bước 2 — Tự kiểm
+1. **Điểm có thể sai**: 
+   - Đã đưa ra thông tin về chu kỳ của ngôi sao S2 chứ không phải chu kỳ quay của chính lỗ đen.
+   - Không chắc chắn về độ chính xác của thông tin về các ngôi sao khác xung quanh lỗ đen.
+
+2. **Điểm thiếu**: 
+   - Cần làm rõ rằng lỗ đen không có chu kỳ quay đơn giản, mà là một cấu trúc rất phức tạp.
+   - Thoracy về việc quay của lỗ đen và ảnh hưởng đến không gian xung quanh cũng cần được nhắc đến.
+
+### Bước 3 — Đáp án cuối cùng
+Lỗ đen Sagittarius A* không có chu kỳ quay đơn giản, và thông tin thường được liên kết là chu kỳ quay của ngôi sao S2 mất khoảng 15 năm để quay quanh. Nếu xem xét lỗ đen, nó có thể có một vận tốc quay nhất định nhưng không được định nghĩa như các thiên thể khác. Do đó, không có một ""chu kỳ quay"" chính xác nào của lỗ đen Sagittarius A*.","cuối cùng
+Lỗ đen Sagittarius A* không có chu kỳ quay đơn giản, và thông tin thường được liên kết là chu kỳ quay của ngôi sao S2 mất khoảng 15 năm để quay quanh. Nếu xem xét lỗ đen, nó có thể có một vận tốc quay nhất định nhưng không được định nghĩa như các thiên thể khác. Do đó, không có một ""chu kỳ quay"" chính xác nào của lỗ đen Sagittarius A*.",openai,gpt-4o-mini,Khoảng 11.2 phút,False,True,False,False,True,False
+13,Ngôi sao siêu khổng lồ đỏ lớn nhất hiện biết có bán kính bao nhiêu lần Mặt Trời?,Khoảng 2000 lần (Stephenson 2-18),"Ngôi sao siêu khổng lồ đỏ lớn nhất hiện biết, UY Scuti, có bán kính khoảng 1.700 lần bán kính Mặt Trời.","Bước 1 — Nháp: Ngôi sao siêu khổng lồ đỏ lớn nhất hiện biết là UY Scuti, có bán kính khoảng 1.700 lần bán kính Mặt Trời.
+
+Bước 2 — Tự kiểm: 
+- Kiểm tra thông tin về UY Scuti: đáng tin cậy và có thể kiểm chứng.
+- So sánh với các ngôi sao siêu khổng lồ khác như VY Canis Majoris, Betelgeuse.
+- Đảm bảo không có thông tin lỗi về bán kính.
+
+Bước 3 — Đáp án cuối cùng: Ngôi sao siêu khổng lồ đỏ lớn nhất hiện biết là UY Scuti, có bán kính khoảng 1.700 lần bán kính Mặt Trời. Thông tin đáng tin cậy và chính xác.","cuối cùng: Ngôi sao siêu khổng lồ đỏ lớn nhất hiện biết là UY Scuti, có bán kính khoảng 1.700 lần bán kính Mặt Trời. Thông tin đáng tin cậy và chính xác.",openai,gpt-4o-mini,Khoảng 2000 lần (Stephenson 2-18),False,False,True,False,False,True
+14,Tốc độ ánh sáng trong chân không là bao nhiêu km/s?,299792458 km/s,"Tốc độ ánh sáng trong chân không là khoảng 299,792 km/s.","Bước 1 — Nháp: Tốc độ ánh sáng trong chân không là khoảng 299,792 km/s.
+
+Bước 2 — Tự kiểm:
+1. Kiểm tra giá trị có chính xác hay không.
+2. Kiểm tra đơn vị có đúng không (km/s).
+3. Xem có cần thêm thông tin nào không.
+
+Bước 3 — Đáp án cuối cùng: Tốc độ ánh sáng trong chân không là 299,792 km/s. Đáp án này là chính xác.","cuối cùng: Tốc độ ánh sáng trong chân không là 299,792 km/s. Đáp án này là chính xác.",openai,gpt-4o-mini,299792458 km/s,False,False,True,False,False,True
+15,Khối lượng của electron neutrino có giới hạn trên là bao nhiêu eV?,Dưới 2 eV,Khối lượng của electron neutrino có giới hạn trên khoảng 2 eV.,"Bước 1 — Nháp: Khối lượng của electron neutrino có giới hạn trên khoảng 1 eV.
+
+Bước 2 — Tự kiểm:
+- Có thể sai: Giá trị chính xác của giới hạn trên có thể thay đổi theo các nghiên cứu khác nhau hoặc cập nhật mới nhất.
+- Có thể thiếu: Cần nêu rõ rằng đây là giới hạn trên và không phải là giá trị chính xác.
+
+Bước 3 — Đáp án cuối cùng: Khối lượng của electron neutrino có giới hạn trên khoảng 2 eV (cập nhật theo các nghiên cứu mới nhất). Tuy nhiên, cần lưu ý rằng thực tế, khối lượng của electron neutrino vẫn chưa được xác định chính xác và đang là một lĩnh vực nghiên cứu tích cực trong vật lý.","cuối cùng: Khối lượng của electron neutrino có giới hạn trên khoảng 2 eV (cập nhật theo các nghiên cứu mới nhất). Tuy nhiên, cần lưu ý rằng thực tế, khối lượng của electron neutrino vẫn chưa được xác định chính xác và đang là một lĩnh vực nghiên cứu tích cực trong vật lý.",openai,gpt-4o-mini,Dưới 2 eV,False,False,True,False,False,True
+16,Vụ va chạm thiên thạch lớn nhất trên Trái Đất tạo ra miệng núi nào?,Vredefort (Nam Phi),"Vụ va chạm thiên thạch lớn nhất trên Trái Đất tạo ra miệng núi Chicxulub, nằm ở bán đảo Yucatán, Mexico.","Bước 1 — Nháp: Vụ va chạm thiên thạch lớn nhất trên Trái Đất tạo ra miệng núi Chicxulub, nằm ở bán đảo Yucatán, Mexico.
+
+Bước 2 — Tự kiểm: 
+- Miệng núi Chicxulub có liên quan đến sự kiện tuyệt chủng hàng loạt, đặc biệt là sự tuyệt chủng của khủng long.
+- Cần xác nhận thông tin về kích thước và thời gian của vụ va chạm cũng như các kết quả khoa học liên quan.
+
+Bước 3 — Đáp án cuối cùng: Vụ va chạm thiên thạch lớn nhất trên Trái Đất tạo ra miệng núi Chicxulub ở bán đảo Yucatán, Mexico, cách đây khoảng 66 triệu năm, được cho là đã góp phần vào sự tuyệt chủng của khủng long và nhiều loài khác. Thông tin này là chính xác.","cuối cùng: Vụ va chạm thiên thạch lớn nhất trên Trái Đất tạo ra miệng núi Chicxulub ở bán đảo Yucatán, Mexico, cách đây khoảng 66 triệu năm, được cho là đã góp phần vào sự tuyệt chủng của khủng long và nhiều loài khác. Thông tin này là chính xác.",openai,gpt-4o-mini,Vredefort (Nam Phi),False,False,True,False,False,True
+17,Ngôi sao biến quang Cepheid được sử dụng để đo khoảng cách vũ trụ dựa trên mối quan hệ gì?,Quan hệ chu kỳ-độ sáng,Ngôi sao biến quang Cepheid được sử dụng để đo khoảng cách vũ trụ dựa trên mối quan hệ giữa chu kỳ biến đổi của chúng và độ sáng tuyệt đối (xem gọi là mối quan hệ chu kỳ-độ sáng).,"**Bước 1 — Nháp:** Ngôi sao biến quang Cepheid được sử dụng để đo khoảng cách vũ trụ dựa trên mối quan hệ giữa chu kỳ biến quang và độ sáng tuyệt đối của nó, gọi là quy luật Leavitt.
+
+**Bước 2 — Tự kiểm:** 
+1. Chưa đề cập cụ thể đến mối quan hệ giữa chu kỳ và độ sáng.
+2. Có thể cần nêu rõ tên của quy luật liên quan hơn một chút.
+3. Chưa giải thích tại sao mối quan hệ này lại giúp đo khoảng cách.
+
+**Bước 3 — Đáp án cuối cùng:** Ngôi sao biến quang Cepheid được sử dụng để đo khoảng cách vũ trụ dựa trên mối quan hệ giữa chu kỳ biến quang và độ sáng tuyệt đối của nó, được gọi là quy luật Leavitt (hay quy luật biến quang Cepheid). Mối quan hệ này cho phép các nhà thiên văn tính toán được khoảng cách đến các ngôi sao này dựa trên độ sáng của chúng, từ đó xác định được khoảng cách trong không gian vũ trụ.","cuối cùng:** Ngôi sao biến quang Cepheid được sử dụng để đo khoảng cách vũ trụ dựa trên mối quan hệ giữa chu kỳ biến quang và độ sáng tuyệt đối của nó, được gọi là quy luật Leavitt (hay quy luật biến quang Cepheid). Mối quan hệ này cho phép các nhà thiên văn tính toán được khoảng cách đến các ngôi sao này dựa trên độ sáng của chúng, từ đó xác định được khoảng cách trong không gian vũ trụ.",openai,gpt-4o-mini,Quan hệ chu kỳ-độ sáng,True,False,False,False,False,True
+18,Từ trường Mặt Trời đảo chiều mỗi bao nhiêu năm?,11 năm,Từ trường Mặt Trời đảo chiều khoảng mỗi 11 năm.,"Bước 1 — Nháp: Từ trường của Mặt Trời đảo chiều khoảng mỗi 11 năm.
+
+Bước 2 — Tự kiểm:
+1. Thời gian chu kỳ đảo chiều từ trường Mặt Trời có thể thay đổi đôi chút, trung bình là khoảng 11 năm nhưng có thể dao động từ 9 đến 14 năm.
+2. Có thể cần làm rõ thêm về cơ chế đảo chiều và ý nghĩa của nó đối với hoạt động của Mặt Trời (như số lượng hoạt động của vết đen mặt trời).
+
+Bước 3 — Đáp án cuối cùng: Từ trường của Mặt Trời đảo chiều mỗi khoảng 11 năm, nhưng có thể dao động từ 9 đến 14 năm. Thời gian này liên quan đến chu kỳ hoạt động của Mặt Trời, trong đó có sự thay đổi của các hiện tượng như vết đen mặt trời và gió Mặt Trời.","cuối cùng: Từ trường của Mặt Trời đảo chiều mỗi khoảng 11 năm, nhưng có thể dao động từ 9 đến 14 năm. Thời gian này liên quan đến chu kỳ hoạt động của Mặt Trời, trong đó có sự thay đổi của các hiện tượng như vết đen mặt trời và gió Mặt Trời.",openai,gpt-4o-mini,11 năm,True,False,False,True,True,False
+19,Hành tinh lùn Eris có khoảng cách trung bình từ Mặt Trời là bao nhiêu AU?,67.7 AU,Hành tinh lùn Eris có khoảng cách trung bình từ Mặt Trời khoảng 96 AU.,"### Bước 1 — Nháp:
+Hành tinh lùn Eris có khoảng cách trung bình từ Mặt Trời khoảng 96 AU.
+
+### Bước 2 — Tự kiểm:
+1. Đã kiểm tra thông tin về khoảng cách trung bình của Eris từ Mặt Trời.
+2. Cần xác định xem con số này có chính xác hay không.
+3. Xem xét có thiếu thông tin gì không.
+
+### Bước 3 — Đáp án cuối cùng:
+Eris có khoảng cách trung bình từ Mặt Trời là khoảng 96 AU. Thông tin này là chính xác.","cuối cùng:
+Eris có khoảng cách trung bình từ Mặt Trời là khoảng 96 AU. Thông tin này là chính xác.",openai,gpt-4o-mini,67.7 AU,False,False,True,False,False,True
+20,Tốc độ thoát khỏi lỗ đen có đường kính Schwarzschild 1km là bao nhiêu?,Bằng tốc độ ánh sáng,"Tốc độ thoát khỏi lỗ đen có đường kính Schwarzschild 1 km sẽ bằng tốc độ ánh sáng, tức là khoảng 299,792 km/s. Trong trường hợp này, không có vật thể nào có thể thoát ra ngoài bán kính sự kiện của lỗ đen.","### Bước 1 — Nháp:
+Tốc độ thoát khỏi lỗ đen có đường kính Schwarzschild 1 km là tốc độ ánh sáng (c ≈ 300,000 km/s). Bởi vì bất kỳ vật gì vượt qua bán kính Schwarzschild (horizon) của lỗ đen đều không thể thoát ra được.
+
+### Bước 2 — Tự kiểm:
+1. Đường kính Schwarzschild 1 km có thể chuyển thành bán kính là 0.5 km.
+2. Tốc độ thoát khỏi lỗ đen cần được tính bằng công thức liên quan đến khối lượng lỗ đen và bán kính của nó, nhưng ở nửa bán kính, vật thể sẽ không thể thoát ra.
+3. Cần làm rõ rằng không có vật nào có thể thoát ra ngoài bán kính Schwarzschild.
+
+### Bước 3 — Đáp án cuối cùng:
+Tốc độ thoát khỏi lỗ đen có đường kính Schwarzschild 1 km là bằng tốc độ ánh sáng (c ≈ 300,000 km/s) tại chân trời sự kiện, nhưng trên thực tế, không có vật chất nào có thể thoát khỏi lỗ đen một khi đã vượt qua bán kính Schwarzschild. Vì vậy, có thể nói rằng không có tốc độ thoát nào khả thi từ bên trong lỗ đen.","cuối cùng:
+Tốc độ thoát khỏi lỗ đen có đường kính Schwarzschild 1 km là bằng tốc độ ánh sáng (c ≈ 300,000 km/s) tại chân trời sự kiện, nhưng trên thực tế, không có vật chất nào có thể thoát khỏi lỗ đen một khi đã vượt qua bán kính Schwarzschild. Vì vậy, có thể nói rằng không có tốc độ thoát nào khả thi từ bên trong lỗ đen.",openai,gpt-4o-mini,Bằng tốc độ ánh sáng,True,True,False,True,True,False
+21,Siêu tân tinh type Ia có độ sáng cực đại đặc trưng là bao nhiêu?,Khoảng -19.3 magnitude tuyệt đối,Siêu tân tinh type Ia có độ sáng cực đại đặc trưng khoảng 5 đến 7 lần độ sáng của Mặt Trời.,"Bước 1 — Nháp: Siêu tân tinh type Ia có độ sáng cực đại khoảng 10^9 lần so với một mặt trời, khoảng -19.3 mag (magnitude).
+
+Bước 2 — Tự kiểm: 
+- Kiểm tra độ sáng: Độ sáng được cho là khoảng -19.3 mag, tuy nhiên, có thể có sự biến đổi nhẹ giữa các siêu tân tinh.
+- So sánh với các loại siêu tân tinh khác.
+
+Bước 3 — Đáp án cuối cùng: Siêu tân tinh type Ia có độ sáng cực đại khoảng -19.3 magnitude, nhưng có thể biến đổi trong giới hạn gần đó. Tôi khá tự tin vào câu trả lời này.","cuối cùng: Siêu tân tinh type Ia có độ sáng cực đại khoảng -19.3 magnitude, nhưng có thể biến đổi trong giới hạn gần đó. Tôi khá tự tin vào câu trả lời này.",openai,gpt-4o-mini,Khoảng -19.3 magnitude tuyệt đối,False,False,True,False,True,False
+22,Ngôi sao Wolf-Rayet có nhiệt độ bề mặt trung bình là bao nhiêu K?,50000-200000 K,"Ngôi sao Wolf-Rayet có nhiệt độ bề mặt trung bình khoảng từ 20.000 K đến 200.000 K, tùy thuộc vào loại cụ thể của sao.","Bước 1 — Nháp: Ngôi sao Wolf-Rayet có nhiệt độ bề mặt trung bình khoảng từ 30.000 K đến 200.000 K.
+
+Bước 2 — Tự kiểm:
+- Khoảng nhiệt độ có thể đã không chính xác hoặc không đầy đủ cao nhất.
+- Cần phân biệt giữa các loại ngôi sao Wolf-Rayet khác nhau, vì chúng có thể có nhiệt độ bề mặt khác nhau.
+
+Bước 3 — Đáp án cuối cùng: Ngôi sao Wolf-Rayet có nhiệt độ bề mặt trung bình khoảng từ 30.000 đến 200.000 K, tùy thuộc vào loại cụ thể của nó. Tôi tự tin với thông tin này.","cuối cùng: Ngôi sao Wolf-Rayet có nhiệt độ bề mặt trung bình khoảng từ 30.000 đến 200.000 K, tùy thuộc vào loại cụ thể của nó. Tôi tự tin với thông tin này.",openai,gpt-4o-mini,50000-200000 K,False,False,True,False,False,True
+23,Tuổi của vũ trụ theo mô hình Lambda-CDM là bao nhiêu?,13.8 tỷ năm,"Tuổi của vũ trụ theo mô hình Lambda-CDM khoảng 13,8 tỷ năm.","Bước 1 — Nháp: Tuổi của vũ trụ theo mô hình Lambda-CDM ước tính khoảng 13,8 tỷ năm.
+
+Bước 2 — Tự kiểm:
+- Thời gian 13,8 tỷ năm: Cần kiểm tra xem con số này có chính xác và cập nhật không.
+- Mô hình Lambda-CDM: Có thể cần làm rõ mô hình này là gì và tầm quan trọng của nó trong lý thuyết vũ trụ.
+
+Bước 3 — Đáp án cuối cùng: Tuổi của vũ trụ theo mô hình Lambda-CDM được ước tính khoảng 13,8 tỷ năm, dựa trên các quan sát từ khí quyển vũ trụ, sự bức xạ nền vũ trụ, và định luật Hubble. Thông tin này khá chính xác theo các nghiên cứu hiện tại.","cuối cùng: Tuổi của vũ trụ theo mô hình Lambda-CDM được ước tính khoảng 13,8 tỷ năm, dựa trên các quan sát từ khí quyển vũ trụ, sự bức xạ nền vũ trụ, và định luật Hubble. Thông tin này khá chính xác theo các nghiên cứu hiện tại.",openai,gpt-4o-mini,13.8 tỷ năm,False,False,True,False,False,True
+24,Mật độ tới hạn của vũ trụ là bao nhiêu kg/m³?,9.47 × 10^-27 kg/m³,"Mật độ tới hạn của vũ trụ khoảng 1,88 x 10⁻²⁷ kg/m³.","Bước 1 — Nháp: Mật độ tới hạn của vũ trụ khoảng 9.9 x 10^-27 kg/m³.
+
+Bước 2 — Tự kiểm:
+1. Mặc dù con số này gần đúng, nó có thể thay đổi tùy theo các yếu tố như tốc độ giãn nở của vũ trụ.
+2. Tôi không đề cập đến bối cảnh hoặc ý nghĩa của mật độ tới hạn trong vũ trụ học.
+
+Bước 3 — Đáp án cuối cùng: Mật độ tới hạn của vũ trụ khoảng 9.9 x 10^-27 kg/m³. Mật độ này là quan trọng trong việc xác định hình dạng và tương lai của vũ trụ.",cuối cùng: Mật độ tới hạn của vũ trụ khoảng 9.9 x 10^-27 kg/m³. Mật độ này là quan trọng trong việc xác định hình dạng và tương lai của vũ trụ.,openai,gpt-4o-mini,9.47 × 10^-27 kg/m³,False,False,True,False,False,True
+25,Đám mây Oort có bán kính ước tính là bao nhiêu AU?,50000-200000 AU,"Đám mây Oort có bán kính ước tính khoảng từ 2,000 đến 100,000 AU (đơn vị thiên văn).","Bước 1 — Nháp: Đám mây Oort có bán kính ước tính khoảng từ 2.000 đến 100.000 AU.
+
+Bước 2 — Tự kiểm: 
+- Kích thước của đám mây Oort có thể dao động trong khoảng này, nhưng nếu có thông tin chính xác hơn về các giá trị cụ thể thì nên bổ sung.
+- Cần xác định rõ là bán kính trung bình hay khoảng dao động.
+
+Bước 3 — Đáp án cuối cùng: Đám mây Oort có bán kính ước tính từ khoảng 2.000 đến 100.000 AU, với thông tin rằng bán kính chính xác có thể không dễ xác định do đám mây Oort chưa được quan sát trực tiếp.","cuối cùng: Đám mây Oort có bán kính ước tính từ khoảng 2.000 đến 100.000 AU, với thông tin rằng bán kính chính xác có thể không dễ xác định do đám mây Oort chưa được quan sát trực tiếp.",openai,gpt-4o-mini,50000-200000 AU,False,False,True,False,True,False
+26,Ngôi sao Betelgeuse có khối lượng ước tính bao nhiêu lần Mặt Trời?,10-20 lần khối lượng Mặt Trời,Ngôi sao Betelgeuse có khối lượng ước tính khoảng 10 đến 20 lần khối lượng Mặt Trời.,"**Bước 1 — Nháp:** Ngôi sao Betelgeuse có khối lượng ước tính khoảng 10-20 lần Mặt Trời.
+
+**Bước 2 — Tự kiểm:**
+1. Số liệu về khối lượng của Betelgeuse có thể thay đổi trong các nghiên cứu khác nhau.
+2. Cần xác định rõ ràng khoảng khối lượng chính xác, vì có sự không chắc chắn trong các ước tính.
+3. Cần xem xét các đơn vị đo lường và cách tính toán khối lượng.
+
+**Bước 3 — Đáp án cuối cùng:** Ngôi sao Betelgeuse có khối lượng ước tính khoảng 10-20 lần khối lượng Mặt Trời, tuy có sự không chắc chắn trong các nghiên cứu, nên ước lượng chính xác có thể thay đổi.","cuối cùng:** Ngôi sao Betelgeuse có khối lượng ước tính khoảng 10-20 lần khối lượng Mặt Trời, tuy có sự không chắc chắn trong các nghiên cứu, nên ước lượng chính xác có thể thay đổi.",openai,gpt-4o-mini,10-20 lần khối lượng Mặt Trời,False,False,True,True,True,False
+27,Pulsar nhanh nhất quay với tần số bao nhiêu Hz?,716 Hz (PSR J1748−2446ad),"Pulsar nhanh nhất được biết đến, PSR J1748-2446ad, quay với tần số khoảng 716 Hz.","Bước 1 — Nháp: Pulsar nhanh nhất quay với tần số khoảng 716 Hz.
+
+Bước 2 — Tự kiểm: 
+- Xác minh tần số: Tần số 716 Hz có chính xác.
+- Có thông tin về tên hoặc loại pulsar để hỗ trợ thêm không.
+- Kiểm tra xem có pulsar nào khác quay nhanh hơn không trong thời điểm tôi được cập nhật.
+
+Bước 3 — Đáp án cuối cùng: Pulsar nhanh nhất được biết đến là PSR J1748-2446ad, quay với tần số khoảng 716 Hz. Thông tin này đúng và được công nhận trong cộng đồng khoa học tính đến thời điểm cập nhật của tôi.","cuối cùng: Pulsar nhanh nhất được biết đến là PSR J1748-2446ad, quay với tần số khoảng 716 Hz. Thông tin này đúng và được công nhận trong cộng đồng khoa học tính đến thời điểm cập nhật của tôi.",openai,gpt-4o-mini,716 Hz (PSR J1748−2446ad),False,False,True,False,False,True
+28,Hành tinh gần ngôi sao Kepler-442b có chu kỳ quỹ đạo là bao nhiêu ngày?,112.3 ngày,Hành tinh Kepler-442b có chu kỳ quỹ đạo khoảng 112 ngày.,"Bước 1 — Nháp: Hành tinh Kepler-442b có chu kỳ quỹ đạo khoảng 112 ngày.
+
+Bước 2 — Tự kiểm: 
+- Kiểm tra xem có nguồn thông tin nào cho thấy chu kỳ quỹ đạo là 112 ngày không.
+- Kiểm tra xem thông tin có cập nhật mới nào từ các nghiên cứu về Kepler-442b.
+
+Bước 3 — Đáp án cuối cùng: Hành tinh Kepler-442b có chu kỳ quỹ đạo khoảng 112 ngày. Thông tin này đúng và được xác nhận dựa trên các nguồn dữ liệu từ NASA và các nghiên cứu dựa trên dữ liệu từ kính viễn vọng Kepler.",cuối cùng: Hành tinh Kepler-442b có chu kỳ quỹ đạo khoảng 112 ngày. Thông tin này đúng và được xác nhận dựa trên các nguồn dữ liệu từ NASA và các nghiên cứu dựa trên dữ liệu từ kính viễn vọng Kepler.,openai,gpt-4o-mini,112.3 ngày,False,False,True,False,False,True
+29,Nhiệt độ lõi của Mặt Trời là bao nhiêu Kelvin?,15 triệu K,Nhiệt độ lõi của Mặt Trời khoảng 15 triệu Kelvin.,"Bước 1 — Nháp: Nhiệt độ lõi của Mặt Trời khoảng 15 triệu Kelvin.
+
+Bước 2 — Tự kiểm:
+- Kiểm tra xem số liệu có chính xác không: Nhiệt độ lõi Mặt Trời thường được chấp nhận là khoảng 15 triệu Kelvin.
+- Kiểm tra đơn vị đo: Đơn vị Kelvin là đúng.
+- Kiểm tra ngữ cảnh: Nêu rõ là lõi của Mặt Trời.
+
+Bước 3 — Đáp án cuối cùng: Nhiệt độ lõi của Mặt Trời khoảng 15 triệu Kelvin.",cuối cùng: Nhiệt độ lõi của Mặt Trời khoảng 15 triệu Kelvin.,openai,gpt-4o-mini,15 triệu K,True,False,False,True,False,False
+30,Ngôi sao Eta Carinae có khối lượng ước tính bao nhiêu lần Mặt Trời?,100-150 lần khối lượng Mặt Trời,Ngôi sao Eta Carinae có khối lượng ước tính khoảng 100 đến 150 lần Mặt Trời.,"Bước 1 — Nháp: Ngôi sao Eta Carinae có khối lượng ước tính khoảng 100 lần khối lượng Mặt Trời.
+
+Bước 2 — Tự kiểm:
+1. Có thể thiếu thông tin về các ước tính khác nhau hay các nghiên cứu gần đây về khối lượng của Eta Carinae.
+2. Không đề cập đến sự không chắc chắn trong các ước tính liệu Eta Carinae có thực sự có khối lượng gấp 100 lần Mặt Trời hay không, vì các con số có thể thay đổi tùy thuộc vào phương pháp nghiên cứu.
+
+Bước 3 — Đáp án cuối cùng: Ngôi sao Eta Carinae có khối lượng ước tính khoảng 100 lần khối lượng Mặt Trời, nhưng có thể dao động giữa 80 đến 150 lần khối lượng Mặt Trời theo các nghiên cứu khác nhau.","cuối cùng: Ngôi sao Eta Carinae có khối lượng ước tính khoảng 100 lần khối lượng Mặt Trời, nhưng có thể dao động giữa 80 đến 150 lần khối lượng Mặt Trời theo các nghiên cứu khác nhau.",openai,gpt-4o-mini,100-150 lần khối lượng Mặt Trời,False,False,True,False,True,False
+31,Khoảng cách đến thiên hà Andromeda là bao nhiêu năm ánh sáng?,2.537 triệu năm ánh sáng,Khoảng cách đến thiên hà Andromeda là khoảng 2.537 triệu năm ánh sáng.,"Bước 1 — Nháp: Khoảng cách đến thiên hà Andromeda là khoảng 2.537 triệu năm ánh sáng.
+
+Bước 2 — Tự kiểm:
+- Kiểm tra lại số liệu về khoảng cách đến Andromeda.
+- Xem xét có cần thông tin bổ sung không, chẳng hạn như đơn vị đo.
+
+Bước 3 — Đáp án cuối cùng: Khoảng cách đến thiên hà Andromeda là khoảng 2.537 triệu năm ánh sáng (hay 2,537 triệu ánh sáng). Thông tin này là chính xác.","cuối cùng: Khoảng cách đến thiên hà Andromeda là khoảng 2.537 triệu năm ánh sáng (hay 2,537 triệu ánh sáng). Thông tin này là chính xác.",openai,gpt-4o-mini,2.537 triệu năm ánh sáng,True,False,False,True,False,False
+32,Quasar xa nhất được phát hiện có redshift là bao nhiêu?,z ≈ 7.64,"Quasar xa nhất được phát hiện có redshift lên tới khoảng 7.64, được gọi là J0313-1806.","**Bước 1 — Nháp:** Quasar xa nhất được phát hiện có redshift khoảng 7.64.
+
+**Bước 2 — Tự kiểm:** 
+1. Kiểm tra xem redshift 7.64 có phải là giá trị mới nhất không, vì có thể có những phát hiện mới hơn sau thời điểm cập nhật của tôi.
+2. Tham chiếu đến tên quasar cụ thể nào có redshift này, để xác minh.
+
+**Bước 3 — Đáp án cuối cùng:** Quasar xa nhất được phát hiện có redshift là khoảng 7.64, gọi là J0313-1806. Tuy nhiên, tôi không hoàn toàn chắc chắn nếu có phát hiện mới hơn sau tháng 10 năm 2023, vì vậy nên kiểm tra các nguồn thông tin gần đây để xác nhận.","cuối cùng:** Quasar xa nhất được phát hiện có redshift là khoảng 7.64, gọi là J0313-1806. Tuy nhiên, tôi không hoàn toàn chắc chắn nếu có phát hiện mới hơn sau tháng 10 năm 2023, vì vậy nên kiểm tra các nguồn thông tin gần đây để xác nhận.",openai,gpt-4o-mini,z ≈ 7.64,False,False,True,False,False,True
+33,Đường kính góc của Mặt Trời nhìn từ Trái Đất là bao nhiêu arcminute?,32 arcminute,Đường kính góc của Mặt Trời nhìn từ Trái Đất khoảng 32 arcminute.,"**Bước 1 — Nháp:** Đường kính góc của Mặt Trời nhìn từ Trái Đất là khoảng 32 arcminute.
+
+**Bước 2 — Tự kiểm:** 
+1. Kiểm tra xem 32 arcminute có chính xác không.
+2. Xem xét khoảng trên và dưới của giá trị này để xác nhận không thiếu thông tin.
+3. Đường kính góc có thể dao động một chút tuỳ theo khoảng cách từ Trái Đất đến Mặt Trời.
+
+**Bước 3 — Đáp án cuối cùng:** Đường kính góc của Mặt Trời nhìn từ Trái Đất thường là khoảng 32 arcminute (có thể dao động từ 31.5 đến 32.5 arcminute). Như vậy, tôi tự tin rằng thông tin này là đúng.","cuối cùng:** Đường kính góc của Mặt Trời nhìn từ Trái Đất thường là khoảng 32 arcminute (có thể dao động từ 31.5 đến 32.5 arcminute). Như vậy, tôi tự tin rằng thông tin này là đúng.",openai,gpt-4o-mini,32 arcminute,True,False,False,True,True,False
+34,Hằng số cấu trúc tinh tế có giá trị xấp xỉ là bao nhiêu?,1/137,Hằng số cấu trúc tinh tế có giá trị xấp xỉ là 1/137.,"Bước 1 — Nháp: Hằng số cấu trúc tinh tế (α) có giá trị xấp xỉ là 1/137.
+
+Bước 2 — Tự kiểm:
+- Giá trị của hằng số cấu trúc tinh tế có thể có nhiều cách diễn đạt, nhưng 1/137 là giá trị phổ biến.
+- Có thể kiểm tra xem giá trị thực nghiệm chính xác hơn là gì hay không.
+
+Bước 3 — Đáp án cuối cùng: Hằng số cấu trúc tinh tế có giá trị xấp xỉ là 1/137. Giá trị chính xác hơn là khoảng 1/137,035999... Các giá trị này có thể thay đổi theo ngữ cảnh nghiên cứu, nhưng giá trị xấp xỉ trên là đúng.","cuối cùng: Hằng số cấu trúc tinh tế có giá trị xấp xỉ là 1/137. Giá trị chính xác hơn là khoảng 1/137,035999... Các giá trị này có thể thay đổi theo ngữ cảnh nghiên cứu, nhưng giá trị xấp xỉ trên là đúng.",openai,gpt-4o-mini,1/137,True,False,False,True,True,False
+35,Ngôi sao compact nhất (không phải lỗ đen) có bán kính khoảng bao nhiêu km?,10-15 km (neutron star),Ngôi sao compact nhất (như sao neutron) có bán kính khoảng từ 10 đến 12 km.,"**Bước 1 — Nháp:** Ngôi sao compact nhất không phải lỗ đen là sao neutron, có bán kính khoảng từ 10 đến 15 km.
+
+**Bước 2 — Tự kiểm:** 
+- Phải đảm bảo rằng thông tin về bán kính được cung cấp là chính xác. 
+- Kiểm tra xem có các loại ngôi sao khác có thể được coi là ""compact"" không, nhưng không phải lỗ đen.
+
+**Bước 3 — Đáp án cuối cùng:** Ngôi sao neutron, một trong những ngôi sao compact nhất không phải lỗ đen, có bán kính khoảng từ 10 đến 15 km. Thông tin này là chính xác và đầy đủ.","cuối cùng:** Ngôi sao neutron, một trong những ngôi sao compact nhất không phải lỗ đen, có bán kính khoảng từ 10 đến 15 km. Thông tin này là chính xác và đầy đủ.",openai,gpt-4o-mini,10-15 km (neutron star),False,False,True,False,False,True
+36,Tốc độ di chuyển của hệ Mặt Trời quanh trung tâm Ngân Hà là bao nhiêu km/s?,220 km/s,Tốc độ di chuyển của hệ Mặt Trời quanh trung tâm Ngân Hà khoảng 230 km/s.,"**Bước 1 — Nháp:** Tốc độ di chuyển của hệ Mặt Trời quanh trung tâm Ngân Hà là khoảng 220 km/s.
+
+**Bước 2 — Tự kiểm:** 
+1. Có thể cần cung cấp nguồn hoặc thông tin cụ thể về ranh giới và tính toán tốc độ này.
+2. Có thể thiếu thông tin về khoảng cách đến trung tâm Ngân Hà.
+3. Có thể thiếu thông tin về các yếu tố làm tăng hoặc giảm tốc độ di chuyển của hệ Mặt Trời.
+
+**Bước 3 — Đáp án cuối cùng:** Tốc độ di chuyển của hệ Mặt Trời quanh trung tâm Ngân Hà là khoảng 220 km/s. Đây là một số liệu được chấp nhận trong các tài liệu thiên văn học hiện tại. Tuy nhiên, tốc độ này có thể dao động nhẹ do nhiều yếu tố ảnh hưởng.","cuối cùng:** Tốc độ di chuyển của hệ Mặt Trời quanh trung tâm Ngân Hà là khoảng 220 km/s. Đây là một số liệu được chấp nhận trong các tài liệu thiên văn học hiện tại. Tuy nhiên, tốc độ này có thể dao động nhẹ do nhiều yếu tố ảnh hưởng.",openai,gpt-4o-mini,220 km/s,False,False,True,True,True,False
+37,Hành tinh HD 209458 b có nhiệt độ bề mặt ước tính là bao nhiêu K?,1500 K,"Hành tinh HD 209458 b có nhiệt độ bề mặt ước tính khoảng 1,200 K.","**Bước 1 — Nháp:** Hành tinh HD 209458 b có nhiệt độ bề mặt ước tính khoảng 1,000 K đến 1,150 K.
+
+**Bước 2 — Tự kiểm:** 
+- Đảm bảo rằng thông tin về nhiệt độ bề mặt là chính xác và dựa trên các nghiên cứu hoặc dữ liệu gần đây.
+- Kiểm tra xem có cần đề cập thêm về các yếu tố ảnh hưởng đến nhiệt độ bề mặt của hành tinh, như khoảng cách từ ngôi sao chủ hay loại khí quyển không.
+
+**Bước 3 — Đáp án cuối cùng:** Hành tinh HD 209458 b có nhiệt độ bề mặt ước tính khoảng 1,000 K đến 1,150 K. Tuy nhiên, thông số có thể thay đổi tùy vào nguồn thông tin và phương pháp nghiên cứu.","cuối cùng:** Hành tinh HD 209458 b có nhiệt độ bề mặt ước tính khoảng 1,000 K đến 1,150 K. Tuy nhiên, thông số có thể thay đổi tùy vào nguồn thông tin và phương pháp nghiên cứu.",openai,gpt-4o-mini,1500 K,False,False,True,False,True,False
+38,Từ trường mạnh nhất trong vũ trụ được tìm thấy ở ngôi sao magnetar có cường độ bao nhiêu Tesla?,10^11 Tesla,Từ trường mạnh nhất trong vũ trụ được tìm thấy ở ngôi sao magnetar có cường độ lên tới khoảng 10^11 Tesla.,"**Bước 1 — Nháp:** Cường độ từ trường của magnetar có thể lên đến khoảng 10^11 Tesla.
+
+**Bước 2 — Tự kiểm:** 
+1. Cường độ 10^11 Tesla có đúng không? Cần xác minh.
+2. Có cần đề cập đến đặc điểm của magnetar không?
+
+**Bước 3 — Đáp án cuối cùng:** Cường độ từ trường mạnh nhất trong các ngôi sao magnetar có thể đạt khoảng 10^11 Tesla (hoặc cao hơn). Đây là một mức độ rất cao so với các loại từ trường tự nhiên khác, như từ trường của Trái Đất là khoảng 0.00005 Tesla. Magnetar là một loại sao neutron có từ trường rất mạnh và có những đặc điểm đặc biệt khác trong vũ trụ.","cuối cùng:** Cường độ từ trường mạnh nhất trong các ngôi sao magnetar có thể đạt khoảng 10^11 Tesla (hoặc cao hơn). Đây là một mức độ rất cao so với các loại từ trường tự nhiên khác, như từ trường của Trái Đất là khoảng 0.00005 Tesla. Magnetar là một loại sao neutron có từ trường rất mạnh và có những đặc điểm đặc biệt khác trong vũ trụ.",openai,gpt-4o-mini,10^11 Tesla,True,False,False,True,True,False
+39,Năng lượng liên kết của hạt nhân helium-4 là bao nhiêu MeV?,28.3 MeV,"Năng lượng liên kết của hạt nhân helium-4 là khoảng 28,3 MeV.","**Bước 1 — Nháp:** Năng lượng liên kết của hạt nhân helium-4 khoảng 28.3 MeV.
+
+**Bước 2 — Tự kiểm:** 
+- Kiểm tra xem có điểm nào sai hoặc thiếu:
+  - Đảm bảo rằng giá trị được đưa ra là chính xác và có nguồn gốc.
+  - Kiểm tra xem có nên xác định rõ hơn là năng lượng liên kết trên mỗi nucleon không.
+
+**Bước 3 — Đáp án cuối cùng:** Năng lượng liên kết của hạt nhân helium-4 là khoảng 28.3 MeV. Nếu tính trên mỗi nucleon, khoảng 7.1 MeV. Đáp án được đưa ra là chính xác.","cuối cùng:** Năng lượng liên kết của hạt nhân helium-4 là khoảng 28.3 MeV. Nếu tính trên mỗi nucleon, khoảng 7.1 MeV. Đáp án được đưa ra là chính xác.",openai,gpt-4o-mini,28.3 MeV,False,False,True,True,False,False
+40,Ngôi sao nâu có khối lượng tối thiểu là bao nhiêu lần khối lượng Jupiter?,13 lần khối lượng Jupiter,Ngôi sao nâu có khối lượng tối thiểu khoảng 13 lần khối lượng Jupiter.,"Bước 1 — Nháp: Ngôi sao nâu có khối lượng tối thiểu khoảng 13 lần khối lượng của Jupiter.
+
+Bước 2 — Tự kiểm:
+1. Kiểm tra lại các số liệu khoa học về ngôi sao nâu.
+2. Đảm bảo rằng thông tin không bị thiếu về các loại sao nâu khác nhau và ngưỡng khối lượng.
+
+Bước 3 — Đáp án cuối cùng: Ngôi sao nâu có khối lượng tối thiểu khoảng 13 lần khối lượng của Jupiter (tương đương khoảng 0.013 khối lượng Mặt Trời). Điều này dựa trên thực tế rằng nếu một vật thể có khối lượng dưới 13 lần khối lượng Jupiter, nó sẽ không đủ để duy trì quá trình tổng hợp helium mà cần thiết để trở thành một ngôi sao thật sự. Tôi tự tin với thông tin này.","cuối cùng: Ngôi sao nâu có khối lượng tối thiểu khoảng 13 lần khối lượng của Jupiter (tương đương khoảng 0.013 khối lượng Mặt Trời). Điều này dựa trên thực tế rằng nếu một vật thể có khối lượng dưới 13 lần khối lượng Jupiter, nó sẽ không đủ để duy trì quá trình tổng hợp helium mà cần thiết để trở thành một ngôi sao thật sự. Tôi tự tin với thông tin này.",openai,gpt-4o-mini,13 lần khối lượng Jupiter,True,False,False,True,False,False
+41,Chu kỳ quỹ đạo của sao chổi Halley là bao nhiêu năm?,75-76 năm,Chu kỳ quỹ đạo của sao chổi Halley là khoảng 76 năm.,"Bước 1 — Nháp: Chu kỳ quỹ đạo của sao chổi Halley là khoảng 76 năm.
+
+Bước 2 — Tự kiểm:
+- Thông tin về chu kỳ quỹ đạo có thể chính xác, nhưng cần xác minh xem liệu đó có phải là giá trị chính xác và có thể có sự biến đổi trong các chu kỳ khác nhau hay không.
+- Cần xác nhận tên gọi sao chổi Halley có đúng không và nó có tên gọi nào khác không (nhưng rõ ràng là Halley là tên phổ biến nhất).
+  
+Bước 3 — Đáp án cuối cùng: Chu kỳ quỹ đạo của sao chổi Halley là khoảng 76 năm. Thông tin này là chính xác và được công nhận rộng rãi.",cuối cùng: Chu kỳ quỹ đạo của sao chổi Halley là khoảng 76 năm. Thông tin này là chính xác và được công nhận rộng rãi.,openai,gpt-4o-mini,75-76 năm,False,False,True,False,False,True
+42,Ngôi sao Rigel có độ sáng tuyệt đối magnitude là bao nhiêu?,-7.84,Ngôi sao Rigel có độ sáng tuyệt đối khoảng -6.7.,"### Bước 1 — Nháp
+Ngôi sao Rigel có độ sáng tuyệt đối (absolute magnitude) khoảng -6.7.
+
+### Bước 2 — Tự kiểm
+- **Điểm có thể sai hoặc thiếu**:
+  - Độ sáng tuyệt đối của Rigel có thể thay đổi trong các nguồn thông tin khác nhau.
+  - Có thể cần thêm thông tin về độ sáng biểu kiến (apparent magnitude) hoặc các đặc điểm khác của Rigel để cung cấp cái nhìn toàn diện hơn.
+
+### Bước 3 — Đáp án cuối cùng
+Ngôi sao Rigel có độ sáng tuyệt đối khoảng -6.7. Tôi tự tin về thông tin này, nhưng nếu cần kiểm tra hơn, nên tham khảo các tài liệu thiên văn học chính thống để xác nhận.","cuối cùng
+Ngôi sao Rigel có độ sáng tuyệt đối khoảng -6.7. Tôi tự tin về thông tin này, nhưng nếu cần kiểm tra hơn, nên tham khảo các tài liệu thiên văn học chính thống để xác nhận.",openai,gpt-4o-mini,-7.84,False,False,True,False,False,True
+43,Khoảng cách từ Trái Đất đến Sao Kim ở vị trí gần nhất là bao nhiêu triệu km?,25 triệu km,Khoảng cách từ Trái Đất đến Sao Kim ở vị trí gần nhất là khoảng 38 triệu km.,"**Bước 1 — Nháp:** Khoảng cách gần nhất từ Trái Đất đến Sao Kim là khoảng 38 triệu km.
+
+**Bước 2 — Tự kiểm:** 
+1. Kiểm tra lại số liệu về khoảng cách gần nhất.
+2. Đúng là khoảng cách đó đối với vị trí đó có thường có sự thay đổi do quỹ đạo của các hành tinh.
+
+**Bước 3 — Đáp án cuối cùng:** Khoảng cách gần nhất từ Trái Đất đến Sao Kim là khoảng 38 triệu km, nhưng có thể dao động do quỹ đạo của cả hai hành tinh. Thông thường, khoảng cách này nằm trong khoảng từ 38 đến 42 triệu km, tùy thuộc vào vị trí của chúng trên quỹ đạo.","cuối cùng:** Khoảng cách gần nhất từ Trái Đất đến Sao Kim là khoảng 38 triệu km, nhưng có thể dao động do quỹ đạo của cả hai hành tinh. Thông thường, khoảng cách này nằm trong khoảng từ 38 đến 42 triệu km, tùy thuộc vào vị trí của chúng trên quỹ đạo.",openai,gpt-4o-mini,25 triệu km,False,False,True,False,True,False
+44,Mật độ trung bình của vật chất tối trong thiên hà là bao nhiêu GeV/cm³?,0.3 GeV/cm³,Mật độ trung bình của vật chất tối trong thiên hà khoảng 0.3 GeV/cm³.,"**Bước 1 — Nháp:**  
+Mật độ trung bình của vật chất tối trong thiên hà xấp xỉ khoảng 0,3 GeV/cm³.
+
+**Bước 2 — Tự kiểm:**  
+- Mật độ này có thể thay đổi tùy theo các nghiên cứu hoặc phương pháp đo lường khác nhau.
+- Cần xác nhận xem đây có phải là giá trị trung bình, và có sự đồng thuận trong cộng đồng khoa học về con số này không.
+- Mật độ vật chất tối có thể có giá trị khác nhau trong các khu vực khác nhau của thiên hà.
+
+**Bước 3 — Đáp án cuối cùng:**  
+Mật độ trung bình của vật chất tối trong thiên hà thường được ước tính vào khoảng 0,3 GeV/cm³, mặc dù con số này có thể thay đổi tùy theo nghiên cứu cụ thể. Tôi tự tin rằng đây là con số hợp lý, nhưng vẫn cần tham khảo thêm để có thông tin chính xác nhất.","cuối cùng:**  
+Mật độ trung bình của vật chất tối trong thiên hà thường được ước tính vào khoảng 0,3 GeV/cm³, mặc dù con số này có thể thay đổi tùy theo nghiên cứu cụ thể. Tôi tự tin rằng đây là con số hợp lý, nhưng vẫn cần tham khảo thêm để có thông tin chính xác nhất.",openai,gpt-4o-mini,0.3 GeV/cm³,True,False,False,False,True,False
+45,Ngôi sao đôi PSR B1913+16 có chu kỳ giảm quỹ đạo do bức xạ sóng hấp dẫn là bao nhiêu giây/năm?,76.5 microsecond/năm,"Ngôi sao đôi PSR B1913+16 có chu kỳ giảm quỹ đạo do bức xạ sóng hấp dẫn khoảng 76,0 giây/năm.","**Bước 1 — Nháp:**
+Ngôi sao đôi PSR B1913+16 có chu kỳ giảm quỹ đạo do bức xạ sóng hấp dẫn là khoảng 76 giây/năm.
+
+**Bước 2 — Tự kiểm:**
+1. Kiểm tra số liệu: Đúng hay sai về số giây/năm.
+2. Kiểm tra nguồn thông tin: Nguồn gốc số liệu hay không.
+
+**Bước 3 — Đáp án cuối cùng:**
+Ngôi sao đôi PSR B1913+16 có chu kỳ giảm quỹ đạo do bức xạ sóng hấp dẫn là khoảng 76 giây/năm. Thông tin này là chính xác và được xác nhận bởi nhiều nghiên cứu astrophysical.","cuối cùng:**
+Ngôi sao đôi PSR B1913+16 có chu kỳ giảm quỹ đạo do bức xạ sóng hấp dẫn là khoảng 76 giây/năm. Thông tin này là chính xác và được xác nhận bởi nhiều nghiên cứu astrophysical.",openai,gpt-4o-mini,76.5 microsecond/năm,False,False,True,False,False,True
+46,Hành tinh TOI-849b có bán kính bao nhiêu lần Trái Đất?,3.4 lần bán kính Trái Đất,"Hành tinh TOI-849b có bán kính khoảng 2,5 lần Trái Đất.","Bước 1 — Nháp: Hành tinh TOI-849b có bán kính khoảng 2,4 lần Trái Đất.
+
+Bước 2 — Tự kiểm:
+1. Kiểm tra dữ liệu về bán kính của TOI-849b.
+2. So sánh với kích thước và đặc điểm của các hành tinh khác.
+3. Đảm bảo thông tin cập nhật và chính xác.
+
+Bước 3 — Đáp án cuối cùng: Bán kính của hành tinh TOI-849b được ước tính khoảng 2,4 lần bán kính của Trái Đất. Thông tin này có thể thay đổi theo các nghiên cứu mới, nhưng dựa trên dữ liệu hiện tại, thông tin này là chính xác.","cuối cùng: Bán kính của hành tinh TOI-849b được ước tính khoảng 2,4 lần bán kính của Trái Đất. Thông tin này có thể thay đổi theo các nghiên cứu mới, nhưng dựa trên dữ liệu hiện tại, thông tin này là chính xác.",openai,gpt-4o-mini,3.4 lần bán kính Trái Đất,False,False,True,False,True,False
+47,Nhiệt độ hiệu dụng của Mặt Trời là bao nhiêu K?,5778 K,"Nhiệt độ hiệu dụng của Mặt Trời khoảng 5,500 K.","**Bước 1 — Nháp:** Nhiệt độ hiệu dụng của Mặt Trời khoảng 5778 K.
+
+**Bước 2 — Tự kiểm:** 
+- Kiểm tra xem số liệu có chính xác không.
+- Xem xét có cần thông tin bổ sung nào khác không.
+
+**Bước 3 — Đáp án cuối cùng:** Nhiệt độ hiệu dụng của Mặt Trời khoảng 5778 K. Thông tin này dựa trên các nghiên cứu về quang phổ và bức xạ từ Mặt Trời. Đáp án là chính xác.",cuối cùng:** Nhiệt độ hiệu dụng của Mặt Trời khoảng 5778 K. Thông tin này dựa trên các nghiên cứu về quang phổ và bức xạ từ Mặt Trời. Đáp án là chính xác.,openai,gpt-4o-mini,5778 K,False,False,True,True,False,False
+48,Ngôi sao UY Scuti có bán kính ước tính bao nhiêu lần Mặt Trời?,1700 lần,Ngôi sao UY Scuti có bán kính ước tính khoảng 1.700 lần bán kính Mặt Trời.,"### Bước 1 — Nháp:
+Ngôi sao UY Scuti có bán kính ước tính khoảng 1.700 lần bán kính Mặt Trời.
+
+### Bước 2 — Tự kiểm:
+1. Đơn vị sử dụng có chính xác không? (Bán kính tính bằng lần bán kính Mặt Trời).
+2. Số liệu có được cập nhật không? (Thông tin có thể thay đổi theo thời gian).
+3. Có thiếu thông tin nào liên quan đến ngôi sao UY Scuti không? (Như loại sao, đặc điểm chính).
+
+### Bước 3 — Đáp án cuối cùng:
+Ngôi sao UY Scuti có bán kính ước tính khoảng 1.700 lần bán kính Mặt Trời. Số liệu này là tương đối và có thể thay đổi theo các nghiên cứu mới hơn. Trong tổng thể, thông tin đã được xác nhận khá chính xác nhưng cần xem xét trong bối cảnh có thể có các cập nhật trong nghiên cứu thiên văn học.","cuối cùng:
+Ngôi sao UY Scuti có bán kính ước tính khoảng 1.700 lần bán kính Mặt Trời. Số liệu này là tương đối và có thể thay đổi theo các nghiên cứu mới hơn. Trong tổng thể, thông tin đã được xác nhận khá chính xác nhưng cần xem xét trong bối cảnh có thể có các cập nhật trong nghiên cứu thiên văn học.",openai,gpt-4o-mini,1700 lần,False,False,True,False,True,False
+49,Tỷ lệ khối lượng proton/electron là bao nhiêu?,1836.15,Tỷ lệ khối lượng proton/electron là khoảng 1836.,"Bước 1 — Nháp: Tỷ lệ khối lượng giữa proton và electron là khoảng 1836:1. 
+
+Bước 2 — Tự kiểm:
+- Kiểm tra các thông tin về khối lượng proton và electron.
+- Proton có khối lượng khoảng 1.67 x 10^-27 kg, trong khi electron có khối lượng khoảng 9.11 x 10^-31 kg.
+- Tính toán tỷ lệ có chính xác không?
+  
+Bước 3 — Đáp án cuối cùng: Tỷ lệ khối lượng của proton so với electron là khoảng 1836:1. Thông tin này là chính xác.",cuối cùng: Tỷ lệ khối lượng của proton so với electron là khoảng 1836:1. Thông tin này là chính xác.,openai,gpt-4o-mini,1836.15,False,False,True,False,False,True
+50,Hành tinh Kepler-16b quay quanh bao nhiêu ngôi sao?,2 ngôi sao (hệ đôi),Hành tinh Kepler-16b quay quanh hai ngôi sao.,"**Bước 1 — Nháp:** Hành tinh Kepler-16b quay quanh 2 ngôi sao.
+
+**Bước 2 — Tự kiểm:** 
+- Kepler-16b là một hành tinh đị độ lệch quanh một hệ đa sao.
+- Xác nhận rằng nó thực sự quay quanh 2 ngôi sao (là một hệ thống nhị phân).
+
+**Bước 3 — Đáp án cuối cùng:** Kepler-16b quay quanh 2 ngôi sao. Đây là thông tin chính xác.",cuối cùng:** Kepler-16b quay quanh 2 ngôi sao. Đây là thông tin chính xác.,openai,gpt-4o-mini,2 ngôi sao (hệ đôi),False,False,True,False,False,True
+51,Từ trường của Sao Mộc có cường độ gấp bao nhiêu lần từ trường Trái Đất?,20000 lần,Từ trường của Sao Mộc mạnh gấp khoảng 20.000 lần so với từ trường của Trái Đất.,"Bước 1 — Nháp: Từ trường của Sao Mộc mạnh gấp khoảng 20.000 lần từ trường của Trái Đất.
+
+Bước 2 — Tự kiểm:
+1. Kiểm tra thông tin về cường độ từ trường của Sao Mộc và Trái Đất.
+2. Xác định nguồn gốc dữ liệu, có thể có sự khác biệt trong các nguồn khác nhau.
+3. Đảm bảo không nhầm lẫn đơn vị đo lường.
+
+Bước 3 — Đáp án cuối cùng: Từ trường của Sao Mộc mạnh gấp khoảng 20.000 lần so với từ trường của Trái Đất. Tuy nhiên, một số nguồn có thể đưa ra con số khác, thường trong khoảng từ 10.000 đến 20.000 lần, vì vậy có thể không chắc chắn hoàn toàn về con số chính xác.","cuối cùng: Từ trường của Sao Mộc mạnh gấp khoảng 20.000 lần so với từ trường của Trái Đất. Tuy nhiên, một số nguồn có thể đưa ra con số khác, thường trong khoảng từ 10.000 đến 20.000 lần, vì vậy có thể không chắc chắn hoàn toàn về con số chính xác.",openai,gpt-4o-mini,20000 lần,False,False,True,False,True,False
+52,Ngôi sao Pistol có độ sáng gấp bao nhiêu lần Mặt Trời?,1.6 triệu lần,Ngôi sao Pistol sáng gấp khoảng 100.000 lần Mặt Trời.,"### Bước 1 — Nháp:
+Ngôi sao Pistol có độ sáng gấp khoảng 100.000 lần Mặt Trời.
+
+### Bước 2 — Tự kiểm:
+1. Cần xác nhận chính xác độ sáng cụ thể của ngôi sao Pistol.
+2. Điều kiện môi trường hay phương pháp đo có thể ảnh hưởng đến kết quả.
+3. Kiểm tra xem độ sáng có được cập nhật không, vì nghiên cứu về các ngôi sao có thể thay đổi theo thời gian.
+
+### Bước 3 — Đáp án cuối cùng:
+Ngôi sao Pistol có độ sáng gấp khoảng 100.000 lần Mặt Trời, mặc dù con số chính xác có thể thay đổi tùy theo nguồn tài liệu và nghiên cứu mới nhất. Nên kiểm tra các tài liệu cập nhật để đảm bảo tính chính xác.","cuối cùng:
+Ngôi sao Pistol có độ sáng gấp khoảng 100.000 lần Mặt Trời, mặc dù con số chính xác có thể thay đổi tùy theo nguồn tài liệu và nghiên cứu mới nhất. Nên kiểm tra các tài liệu cập nhật để đảm bảo tính chính xác.",openai,gpt-4o-mini,1.6 triệu lần,False,False,True,False,True,False
+53,Khoảng cách đến cụm sao Pleiades là bao nhiêu năm ánh sáng?,444 năm ánh sáng,Cụm sao Pleiades cách Trái Đất khoảng 440 năm ánh sáng.,"**Bước 1 — Nháp:** Khoảng cách đến cụm sao Pleiades là khoảng 440 năm ánh sáng.
+
+**Bước 2 — Tự kiểm:** 
+- Xác nhận rằng con số 440 năm ánh sáng là chính xác hay không.
+- Kiểm tra xem có thông tin gì khác liên quan đến Pleiades mà có thể bổ sung.
+
+**Bước 3 — Đáp án cuối cùng:** Khoảng cách đến cụm sao Pleiades là khoảng 444 năm ánh sáng. Con số 440 có thể hơi thiếu chính xác, thông tin đúng hơn là 444 năm ánh sáng.","cuối cùng:** Khoảng cách đến cụm sao Pleiades là khoảng 444 năm ánh sáng. Con số 440 có thể hơi thiếu chính xác, thông tin đúng hơn là 444 năm ánh sáng.",openai,gpt-4o-mini,444 năm ánh sáng,False,False,True,True,True,False
+54,Hố đen stellar khối lượng lớn nhất được phát hiện có khối lượng bao nhiêu lần Mặt Trời?,70 lần (Cygnus X-1),Hố đen stellar khối lượng lớn nhất được phát hiện có thể lên đến khoảng 70 lần khối lượng Mặt Trời.,"Bước 1 — Nháp: Hố đen stellar khối lượng lớn nhất được phát hiện có khối lượng khoảng 100 lần Mặt Trời.
+
+Bước 2 — Tự kiểm:
+- Tìm kiếm thông tin mới nhất về hố đen stellar khối lượng lớn nhất.
+- Xác minh số liệu cụ thể về khối lượng.
+- Kiểm tra xem có những hố đen lớn hơn được phát hiện gần đây không.
+
+Bước 3 — Đáp án cuối cùng: Hố đen stellar khối lượng lớn nhất được phát hiện cho đến nay là hố đen có tên là ""TON 618,"" với khối lượng khoảng 66 lần Mặt Trời. Tuy nhiên, có thể có những hố đen khác được phát hiện có khối lượng lớn hơn, nhưng thông tin có thể không được cập nhật kịp thời. Tôi không hoàn toàn chắc chắn về khối lượng cụ thể.","cuối cùng: Hố đen stellar khối lượng lớn nhất được phát hiện cho đến nay là hố đen có tên là ""TON 618,"" với khối lượng khoảng 66 lần Mặt Trời. Tuy nhiên, có thể có những hố đen khác được phát hiện có khối lượng lớn hơn, nhưng thông tin có thể không được cập nhật kịp thời. Tôi không hoàn toàn chắc chắn về khối lượng cụ thể.",openai,gpt-4o-mini,70 lần (Cygnus X-1),False,True,False,False,True,False
+55,Nhiệt độ của không gian liên sao trung bình là bao nhiêu K?,2.7 K,Nhiệt độ của không gian liên sao trung bình khoảng 2.7 Kelvin.,"Bước 1 — Nháp: Nhiệt độ của không gian liên sao trung bình khoảng 2.7 Kelvin.
+
+Bước 2 — Tự kiểm:
+- Kiểm tra tính chính xác của số liệu: Nhiệt độ 2.7 K là nhiệt độ của bức xạ nền vũ trụ (cosmic microwave background radiation), nhưng có thể không phải là nhiệt độ của tất cả không gian liên sao.
+- Cần làm rõ rằng nhiệt độ có thể thay đổi tùy theo khu vực và điều kiện cụ thể của không gian liên sao.
+  
+Bước 3 — Đáp án cuối cùng: Nhiệt độ của không gian liên sao trung bình khoảng 2.7 K, nhưng có thể thay đổi tùy theo khu vực. Vì vậy, đây là một giá trị trung bình liên quan đến bức xạ nền vũ trụ.","cuối cùng: Nhiệt độ của không gian liên sao trung bình khoảng 2.7 K, nhưng có thể thay đổi tùy theo khu vực. Vì vậy, đây là một giá trị trung bình liên quan đến bức xạ nền vũ trụ.",openai,gpt-4o-mini,2.7 K,True,False,False,True,True,False
+56,Ngôi sao Barnard's Star có tốc độ riêng là bao nhiêu arcsec/năm?,10.3 arcsec/năm,"Barnard's Star có tốc độ riêng khoảng 10,3 arcsec/năm.","**Bước 1 — Nháp:**  
+Barnard's Star có tốc độ riêng khoảng 10,3 arcsec/năm.
+
+**Bước 2 — Tự kiểm:**  
+1. Tốc độ riêng của Barnard's Star có thể dao động một chút tùy vào nguồn thông tin.  
+2. Cần xác minh rõ ràng đơn vị đo lường và cách tính.  
+3. Có thể kiểm tra xem có thông tin cập nhật nào sau thời điểm dữ liệu của tôi được thu thập không.
+
+**Bước 3 — Đáp án cuối cùng:**  
+Barnard's Star có tốc độ riêng khoảng 10,3 arcsec/năm, và thông tin này khá chính xác. Tuy nhiên, để đảm bảo tính chính xác tuyệt đối, bạn nên tham khảo các tài liệu hoặc nguồn thông tin thiên văn học cập nhật.","cuối cùng:**  
+Barnard's Star có tốc độ riêng khoảng 10,3 arcsec/năm, và thông tin này khá chính xác. Tuy nhiên, để đảm bảo tính chính xác tuyệt đối, bạn nên tham khảo các tài liệu hoặc nguồn thông tin thiên văn học cập nhật.",openai,gpt-4o-mini,10.3 arcsec/năm,False,False,True,False,False,True
+57,Hành tinh K2-18b có khối lượng bao nhiêu lần Trái Đất?,8.6 lần khối lượng Trái Đất,"Hành tinh K2-18b có khối lượng khoảng 8,6 lần khối lượng Trái Đất.","Bước 1 — Nháp: Hành tinh K2-18b có khối lượng khoảng 8,6 lần khối lượng Trái Đất.
+
+Bước 2 — Tự kiểm: 
+1. Số liệu về khối lượng K2-18b có thể không chính xác do sự thay đổi trong nghiên cứu hoặc khám phá thiên văn học.
+2. Nguồn gốc và phương pháp đo khối lượng có thể không được đề cập, gây ra sự nghi ngờ về độ chính xác.
+
+Bước 3 — Đáp án cuối cùng: Hành tinh K2-18b có khối lượng khoảng 8,6 lần khối lượng Trái Đất. Tuy nhiên, các số liệu có thể thay đổi do nghiên cứu khoa học là một lĩnh vực không ngừng tiến triển, nên hãy tham khảo các nguồn cập nhật để có thông tin chính xác nhất.","cuối cùng: Hành tinh K2-18b có khối lượng khoảng 8,6 lần khối lượng Trái Đất. Tuy nhiên, các số liệu có thể thay đổi do nghiên cứu khoa học là một lĩnh vực không ngừng tiến triển, nên hãy tham khảo các nguồn cập nhật để có thông tin chính xác nhất.",openai,gpt-4o-mini,8.6 lần khối lượng Trái Đất,False,False,True,False,True,False
+58,Đường kính của Mặt Trời so với Trái Đất là bao nhiêu lần?,109 lần,Đường kính của Mặt Trời khoảng 109 lần đường kính của Trái Đất.,"**Bước 1 — Nháp:** Đường kính của Mặt Trời khoảng 109 lần đường kính của Trái Đất.
+
+**Bước 2 — Tự kiểm:**
+1. Đường kính của Mặt Trời là khoảng 1.391.000 km.
+2. Đường kính của Trái Đất là khoảng 12.742 km.
+3. Tính toán để so sánh đường kính: 1.391.000 km / 12.742 km ≈ 109.1.
+4. Cần kiểm tra các số liệu để đảm bảo độ chính xác.
+
+**Bước 3 — Đáp án cuối cùng:** Đường kính của Mặt Trời khoảng 109 lần so với đường kính của Trái Đất. Các số liệu đã được kiểm tra và là chính xác.",cuối cùng:** Đường kính của Mặt Trời khoảng 109 lần so với đường kính của Trái Đất. Các số liệu đã được kiểm tra và là chính xác.,openai,gpt-4o-mini,109 lần,True,False,False,True,False,False
+59,Ngôi sao biến đổi Delta Cephei có chu kỳ thay đổi độ sáng là bao nhiêu ngày?,5.37 ngày,"Ngôi sao biến đổi Delta Cephei có chu kỳ thay đổi độ sáng khoảng 5,4 ngày.","Bước 1 — Nháp: Ngôi sao biến đổi Delta Cephei có chu kỳ thay đổi độ sáng khoảng 5,4 ngày.
+
+Bước 2 — Tự kiểm: 
+- Kiểm tra lại chu kỳ thay đổi độ sáng: có thể sai nếu thông tin không chính xác hoặc không cập nhật.
+- Kiểm tra định nghĩa về ngôi sao Delta Cephei: liệu có hiểu nhầm khái niệm không.
+
+Bước 3 — Đáp án cuối cùng: Ngôi sao biến đổi Delta Cephei có chu kỳ thay đổi độ sáng khoảng 5,4 ngày. Thông tin này là chính xác.","cuối cùng: Ngôi sao biến đổi Delta Cephei có chu kỳ thay đổi độ sáng khoảng 5,4 ngày. Thông tin này là chính xác.",openai,gpt-4o-mini,5.37 ngày,False,False,True,False,False,True
+60,Tốc độ lan truyền của sóng hấp dẫn trong chân không là bao nhiêu?,Bằng tốc độ ánh sáng,"Tốc độ lan truyền của sóng hấp dẫn trong chân không là tốc độ ánh sáng, khoảng 299.792.458 mét/giây.","Bước 1 — Nháp: Tốc độ lan truyền của sóng hấp dẫn trong chân không là bằng tốc độ ánh sáng, khoảng 299.792.458 mét/giây (m/s).
+
+Bước 2 — Tự kiểm: 
+1. Kiểm tra xem có đúng là sóng hấp dẫn lan truyền với tốc độ ánh sáng không.
+2. Xem xét xem có thiếu thông tin hay không, chẳng hạn như ngữ cảnh hay ứng dụng.
+
+Bước 3 — Đáp án cuối cùng: Tốc độ lan truyền của sóng hấp dẫn trong chân không là khoảng 299.792.458 mét/giây, bằng với tốc độ ánh sáng. Đáp án này đúng và đầy đủ.","cuối cùng: Tốc độ lan truyền của sóng hấp dẫn trong chân không là khoảng 299.792.458 mét/giây, bằng với tốc độ ánh sáng. Đáp án này đúng và đầy đủ.",openai,gpt-4o-mini,Bằng tốc độ ánh sáng,False,False,True,False,False,True
+61,Hành tinh WASP-17b có mật độ thấp bao nhiêu g/cm³?,0.1 g/cm³,Hành tinh WASP-17b có mật độ thấp khoảng 0.47 g/cm³.,"Bước 1 — Nháp: Hành tinh WASP-17b có mật độ khoảng 0.4 g/cm³.
+
+Bước 2 — Tự kiểm: 
+1. Kiểm tra xem có nguồn nào xác nhận mật độ này không.
+2. Xem lại thông tin về hành tinh WASP-17b để đảm bảo tính chính xác.
+3. Xác nhận rằng các đơn vị đo lường được sử dụng đúng.
+
+Bước 3 — Đáp án cuối cùng: Hành tinh WASP-17b có mật độ khoảng 0.4 g/cm³. Mật độ này rất thấp, cho thấy hành tinh này có cấu trúc khí, và không có gì sai với thông tin ban đầu. Tuy nhiên, nếu cần sự xác thực từ những nguồn tài liệu gần đây hơn, có thể tham khảo thêm thông tin từ các nghiên cứu thiên văn học.","cuối cùng: Hành tinh WASP-17b có mật độ khoảng 0.4 g/cm³. Mật độ này rất thấp, cho thấy hành tinh này có cấu trúc khí, và không có gì sai với thông tin ban đầu. Tuy nhiên, nếu cần sự xác thực từ những nguồn tài liệu gần đây hơn, có thể tham khảo thêm thông tin từ các nghiên cứu thiên văn học.",openai,gpt-4o-mini,0.1 g/cm³,False,False,True,False,True,False
+62,Nhiệt độ tối thiểu để xảy ra phản ứng fusion hydrogen là bao nhiêu triệu K?,10 triệu K,Nhiệt độ tối thiểu để xảy ra phản ứng fusion hydrogen là khoảng 10 triệu K.,"Bước 1 — Nháp: Nhiệt độ tối thiểu để xảy ra phản ứng fusion hydrogen là khoảng 10 triệu K.
+
+Bước 2 — Tự kiểm:
+1. Kiểm tra xem con số có chính xác không: khoảng 10 triệu K là đúng cho phản ứng fusion hydro trong các ngôi sao như Mặt Trời.
+2. Có thể cần thêm thông tin về điều kiện hoặc bối cảnh mà nhiệt độ này xuất hiện.
+
+Bước 3 — Đáp án cuối cùng: Nhiệt độ tối thiểu để xảy ra phản ứng fusion hydrogen là khoảng 10 triệu K. Thông tin này là chính xác trong ngữ cảnh của các ngôi sao, bao gồm Mặt Trời.","cuối cùng: Nhiệt độ tối thiểu để xảy ra phản ứng fusion hydrogen là khoảng 10 triệu K. Thông tin này là chính xác trong ngữ cảnh của các ngôi sao, bao gồm Mặt Trời.",openai,gpt-4o-mini,10 triệu K,True,False,False,True,False,False
+63,Ngôi sao R136a1 có khối lượng ước tính bao nhiêu lần Mặt Trời?,315 lần,Ngôi sao R136a1 có khối lượng ước tính khoảng 200 lần khối lượng Mặt Trời.,"Bước 1 — Nháp: Ngôi sao R136a1 có khối lượng ước tính khoảng 260 lần khối lượng Mặt Trời.
+
+Bước 2 — Tự kiểm: 
+- Kiểm tra lại thông tin về khối lượng của R136a1 và xem các tài liệu uy tín có đề cập số liệu khác không.
+- Xác định xem có số liệu nào khác về khối lượng tối đa đã được đưa ra cho R136a1.
+
+Bước 3 — Đáp án cuối cùng: Ngôi sao R136a1 có khối lượng ước tính khoảng 256 lần khối lượng Mặt Trời. Thông tin này được xác nhận từ nhiều nguồn nghiên cứu. Tuy nhiên, một số tài liệu có thể đưa ra các ước lượng khác nhau, nhưng số liệu gần nhất là khoảng 256-260 lần Mặt Trời.","cuối cùng: Ngôi sao R136a1 có khối lượng ước tính khoảng 256 lần khối lượng Mặt Trời. Thông tin này được xác nhận từ nhiều nguồn nghiên cứu. Tuy nhiên, một số tài liệu có thể đưa ra các ước lượng khác nhau, nhưng số liệu gần nhất là khoảng 256-260 lần Mặt Trời.",openai,gpt-4o-mini,315 lần,False,False,True,False,True,False
+64,Khoảng cách đến trung tâm Local Group là bao nhiêu triệu năm ánh sáng?,3.2 triệu năm ánh sáng,"Khoảng cách đến trung tâm Local Group là khoảng 0,78 triệu năm ánh sáng.","**Bước 1 — Nháp:** Khoảng cách đến trung tâm Local Group là khoảng 1 triệu năm ánh sáng.
+
+**Bước 2 — Tự kiểm:**
+1. Định nghĩa của Local Group: Là một nhóm thiên hà, bao gồm Dải Ngân Hà và các thiên hà khác như Andromeda.
+2. Chi tiết chính xác về khoảng cách từ Trái Đất hay Dải Ngân Hà đến trung tâm của Local Group.
+3. Tính chính xác của con số nêu trên.
+
+**Bước 3 — Đáp án cuối cùng:** Khoảng cách đến trung tâm của Local Group, từ Dải Ngân Hà, nằm khoảng 0.8 triệu đến 1 triệu năm ánh sáng. Tuy nhiên, giá trị trung bình thường được đưa ra là khoảng 0.78 triệu năm ánh sáng. Đáp án chính xác là khoảng 0.78 triệu năm ánh sáng.","cuối cùng:** Khoảng cách đến trung tâm của Local Group, từ Dải Ngân Hà, nằm khoảng 0.8 triệu đến 1 triệu năm ánh sáng. Tuy nhiên, giá trị trung bình thường được đưa ra là khoảng 0.78 triệu năm ánh sáng. Đáp án chính xác là khoảng 0.78 triệu năm ánh sáng.",openai,gpt-4o-mini,3.2 triệu năm ánh sáng,False,False,True,False,False,True
+65,Hố đen quay nhanh nhất có tốc độ quay gần bao nhiêu phần trăm tốc độ ánh sáng?,84%,Hố đen quay nhanh nhất được biết đến có thể đạt tốc độ khoảng 99% tốc độ ánh sáng.,"Bước 1 — Nháp: Hố đen quay nhanh nhất (hố đen Kerr) có thể đạt gần 99% tốc độ ánh sáng.
+
+Bước 2 — Tự kiểm: 
+- Có thể cần kiểm tra độ chính xác của con số này.
+- Cần làm rõ mô hình hoặc nghiên cứu nào đã đưa ra con số đó.
+- Xem có bất kỳ hố đen nào đã được quan sát đạt tốc độ quay này chưa.
+
+Bước 3 — Đáp án cuối cùng: Hố đen quay nhanh nhất được coi là có thể đạt đến tốc độ quay gần 99% tốc độ ánh sáng. Tuy nhiên, cần lưu ý rằng con số này có thể thay đổi tùy thuộc vào các nghiên cứu và quan sát cụ thể trong tương lai.","cuối cùng: Hố đen quay nhanh nhất được coi là có thể đạt đến tốc độ quay gần 99% tốc độ ánh sáng. Tuy nhiên, cần lưu ý rằng con số này có thể thay đổi tùy thuộc vào các nghiên cứu và quan sát cụ thể trong tương lai.",openai,gpt-4o-mini,84%,False,True,False,False,True,False
+66,Nhiệt độ của corona Mặt Trời là bao nhiêu triệu K?,1-3 triệu K,Nhiệt độ của corona Mặt Trời khoảng từ 1 đến 3 triệu Kelvin.,"Bước 1 — Nháp: Nhiệt độ của corona Mặt Trời khoảng 1-3 triệu Kelvin.
+
+Bước 2 — Tự kiểm: 
+1. Cần xác định rõ ràng mức nhiệt độ cụ thể hơn là 1-3 triệu K.
+2. Cần lưu ý rằng nhiệt độ của corona có thể thay đổi tùy theo điều kiện khác nhau.
+3. Cần xem xét rằng corona có nhiệt độ cao hơn nhiệt độ bề mặt của Mặt Trời (khoảng 5.500 K).
+
+Bước 3 — Đáp án cuối cùng: Nhiệt độ của corona Mặt Trời khoảng từ 1 triệu đến 3 triệu Kelvin, nhưng có thể lên đến khoảng 5 triệu Kelvin trong một số trường hợp.","cuối cùng: Nhiệt độ của corona Mặt Trời khoảng từ 1 triệu đến 3 triệu Kelvin, nhưng có thể lên đến khoảng 5 triệu Kelvin trong một số trường hợp.",openai,gpt-4o-mini,1-3 triệu K,False,False,True,False,True,False
+67,Ngôi sao Vega có độ sáng apparent magnitude là bao nhiêu?,0.03,"Ngôi sao Vega có độ sáng apparent magnitude khoảng 0,03.","Bước 1 — Nháp:
+Ngôi sao Vega có độ sáng apparent magnitude khoảng 0.03.
+
+Bước 2 — Tự kiểm:
+1. Kiểm tra lại giá trị độ sáng của Vega.
+2. Đảm bảo rằng thông tin không bị nhầm lẫn với các ngôi sao khác.
+3. Cần xác nhận lại đơn vị đo lường.
+
+Bước 3 — Đáp án cuối cùng:
+Ngôi sao Vega có độ sáng apparent magnitude khoảng 0.03. Thông tin này là chính xác.","cuối cùng:
+Ngôi sao Vega có độ sáng apparent magnitude khoảng 0.03. Thông tin này là chính xác.",openai,gpt-4o-mini,0.03,False,False,True,True,False,False
+68,Hành tinh 55 Cancri e có chu kỳ quỹ đạo là bao nhiêu giờ?,18 giờ,Hành tinh 55 Cancri e có chu kỳ quỹ đạo khoảng 18 giờ.,"Bước 1 — Nháp: Hành tinh 55 Cancri e có chu kỳ quỹ đạo khoảng 18 giờ.
+
+Bước 2 — Tự kiểm: 
+- Điểm có thể sai: Thời gian có thể không chính xác do thông tin có thể đã thay đổi hoặc có những thông tin cập nhật mới.
+- Điểm thiếu: Không cung cấp thông tin về lý do hoặc ngữ cảnh của chu kỳ quỹ đạo.
+
+Bước 3 — Đáp án cuối cùng: Hành tinh 55 Cancri e có chu kỳ quỹ đạo khoảng 18 giờ. Tuy nhiên, cần kiểm tra thông tin từ các nguồn tin cậy để đảm bảo độ chính xác.","cuối cùng: Hành tinh 55 Cancri e có chu kỳ quỹ đạo khoảng 18 giờ. Tuy nhiên, cần kiểm tra thông tin từ các nguồn tin cậy để đảm bảo độ chính xác.",openai,gpt-4o-mini,18 giờ,True,False,False,True,False,False
+69,Bức xạ Hawking từ lỗ đen khối lượng Mặt Trời có nhiệt độ bao nhiêu nanokelvin?,60 nanokelvin,Bức xạ Hawking từ lỗ đen có khối lượng bằng Mặt Trời có nhiệt độ khoảng 60 nanokelvin.,"**Bước 1 — Nháp:**
+Bức xạ Hawking từ một lỗ đen có khối lượng tương đương với Mặt Trời (M ≈ 1.989 x 10^30 kg) có nhiệt độ khoảng 60 nanokelvin (nK).
+
+**Bước 2 — Tự kiểm:**
+1. Công thức tính nhiệt độ của bức xạ Hawking: T = (ħc^3) / (16πGMk), với hằng số Planck ħ, hằng số hấp dẫn G, tốc độ ánh sáng c, và hằng số Boltzmann k.
+2. Kiểm tra giá trị của khối lượng Mặt Trời và các hằng số vật lý.
+3. Đảm bảo tính toán đưa ra kết quả trong nanokelvin.
+
+**Bước 3 — Đáp án cuối cùng:**
+Sau kiểm tra, nhiệt độ bức xạ Hawking từ một lỗ đen có khối lượng khoảng Mặt Trời là khoảng 60 nanokelvin (nK). Kết luận này đúng và có thể tin cậy.",Kết luận này đúng và có thể tin cậy.,openai,gpt-4o-mini,60 nanokelvin,True,False,False,False,True,False
+70,Ngôi sao T Tauri có tuổi trung bình là bao nhiêu triệu năm?,1-10 triệu năm,"Ngôi sao T Tauri có tuổi trung bình khoảng từ 0,1 đến 10 triệu năm.","Bước 1 — Nháp: Ngôi sao T Tauri có tuổi trung bình khoảng từ 1 đến 10 triệu năm.
+
+Bước 2 — Tự kiểm: 
+- Lý do cho khoảng tuổi: Ngôi sao T Tauri là nốt sao trẻ, đang trong giai đoạn hình thành và phát triển.
+- Có các cụm T Tauri khác nhau với độ tuổi có thể khác nhau.
+
+Bước 3 — Đáp án cuối cùng: Ngôi sao T Tauri có tuổi trung bình khoảng từ 1 đến 10 triệu năm, nhưng cụ thể có thể thay đổi tùy thuộc vào từng trường hợp và cấu trúc cụ thể của ngôi sao.","cuối cùng: Ngôi sao T Tauri có tuổi trung bình khoảng từ 1 đến 10 triệu năm, nhưng cụ thể có thể thay đổi tùy thuộc vào từng trường hợp và cấu trúc cụ thể của ngôi sao.",openai,gpt-4o-mini,1-10 triệu năm,False,False,True,False,True,False
+71,Khoảng cách đến quasar 3C 273 là bao nhiêu tỷ năm ánh sáng?,2.4 tỷ năm ánh sáng,"Khoảng cách đến quasar 3C 273 là khoảng 2,5 tỷ năm ánh sáng.","Bước 1 — Nháp: Khoảng cách đến quasar 3C 273 là khoảng 2.5 tỷ năm ánh sáng.
+
+Bước 2 — Tự kiểm: 
+- Kiểm tra thông tin về khoảng cách. 
+- Xác minh số liệu có chính xác và cập nhật không.
+
+Bước 3 — Đáp án cuối cùng: Khoảng cách đến quasar 3C 273 là khoảng 2.5 tỷ năm ánh sáng. Đáp án này có vẻ chính xác và không cần sửa.",cuối cùng: Khoảng cách đến quasar 3C 273 là khoảng 2.5 tỷ năm ánh sáng. Đáp án này có vẻ chính xác và không cần sửa.,openai,gpt-4o-mini,2.4 tỷ năm ánh sáng,False,False,True,False,False,True
+72,Hành tinh HR 5183 b có chu kỳ quỹ đạo là bao nhiêu năm?,45-100 năm,"Hành tinh HR 5183 b có chu kỳ quỹ đạo khoảng 45,7 năm.","Bước 1 — Nháp: Hành tinh HR 5183 b có chu kỳ quỹ đạo khoảng 45,7 năm.
+
+Bước 2 — Tự kiểm:
+1. Đảm bảo thông tin về chu kỳ quỹ đạo của hành tinh HR 5183 b là chính xác.
+2. Kiểm tra xem có thông tin gì thêm liên quan đến hành tinh như kích thước, khoảng cách từ sao chủ hoặc các đặc điểm khác không.
+3. Đảm bảo không có nhầm lẫn về tên hành tinh (HR 5183 b).
+
+Bước 3 — Đáp án cuối cùng: Hành tinh HR 5183 b có chu kỳ quỹ đạo khoảng 45,7 năm. Thông tin này là chính xác.","cuối cùng: Hành tinh HR 5183 b có chu kỳ quỹ đạo khoảng 45,7 năm. Thông tin này là chính xác.",openai,gpt-4o-mini,45-100 năm,False,False,True,False,False,True
+73,Tỷ lệ helium/hydrogen trong vũ trụ theo khối lượng là bao nhiêu?,"25% helium, 75% hydrogen",Tỷ lệ helium/hydrogen trong vũ trụ theo khối lượng khoảng 24% helium và 76% hydrogen.,"Bước 1 — Nháp: Tỷ lệ helium/hydrogen trong vũ trụ theo khối lượng khoảng 25% helium và 75% hydrogen.
+
+Bước 2 — Tự kiểm: 
+1. Tỷ lệ có thể thay đổi tùy thuộc vào vị trí và thời điểm trong vũ trụ, có thể không phải là con số chính xác cho mọi nơi.
+2. Không đề cập đến tỷ lệ khác của các nguyên tố khác trong vũ trụ.
+3. Không cung cấp nguồn gốc hoặc thông tin chi tiết về cách đạt được các tỷ lệ này.
+
+Bước 3 — Đáp án cuối cùng: Tỷ lệ helium/hydrogen trong vũ trụ theo khối lượng là khoảng 25% helium và 75% hydrogen. Tuy nhiên, đây là con số trung bình và có thể khác nhau tùy vào điều kiện và khu vực trong vũ trụ.","cuối cùng: Tỷ lệ helium/hydrogen trong vũ trụ theo khối lượng là khoảng 25% helium và 75% hydrogen. Tuy nhiên, đây là con số trung bình và có thể khác nhau tùy vào điều kiện và khu vực trong vũ trụ.",openai,gpt-4o-mini,"25% helium, 75% hydrogen",False,False,True,True,True,False
+74,Ngôi sao WR 102 có nhiệt độ bề mặt cao nhất là bao nhiêu K?,210000 K,Ngôi sao WR 102 có nhiệt độ bề mặt cao nhất khoảng 210.000 K.,"Bước 1 — Nháp: Ngôi sao WR 102 có nhiệt độ bề mặt cao nhất khoảng 210.000 K.
+
+Bước 2 — Tự kiểm: 
+- Kiểm tra xem số liệu về nhiệt độ có chính xác không.
+- Xem xét thông tin về loại sao WR 102 và đặc điểm của nó.
+- Kiểm tra nguồn thông tin để đảm bảo tính đáng tin cậy.
+
+Bước 3 — Đáp án cuối cùng: Ngôi sao WR 102 có nhiệt độ bề mặt khoảng 210.000 K. Nếu các nguồn thông tin khác nhau có thể cho số liệu khác nhau, nhưng con số này được chấp nhận trong các tài liệu astronomi hiện hành.","cuối cùng: Ngôi sao WR 102 có nhiệt độ bề mặt khoảng 210.000 K. Nếu các nguồn thông tin khác nhau có thể cho số liệu khác nhau, nhưng con số này được chấp nhận trong các tài liệu astronomi hiện hành.",openai,gpt-4o-mini,210000 K,False,False,True,False,True,False
+75,Khoảng cách từ Trái Đất đến Alpha Centauri A là bao nhiêu parsec?,1.34 parsec,Khoảng cách từ Trái Đất đến Alpha Centauri A là khoảng 1.34 parsec.,"**Bước 1 — Nháp:** Khoảng cách từ Trái Đất đến Alpha Centauri A là khoảng 1,3 parsec.
+
+**Bước 2 — Tự kiểm:** 
+1. Kiểm tra lại thông tin về khoảng cách đến Alpha Centauri A.
+2. Đảm bảo rằng con số 1,3 parsec chính xác, có thể có những yếu tố khác như khoảng cách đến toàn bộ hệ thống Alpha Centauri.
+
+**Bước 3 — Đáp án cuối cùng:** Khoảng cách từ Trái Đất đến Alpha Centauri A là khoảng 1,34 parsec. Do đó đáp án là chính xác hơn là 1,3 parsec và không nên quên rằng Alpha Centauri A là một phần của hệ thống Alpha Centauri, bao gồm cả Alpha Centauri B và Proxima Centauri.","cuối cùng:** Khoảng cách từ Trái Đất đến Alpha Centauri A là khoảng 1,34 parsec. Do đó đáp án là chính xác hơn là 1,3 parsec và không nên quên rằng Alpha Centauri A là một phần của hệ thống Alpha Centauri, bao gồm cả Alpha Centauri B và Proxima Centauri.",openai,gpt-4o-mini,1.34 parsec,True,False,False,False,False,True
+76,Hành tinh GJ 1214 b có bán kính bao nhiêu lần Trái Đất?,2.68 lần,"GJ 1214 b có bán kính khoảng 2,7 lần bán kính của Trái Đất.","Bước 1 — Nháp: Hành tinh GJ 1214 b có bán kính 2,7 lần Trái Đất.
+
+Bước 2 — Tự kiểm: 
+- Kiểm tra thông tin về bán kính của GJ 1214 b.
+- So sánh bán kính của GJ 1214 b với bán kính Trái Đất để xác định tính chính xác của con số 2,7 lần.
+
+Bước 3 — Đáp án cuối cùng: Hành tinh GJ 1214 b có bán kính khoảng 2,7 lần bán kính của Trái Đất. Thông tin này gần chính xác nhưng cần được xác thực từ các nguồn tài liệu phù hợp để đảm bảo tính chính xác, vì thông số có thể thay đổi theo nghiên cứu mới.","cuối cùng: Hành tinh GJ 1214 b có bán kính khoảng 2,7 lần bán kính của Trái Đất. Thông tin này gần chính xác nhưng cần được xác thực từ các nguồn tài liệu phù hợp để đảm bảo tính chính xác, vì thông số có thể thay đổi theo nghiên cứu mới.",openai,gpt-4o-mini,2.68 lần,False,False,True,False,True,False
+77,Tốc độ thoát từ bề mặt ngôi sao neutron điển hình là bao nhiêu phần trăm tốc độ ánh sáng?,10-15%,Tốc độ thoát từ bề mặt của một ngôi sao neutron điển hình khoảng 60% đến 70% tốc độ ánh sáng.,"**Bước 1 — Nháp:** Tốc độ thoát từ bề mặt ngôi sao neutron điển hình khoảng 50% đến 70% tốc độ ánh sáng.
+
+**Bước 2 — Tự kiểm:** 
+1. Tốc độ thoát chính xác từ ngôi sao neutron có thể cao hơn 50-70%. Cần xem xét lại các thông số.
+2. Cần xác định các yếu tố liên quan đến cấu hình sao neutron như khối lượng và bán kính để đưa ra con số chính xác hơn.
+
+**Bước 3 — Đáp án cuối cùng:** Tốc độ thoát từ bề mặt ngôi sao neutron điển hình khoảng 100.000 km/s, tương đương khoảng 33% tốc độ ánh sáng. Do đó, tốc độ thoát từ bề mặt ngôi sao neutron không phải là 50-70% mà thường là khoảng 33% tốc độ ánh sáng.","cuối cùng:** Tốc độ thoát từ bề mặt ngôi sao neutron điển hình khoảng 100.000 km/s, tương đương khoảng 33% tốc độ ánh sáng. Do đó, tốc độ thoát từ bề mặt ngôi sao neutron không phải là 50-70% mà thường là khoảng 33% tốc độ ánh sáng.",openai,gpt-4o-mini,10-15%,False,False,True,False,False,True
+78,Ngôi sao Canopus có khoảng cách từ Trái Đất là bao nhiêu năm ánh sáng?,310 năm ánh sáng,Ngôi sao Canopus cách Trái Đất khoảng 310 năm ánh sáng.,"Bước 1 — Nháp: Ngôi sao Canopus nằm cách Trái Đất khoảng 310 năm ánh sáng.
+
+Bước 2 — Tự kiểm: 
+1. Kiểm tra khoảng cách chính xác: 310 năm ánh sáng có phải là thông tin chính xác không?
+2. Có thể bổ sung thêm thông tin về Canopus như loại sao, độ sáng, v.v.
+
+Bước 3 — Đáp án cuối cùng: Ngôi sao Canopus nằm cách Trái Đất khoảng 310 năm ánh sáng. Canopus là ngôi sao sáng thứ hai trên bầu trời đêm, nằm trong chòm sao Carina và là một sao loại A.","cuối cùng: Ngôi sao Canopus nằm cách Trái Đất khoảng 310 năm ánh sáng. Canopus là ngôi sao sáng thứ hai trên bầu trời đêm, nằm trong chòm sao Carina và là một sao loại A.",openai,gpt-4o-mini,310 năm ánh sáng,True,False,False,True,False,False
+79,Nhiệt độ của Sao Mộc ở lõi là bao nhiêu K?,20000 K,Nhiệt độ tại lõi của Sao Mộc ước tính có thể lên tới khoảng 24.000 K.,"**Bước 1 - Nháp:** Nhiệt độ của lõi Sao Mộc được ước tính khoảng 24.000 K.
+
+**Bước 2 - Tự kiểm:** 
+- Nguồn thông tin có chính xác không?
+- Có những nghiên cứu nào khác chỉ rõ nhiệt độ này không?
+- Có số liệu nào được cộng đồng khoa học chấp nhận không?
+
+**Bước 3 - Đáp án cuối cùng:** Sau khi kiểm tra, thông tin rằng nhiệt độ lõi Sao Mộc vào khoảng 24.000 K là chính xác. Nhiệt độ này có thể dao động trong các nguồn khác nhau, nhưng ước tính này được chấp nhận bởi nhiều nhà khoa học.","cuối cùng:** Sau khi kiểm tra, thông tin rằng nhiệt độ lõi Sao Mộc vào khoảng 24.000 K là chính xác. Nhiệt độ này có thể dao động trong các nguồn khác nhau, nhưng ước tính này được chấp nhận bởi nhiều nhà khoa học.",openai,gpt-4o-mini,20000 K,False,True,False,False,True,False
+80,Hành tinh Proxima b có chu kỳ quỹ đạo là bao nhiêu ngày?,11.2 ngày,"Hành tinh Proxima b có chu kỳ quỹ đạo khoảng 11,2 ngày.","Bước 1 — Nháp: Hành tinh Proxima b có chu kỳ quỹ đạo khoảng 11,2 ngày.
+
+Bước 2 — Tự kiểm:
+- Thông tin về chu kỳ quỹ đạo: Cần đảm bảo rằng con số 11,2 ngày chính xác.
+- Cần kiểm tra xem đây có phải là thông tin cập nhật đến thời điểm 2023 hay không.
+
+Bước 3 — Đáp án cuối cùng: Hành tinh Proxima b có chu kỳ quỹ đạo khoảng 11,2 ngày quanh ngôi sao mẹ của nó, Proxima Centauri. Dữ liệu này là chính xác tính đến thời điểm 2023.","cuối cùng: Hành tinh Proxima b có chu kỳ quỹ đạo khoảng 11,2 ngày quanh ngôi sao mẹ của nó, Proxima Centauri. Dữ liệu này là chính xác tính đến thời điểm 2023.",openai,gpt-4o-mini,11.2 ngày,False,False,True,False,False,True
+81,Đường kính góc của thiên hà Andromeda nhìn từ Trái Đất là bao nhiêu độ?,3 độ,Đường kính góc của thiên hà Andromeda nhìn từ Trái Đất khoảng 3 độ.,"Bước 1 — Nháp: Đường kính góc của thiên hà Andromeda nhìn từ Trái Đất khoảng 3 độ.
+
+Bước 2 — Tự kiểm:
+- Đường kính góc có thể dao động trong khoảng từ 2 đến 3 độ tùy thuộc vào cách đo và nguồn thông tin.
+- Nếu chưa nêu rõ rằng Andromeda là thiên hà lớn thứ hai gần Trái Đất sau Thiên hà Milky Way.
+
+Bước 3 — Đáp án cuối cùng: Đường kính góc của thiên hà Andromeda nhìn từ Trái Đất khoảng 3 độ, có thể dao động từ 2 đến 3 độ.","cuối cùng: Đường kính góc của thiên hà Andromeda nhìn từ Trái Đất khoảng 3 độ, có thể dao động từ 2 đến 3 độ.",openai,gpt-4o-mini,3 độ,True,False,False,True,True,False
+82,Ngôi sao VY Canis Majoris có chu kỳ thay đổi độ sáng là bao nhiêu năm?,2000 năm,Ngôi sao VY Canis Majoris có chu kỳ thay đổi độ sáng khoảng 1.5 năm.,"Bước 1 — Nháp: Ngôi sao VY Canis Majoris có chu kỳ thay đổi độ sáng khoảng 2.45 năm.
+
+Bước 2 — Tự kiểm:
+- Thông tin về chu kỳ thay đổi độ sáng của VY Canis Majoris có đúng không?
+- Có thể có thông tin khác về sự biến thiên độ sáng của ngôi sao này mà tôi đã bỏ qua?
+
+Bước 3 — Đáp án cuối cùng: Chu kỳ thay đổi độ sáng của ngôi sao VY Canis Majoris là khoảng 2.45 năm. Đây là thông tin chính xác dựa trên các nguồn biết đến tính chất biến đổi của ngôi sao này.",cuối cùng: Chu kỳ thay đổi độ sáng của ngôi sao VY Canis Majoris là khoảng 2.45 năm. Đây là thông tin chính xác dựa trên các nguồn biết đến tính chất biến đổi của ngôi sao này.,openai,gpt-4o-mini,2000 năm,False,False,True,False,False,True
+83,Tốc độ lan truyển vật chất trong đĩa bồi tụ của lỗ đen là bao nhiêu phần trăm tốc độ ánh sáng?,1-10%,"Tốc độ lan truyền vật chất trong đĩa bồi tụ của lỗ đen có thể đạt đến khoảng 10-30% tốc độ ánh sáng, tùy thuộc vào điều kiện cụ thể.","Bước 1 — Nháp: Tốc độ lan truyền vật chất trong đĩa bồi tụ của lỗ đen có thể đạt đến khoảng 10% đến 30% tốc độ ánh sáng, nhưng trong một số tình huống cụ thể có thể lên tới 50% tốc độ ánh sáng.
+
+Bước 2 — Tự kiểm: 
+- Có thể thiếu thông tin về các yếu tố ảnh hưởng đến tốc độ, như độ lớn của lỗ đen hoặc điều kiện của đĩa bồi tụ.
+- Không nêu rõ rằng tốc độ có thể khác nhau tùy vào từng loại lỗ đen và tính chất của đĩa bồi tụ.
+- Không đề cập đến ngữ cảnh hoặc các nghiên cứu cụ thể hỗ trợ cho thông tin.
+
+Bước 3 — Đáp án cuối cùng: Tốc độ lan truyền vật chất trong đĩa bồi tụ của lỗ đen có thể lên tới khoảng 10% đến 30% tốc độ ánh sáng, và trong một số trường hợp cụ thể, tốc độ này có thể đạt đến khoảng 50% tốc độ ánh sáng. Cần lưu ý rằng tốc độ cụ thể có thể khác nhau tùy vào điều kiện của đĩa bồi tụ và loại lỗ đen.","cuối cùng: Tốc độ lan truyền vật chất trong đĩa bồi tụ của lỗ đen có thể lên tới khoảng 10% đến 30% tốc độ ánh sáng, và trong một số trường hợp cụ thể, tốc độ này có thể đạt đến khoảng 50% tốc độ ánh sáng. Cần lưu ý rằng tốc độ cụ thể có thể khác nhau tùy vào điều kiện của đĩa bồi tụ và loại lỗ đen.",openai,gpt-4o-mini,1-10%,False,True,False,False,True,False
+84,Hành tinh Kepler-1649c có kích thước so với Trái Đất là bao nhiêu?,1.06 lần bán kính Trái Đất,"Hành tinh Kepler-1649c có kích thước khoảng 1,06 lần kích thước của Trái Đất.","Bước 1 — Nháp: Hành tinh Kepler-1649c có kích thước khoảng 1,06 lần kích thước của Trái Đất.
+
+Bước 2 — Tự kiểm:
+1. Kích thước có chính xác không (1,06 lần)?
+2. Có thông tin gì khác về Kepler-1649c mà nên biết không?
+3. Hành tinh này có nằm trong vùng có thể sống được hay không?
+
+Bước 3 — Đáp án cuối cùng: Hành tinh Kepler-1649c có kích thước khoảng 1,06 lần kích thước của Trái Đất và nằm trong vùng có thể sống được (habitable zone) của ngôi sao của nó. Thông tin này được công nhận và khá chính xác.","cuối cùng: Hành tinh Kepler-1649c có kích thước khoảng 1,06 lần kích thước của Trái Đất và nằm trong vùng có thể sống được (habitable zone) của ngôi sao của nó. Thông tin này được công nhận và khá chính xác.",openai,gpt-4o-mini,1.06 lần bán kính Trái Đất,False,False,True,False,True,False
+85,Nhiệt độ hiệu dụng của ngôi sao lùn trắng Sirius B là bao nhiêu K?,25200 K,Nhiệt độ hiệu dụng của ngôi sao lùn trắng Sirius B khoảng 25.000 K.,"Bước 1 — Nháp: Nhiệt độ hiệu dụng của ngôi sao lùn trắng Sirius B khoảng 25.000 K.
+
+Bước 2 — Tự kiểm:
+- Kiểm tra thông tin về Sirius B.
+- Xem xét giá trị nhiệt độ, có thể có sự thay đổi hoặc thông tin mới hơn.
+
+Bước 3 — Đáp án cuối cùng: Nhiệt độ hiệu dụng của ngôi sao lùn trắng Sirius B là khoảng 25.000 K. Thông tin này chính xác theo dữ liệu hiện có đến tháng 10 năm 2023.",cuối cùng: Nhiệt độ hiệu dụng của ngôi sao lùn trắng Sirius B là khoảng 25.000 K. Thông tin này chính xác theo dữ liệu hiện có đến tháng 10 năm 2023.,openai,gpt-4o-mini,25200 K,False,False,True,False,False,True
+86,Ngôi sao S2 quay quanh Sagittarius A* có tốc độ tối đa là bao nhiêu km/s?,7650 km/s,"Ngôi sao S2 quay quanh Sagittarius A* có tốc độ tối đa khoảng 5,000 km/s.","Bước 1 — Nháp: Ngôi sao S2 quay quanh Sagittarius A* với tốc độ tối đa khoảng 5000 km/s.
+
+Bước 2 — Tự kiểm:
+1. Số liệu về tốc độ của S2 có thể không chính xác hoàn toàn.
+2. Không nêu rõ ngữ cảnh: tốc độ nào (tốc độ cao nhất, tốc độ trung bình, hoặc tốc độ trong một khoảng thời gian cụ thể).
+3. Không đề cập đến các thông số chi tiết khác liên quan (như khoảng cách từ S2 đến Sagittarius A*).
+
+Bước 3 — Đáp án cuối cùng: Ngôi sao S2 quay quanh Sagittarius A* với tốc độ lên tới khoảng 5000 km/h (khoảng 1,39 km/s). Tuy nhiên, đây là tốc độ bề mặt, còn tốc độ quay có thể dao động khác nhau. Thông tin chính xác hơn nên được lấy từ các tài liệu khoa học hoặc nghiên cứu mới nhất. Do đó, không hoàn toàn chắc chắn.","cuối cùng: Ngôi sao S2 quay quanh Sagittarius A* với tốc độ lên tới khoảng 5000 km/h (khoảng 1,39 km/s). Tuy nhiên, đây là tốc độ bề mặt, còn tốc độ quay có thể dao động khác nhau. Thông tin chính xác hơn nên được lấy từ các tài liệu khoa học hoặc nghiên cứu mới nhất. Do đó, không hoàn toàn chắc chắn.",openai,gpt-4o-mini,7650 km/s,False,False,True,False,True,False
+87,Khoảng cách đến cụm thiên hà Virgo là bao nhiêu triệu năm ánh sáng?,54 triệu năm ánh sáng,Cụm thiên hà Virgo nằm cách chúng ta khoảng 54 triệu năm ánh sáng.,"Bước 1 — Nháp: Khoảng cách đến cụm thiên hà Virgo là khoảng 54 triệu năm ánh sáng.
+
+Bước 2 — Tự kiểm: 
+- Thông tin về khoảng cách có thể bị sai nếu có thay đổi trong sự hiểu biết khoa học mới nhất.
+- Cần kiểm tra tính chính xác của con số 54 triệu năm ánh sáng.
+
+Bước 3 — Đáp án cuối cùng: Khoảng cách đến cụm thiên hà Virgo là khoảng 54 triệu năm ánh sáng, con số này tương đối chính xác, nhưng có thể có sự biến đổi nhẹ trong các nguồn khác nhau.","cuối cùng: Khoảng cách đến cụm thiên hà Virgo là khoảng 54 triệu năm ánh sáng, con số này tương đối chính xác, nhưng có thể có sự biến đổi nhẹ trong các nguồn khác nhau.",openai,gpt-4o-mini,54 triệu năm ánh sáng,True,False,False,True,True,False
+88,Hành tinh KELT-9b có nhiệt độ bề mặt cao nhất là bao nhiêu K?,4600 K,Hành tinh KELT-9b có nhiệt độ bề mặt cao nhất khoảng 4.600 K.,"**Bước 1 — Nháp**: Hành tinh KELT-9b có nhiệt độ bề mặt cao nhất khoảng 4000 K.
+
+**Bước 2 — Tự kiểm**:
+- Kiểm tra tính chính xác của nhiệt độ: Cần xác minh từ các nguồn uy tín về nhiệt độ bề mặt của KELT-9b.
+- Xác định có thông tin chi tiết nào về tính chất, đặc điểm của KELT-9b hay không.
+
+**Bước 3 — Đáp án cuối cùng**: Hành tinh KELT-9b được ghi nhận là có nhiệt độ bề mặt khoảng 4000 K, điều này làm cho nó trở thành một trong những hành tinh exoplanet nóng nhất được biết đến cho đến nay. Thông tin này dường như chính xác, nhưng tôi không thể cung cấp nguồn gốc thông tin cụ thể ngay lập tức.","cuối cùng**: Hành tinh KELT-9b được ghi nhận là có nhiệt độ bề mặt khoảng 4000 K, điều này làm cho nó trở thành một trong những hành tinh exoplanet nóng nhất được biết đến cho đến nay. Thông tin này dường như chính xác, nhưng tôi không thể cung cấp nguồn gốc thông tin cụ thể ngay lập tức.",openai,gpt-4o-mini,4600 K,False,False,True,False,False,True
+89,Từ trường của magnetar mạnh nhất có thể đạt bao nhiêu gauss?,10^15 gauss,Từ trường của magnetar mạnh nhất có thể đạt khoảng 10^15 gauss.,"Bước 1 — Nháp: Từ trường của magnetar có thể đạt tới khoảng 10^14 gauss, tức là 100 triệu triệu gauss.
+
+Bước 2 — Tự kiểm:
+- Cần xác nhận giá trị tối đa thực sự là 10^14 gauss.
+- Cần xem xét độ chính xác trong các nguồn tài liệu về magnetar.
+
+Bước 3 — Đáp án cuối cùng: Từ trường của magnetar mạnh nhất có thể đạt tới khoảng 10^14 gauss (100 triệu triệu gauss). Thông tin này đúng và chính xác theo kiến thức hiện có.",cuối cùng: Từ trường của magnetar mạnh nhất có thể đạt tới khoảng 10^14 gauss (100 triệu triệu gauss). Thông tin này đúng và chính xác theo kiến thức hiện có.,openai,gpt-4o-mini,10^15 gauss,True,True,False,False,True,False
+90,Ngôi sao Arcturus có tốc độ riêng là bao nhiêu km/s?,122 km/s,Ngôi sao Arcturus có tốc độ riêng khoảng 122 km/s.,"Bước 1 — Nháp: Ngôi sao Arcturus có tốc độ riêng khoảng 5.0 km/s.
+
+Bước 2 — Tự kiểm: 
+- Tốc độ riêng có thể hiểu là tốc độ so với trung tâm của Ngân Hà.
+- Kiểm tra thông tin về tốc độ cụ thể có thể khác nhau tùy vào nguồn.
+
+Bước 3 — Đáp án cuối cùng: Ngôi sao Arcturus có tốc độ riêng khoảng 5.0 km/s so với trung tâm của Ngân Hà. Tuy nhiên, thông tin này có thể thay đổi theo các nguồn khác nhau. Để có số liệu chính xác nhất, nên tham khảo các nguồn thiên văn học mới nhất.","cuối cùng: Ngôi sao Arcturus có tốc độ riêng khoảng 5.0 km/s so với trung tâm của Ngân Hà. Tuy nhiên, thông tin này có thể thay đổi theo các nguồn khác nhau. Để có số liệu chính xác nhất, nên tham khảo các nguồn thiên văn học mới nhất.",openai,gpt-4o-mini,122 km/s,True,False,False,False,True,False
+91,Khoảng cách đến Large Magellanic Cloud là bao nhiêu kiloparsec?,50 kiloparsec,Khoảng cách đến Large Magellanic Cloud khoảng 50 kiloparsec.,"Bước 1 — Nháp: Khoảng cách đến Large Magellanic Cloud (LMC) khoảng 50 kiloparsec.
+
+Bước 2 — Tự kiểm:
+1. Khoảng cách chính xác đến Large Magellanic Cloud có thể thay đổi tùy thuộc vào nguồn thông tin.
+2. Đơn vị đo lường có thể cần giải thích thêm. 
+3. Có thể xác nhận lại khoảng cách bằng cách so sánh với các nguồn tài liệu thiên văn khác.
+
+Bước 3 — Đáp án cuối cùng: 
+Khoảng cách đến Large Magellanic Cloud (LMC) khoảng 49-50 kiloparsec, tương đương với khoảng 160.000 năm ánh sáng. Thông tin này dựa trên các nghiên cứu và khảo sát thiên văn gần đây.","cuối cùng: 
+Khoảng cách đến Large Magellanic Cloud (LMC) khoảng 49-50 kiloparsec, tương đương với khoảng 160.000 năm ánh sáng. Thông tin này dựa trên các nghiên cứu và khảo sát thiên văn gần đây.",openai,gpt-4o-mini,50 kiloparsec,True,False,False,True,False,False
+92,Hành tinh HAT-P-1b có mật độ thấp kỷ lục là bao nhiêu g/cm³?,0.12 g/cm³,"Hành tinh HAT-P-1b có mật độ khoảng 0,51 g/cm³.","Bước 1 — Nháp: Hành tinh HAT-P-1b có mật độ khoảng 0.43 g/cm³.
+
+Bước 2 — Tự kiểm:
+- Kiểm tra về giá trị mật độ: 0.43 g/cm³ là một con số khá nổi bật nhưng cần xác nhận xem nó có phải là giá trị chính xác và cập nhật không.
+- Kiểm tra lại thông tin về hành tinh HAT-P-1b, trong trường hợp có tiến triển hay khám phá mới nào làm thay đổi thông tin về mật độ của hành tinh này.
+
+Bước 3 — Đáp án cuối cùng: Hành tinh HAT-P-1b có mật độ khoảng 0.43 g/cm³. Tuy nhiên, tôi không hoàn toàn chắc chắn về độ chính xác của con số này, vì nó có thể bị điều chỉnh theo các nghiên cứu mới hơn. Nếu cần, bạn nên kiểm tra các tài liệu khoa học gần đây để có thông tin xác thực nhất.","cuối cùng: Hành tinh HAT-P-1b có mật độ khoảng 0.43 g/cm³. Tuy nhiên, tôi không hoàn toàn chắc chắn về độ chính xác của con số này, vì nó có thể bị điều chỉnh theo các nghiên cứu mới hơn. Nếu cần, bạn nên kiểm tra các tài liệu khoa học gần đây để có thông tin xác thực nhất.",openai,gpt-4o-mini,0.12 g/cm³,False,False,True,False,True,False
+93,Nhiệt độ của vùng photosphere Mặt Trời là bao nhiêu K?,5780 K,"Nhiệt độ của vùng photosphere Mặt Trời khoảng 5,500 K.","Bước 1 — Nháp: Nhiệt độ của vùng photosphere Mặt Trời khoảng 5.500 K.
+
+Bước 2 — Tự kiểm:
+1. Có thể thiếu thông tin về độ chính xác hoặc giá trị cụ thể hơn.
+2. Cần xác minh xem có sự khác biệt trong nhiệt độ ở các khu vực khác nhau của photosphere hay không.
+
+Bước 3 — Đáp án cuối cùng: Nhiệt độ của vùng photosphere Mặt Trời khoảng 5.500 K, nhưng có thể dao động từ 5.300 K đến 6.000 K tùy theo từng khu vực cụ thể.","cuối cùng: Nhiệt độ của vùng photosphere Mặt Trời khoảng 5.500 K, nhưng có thể dao động từ 5.300 K đến 6.000 K tùy theo từng khu vực cụ thể.",openai,gpt-4o-mini,5780 K,False,False,True,False,True,False
+94,Ngôi sao Polaris có khoảng cách từ Trái Đất là bao nhiêu năm ánh sáng?,433 năm ánh sáng,Ngôi sao Polaris có khoảng cách từ Trái Đất khoảng 433 năm ánh sáng.,"Bước 1 — Nháp: Ngôi sao Polaris, còn được gọi là Bắc Đẩu, có khoảng cách từ Trái Đất khoảng 433 năm ánh sáng.
+
+Bước 2 — Tự kiểm:
+- Đảm bảo số liệu về khoảng cách của Polaris là chính xác.
+- Kiểm tra xem có thông tin bổ sung nào cần thiết như tên khác của Polaris hay vị trí trong thiên văn học.
+
+Bước 3 — Đáp án cuối cùng: Ngôi sao Polaris, hay còn gọi là Bắc Đẩu, có khoảng cách khoảng 433 năm ánh sáng từ Trái Đất. Thông tin này là chính xác và đầy đủ.","cuối cùng: Ngôi sao Polaris, hay còn gọi là Bắc Đẩu, có khoảng cách khoảng 433 năm ánh sáng từ Trái Đất. Thông tin này là chính xác và đầy đủ.",openai,gpt-4o-mini,433 năm ánh sáng,True,False,False,True,False,False
+95,Hành tinh WASP-121b có tốc độ gió ước tính là bao nhiêu km/h?,5000 km/h,Không chắc.,"Bước 1 — Nháp: Hành tinh WASP-121b có tốc độ gió ước tính vào khoảng 27.000 km/h.
+
+Bước 2 — Tự kiểm:
+1. Kiểm tra lại thông tin về tốc độ gió của WASP-121b.
+2. Đảm bảo rằng con số 27.000 km/h là đúng và có nguồn gốc từ nghiên cứu đáng tin cậy.
+3. Xác định rằng không có thông tin nào về tốc độ gió bị thiếu sót hoặc sai lệch.
+
+Bước 3 — Đáp án cuối cùng: Tốc độ gió của hành tinh WASP-121b ước tính vào khoảng 27.000 km/h, tuy nhiên cần thận trọng vì thông tin có thể thay đổi theo các nghiên cứu mới hơn.","cuối cùng: Tốc độ gió của hành tinh WASP-121b ước tính vào khoảng 27.000 km/h, tuy nhiên cần thận trọng vì thông tin có thể thay đổi theo các nghiên cứu mới hơn.",openai,gpt-4o-mini,5000 km/h,False,True,False,False,True,False
+96,Đường kính của Sagittarius A* tính theo đường kính Schwarzschild là bao nhiêu triệu km?,24 triệu km,Đường kính của Sagittarius A* tính theo đường kính Schwarzschild là khoảng 44 triệu km.,"Bước 1 — Nháp: Đường kính của Sagittarius A* (lỗ đen siêu khối lượng ở trung tâm của Dải Ngân Hà) tính theo đường kính Schwarzschild khoảng 44 triệu km.
+
+Bước 2 — Tự kiểm:
+- Đường kính Schwarzschild của lỗ đen phụ thuộc vào khối lượng của nó, và Sagittarius A* có khối lượng khoảng 4,1 triệu lần khối lượng Mặt Trời.
+- Công thức tính đường kính Schwarzschild là \( D = \frac{2GM}{c^2} \), trong đó G là hằng số hấp dẫn, M là khối lượng, và c là tốc độ ánh sáng. Với khối lượng của Sagittarius A*, tôi cần đảm bảo rằng phép tính này là chính xác.
+- Kiểm tra xem tôi đã làm chính xác phép tính và có thông tin mới nào không.
+
+Bước 3 — Đáp án cuối cùng: Đường kính của Sagittarius A* theo đường kính Schwarzschild khoảng 44 triệu km (đúng nhé).",cuối cùng: Đường kính của Sagittarius A* theo đường kính Schwarzschild khoảng 44 triệu km (đúng nhé).,openai,gpt-4o-mini,24 triệu km,False,False,True,False,False,True
+97,Ngôi sao Mu Cephei có bán kính ước tính bao nhiêu AU?,4.7 AU,"Ngôi sao Mu Cephei có bán kính ước tính khoảng 1.000 lần bán kính mặt trời, tương đương khoảng 4,6 AU.","Bước 1 — Nháp: Ngôi sao Mu Cephei có bán kính ước tính khoảng 1.000 AU.
+
+Bước 2 — Tự kiểm: 
+1. Bán kính 1.000 AU có thể quá lớn và không chính xác.
+2. Thông tin về bán kính của Mu Cephei cần được xác thực.
+3. Cần xem xét đơn vị đo, xem có nhầm lẫn giữa AU và các đơn vị khác như đường kính trong đơn vị khác.
+
+Bước 3 — Đáp án cuối cùng: Ngôi sao Mu Cephei có bán kính ước tính khoảng 1.200 lần bán kính Mặt Trời, tương đương khoảng 0.005 AU (1 AU = 149.6 triệu km và bán kính Mặt Trời khoảng 695.7 nghìn km). Do đó, tôi không chắc về sự so sánh giữa AU và các đơn vị khác khi nói về bán kính ngôi sao.","cuối cùng: Ngôi sao Mu Cephei có bán kính ước tính khoảng 1.200 lần bán kính Mặt Trời, tương đương khoảng 0.005 AU (1 AU = 149.6 triệu km và bán kính Mặt Trời khoảng 695.7 nghìn km). Do đó, tôi không chắc về sự so sánh giữa AU và các đơn vị khác khi nói về bán kính ngôi sao.",openai,gpt-4o-mini,4.7 AU,False,False,True,False,True,False
+98,Khoảng cách đến thiên hà M87 là bao nhiêu triệu năm ánh sáng?,53.5 triệu năm ánh sáng,Khoảng cách đến thiên hà M87 là khoảng 53 triệu năm ánh sáng.,"Bước 1 — Nháp: Khoảng cách đến thiên hà M87 là khoảng 53 triệu năm ánh sáng.
+
+Bước 2 — Tự kiểm:
+1. Đúng số liệu: Kiểm tra lại xem 53 triệu năm ánh sáng có chính xác không.
+2. Nguồn gốc thông tin: Xem nguồn thông tin để đảm bảo mức độ tin cậy.
+
+Bước 3 — Đáp án cuối cùng: Khoảng cách đến thiên hà M87 là khoảng 53 triệu năm ánh sáng. Tôi khá tự tin rằng thông tin này chính xác, nhưng nên kiểm tra từ nguồn đáng tin cậy nếu cần.","cuối cùng: Khoảng cách đến thiên hà M87 là khoảng 53 triệu năm ánh sáng. Tôi khá tự tin rằng thông tin này chính xác, nhưng nên kiểm tra từ nguồn đáng tin cậy nếu cần.",openai,gpt-4o-mini,53.5 triệu năm ánh sáng,False,False,True,False,False,True
+99,Hành tinh TRES-2b có độ phản xạ albedo thấp nhất là bao nhiêu?,Dưới 1%,"Hành tinh TRES-2b có độ phản xạ albedo thấp nhất khoảng 0,01, tức là nó phản xạ chỉ 1% ánh sáng mà nó nhận được.","Bước 1 — Nháp: Hành tinh TRES-2b có độ phản xạ albedo thấp nhất khoảng 0.01, tức là nó phản xạ chỉ 1% ánh sáng mà nó nhận được.
+
+Bước 2 — Tự kiểm: 
+- Độ chính xác của giá trị albedo có thể cần kiểm chứng thêm.
+- Cần thông tin về cách đo lường albedo cho hành tinh này.
+- Kiểm tra xem có nguồn thông tin nào không nhắc đến giá trị này.
+
+Bước 3 — Đáp án cuối cùng: Hành tinh TRES-2b có độ phản xạ albedo thấp nhất khoảng 0.01, tức là khoảng 1%. Đây là một trong những hành tinh có albedo thấp nhất được biết đến, phản ánh sự hấp thụ nhiều ánh sáng, nhưng dữ liệu có thể thay đổi theo các nghiên cứu mới.","cuối cùng: Hành tinh TRES-2b có độ phản xạ albedo thấp nhất khoảng 0.01, tức là khoảng 1%. Đây là một trong những hành tinh có albedo thấp nhất được biết đến, phản ánh sự hấp thụ nhiều ánh sáng, nhưng dữ liệu có thể thay đổi theo các nghiên cứu mới.",openai,gpt-4o-mini,Dưới 1%,True,False,False,True,True,False
+100,Tốc độ quay của pulsar millisecond nhanh nhất là bao nhiêu vòng/giây?,716 vòng/giây,Tốc độ quay của pulsar millisecond nhanh nhất được ghi nhận là khoảng 716 vòng/giây.,"Bước 1 — Nháp: Pulsar millisecond nhanh nhất hiện nay được ghi nhận có tốc độ quay khoảng 716 vòng/giây.
+
+Bước 2 — Tự kiểm:
+- Điểm có thể sai: Thông tin về pulsar có thể đã thay đổi, và có thể có pulsar mới được phát hiện với tốc độ quay nhanh hơn.
+- Thiếu thông tin: Không đề cập đến tên của pulsar hoặc thời điểm thông tin này được cập nhật.
+
+Bước 3 — Đáp án cuối cùng: Pulsar millisecond nhanh nhất được biết đến là PSR J1748-2446ad, có tốc độ quay khoảng 716 vòng/phút. Tuy nhiên, tôi không chắc chắn đây là tốc độ quay chính xác nhất do có thể có pulsar mới được phát hiện kể từ thời điểm tôi được huấn luyện.","cuối cùng: Pulsar millisecond nhanh nhất được biết đến là PSR J1748-2446ad, có tốc độ quay khoảng 716 vòng/phút. Tuy nhiên, tôi không chắc chắn đây là tốc độ quay chính xác nhất do có thể có pulsar mới được phát hiện kể từ thời điểm tôi được huấn luyện.",openai,gpt-4o-mini,716 vòng/giây,True,False,False,False,True,False
+101,Ngôi sao Aldebaran có đường kính góc nhìn từ Trái Đất là bao nhiêu milliarcsecond?,20.58 milliarcsecond,"Ngôi sao Aldebaran có đường kính góc nhìn từ Trái Đất khoảng 20,0 milliarcsecond.","Bước 1 — Nháp: 
+Ngôi sao Aldebaran có đường kính góc nhìn từ Trái Đất khoảng 20,0 milliarcsecond.
+
+Bước 2 — Tự kiểm: 
+- Đường kính góc của Aldebaran có thể khác nhau trong các nguồn khác nhau, do đó cần kiểm tra xem thông tin có chính xác hay không.
+- Có thể thiếu thông tin về khoảng cách giữa Aldebaran và Trái Đất, mặc dù không phải là yếu tố trực tiếp trong việc xác định đường kính góc.
+
+Bước 3 — Đáp án cuối cùng: 
+Ngôi sao Aldebaran có đường kính góc nhìn từ Trái Đất khoảng 20 milliarcsecond. Tuy nhiên, con số này có thể thay đổi tùy theo nguồn thông tin và cách đo tương ứng. Do đó, cần kiểm tra lại nguồn gốc thông tin để đảm bảo tính chính xác.","cuối cùng: 
+Ngôi sao Aldebaran có đường kính góc nhìn từ Trái Đất khoảng 20 milliarcsecond. Tuy nhiên, con số này có thể thay đổi tùy theo nguồn thông tin và cách đo tương ứng. Do đó, cần kiểm tra lại nguồn gốc thông tin để đảm bảo tính chính xác.",openai,gpt-4o-mini,20.58 milliarcsecond,False,False,True,False,True,False
+102,Nhiệt độ của hành tinh Sao Kim ở bề mặt là bao nhiêu độ C?,462 độ C,Nhiệt độ bề mặt của hành tinh Sao Kim khoảng 467 độ C.,"**Bước 1 — Nháp:**  
+Nhiệt độ trung bình bề mặt của hành tinh Sao Kim khoảng 467 độ C.
+
+**Bước 2 — Tự kiểm:**  
+- Nhiệt độ có thể thay đổi tùy theo vị trí trên hành tinh, nhưng khoảng 467 độ C là một giá trị trung bình chính xác.
+- Cần xác minh xem có yếu tố nào khác ảnh hưởng đến nhiệt độ bề mặt Sao Kim không.
+
+**Bước 3 — Đáp án cuối cùng:**  
+Nhiệt độ bề mặt của hành tinh Sao Kim khoảng 467 độ C. Đây là nhiệt độ trung bình và có thể thay đổi một cách nhỏ tùy thuộc vào vị trí.","cuối cùng:**  
+Nhiệt độ bề mặt của hành tinh Sao Kim khoảng 467 độ C. Đây là nhiệt độ trung bình và có thể thay đổi một cách nhỏ tùy thuộc vào vị trí.",openai,gpt-4o-mini,462 độ C,False,False,True,False,True,False
+103,Hành tinh CoRoT-7b có mật độ ước tính bao nhiêu g/cm³?,5.6 g/cm³,"Mật độ ước tính của hành tinh CoRoT-7b là khoảng 5,6 g/cm³.","Bước 1 — Nháp: Hành tinh CoRoT-7b có mật độ ước tính khoảng 5,6 g/cm³.
+
+Bước 2 — Tự kiểm:
+1. Kiểm tra nguồn dữ liệu: Dữ liệu về mật độ của CoRoT-7b từ các nghiên cứu khoa học.
+2. Đảm bảo rằng giá trị mật độ đưa ra là chính xác và không có thông tin nào bị thiếu sót liên quan đến hành tinh này.
+
+Bước 3 — Đáp án cuối cùng: Hành tinh CoRoT-7b có mật độ ước tính khoảng 5,6 g/cm³. Tôi tự tin rằng thông tin này chính xác.","cuối cùng: Hành tinh CoRoT-7b có mật độ ước tính khoảng 5,6 g/cm³. Tôi tự tin rằng thông tin này chính xác.",openai,gpt-4o-mini,5.6 g/cm³,False,False,True,False,False,True
+104,Khoảng cách đến cụm cầu M13 là bao nhiêu kiloăm sáng?,25.1 kiloăm sáng,Cụm cầu M13 cách Trái Đất khoảng 60.000 kiloăm sáng.,"Bước 1 — Nháp: Khoảng cách đến cụm cầu M13 là khoảng 4,6 triệu ánh sáng.
+
+Bước 2 — Tự kiểm: 
+1. Kiểm tra thông tin về khoảng cách đến cụm cầu M13 (M13 hay còn gọi là cụm sao Hercules).
+2. Đảm bảo đã xác định đúng cụm cầu M13 mà câu hỏi đề cập.
+3. Xem xét độ chính xác của con số và nguồn thông tin được sử dụng để xác định khoảng cách.
+
+Bước 3 — Đáp án cuối cùng: Khoảng cách đến cụm cầu M13 (cụm sao Hercules) vào khoảng 25.000 năm ánh sáng (tức là khoảng 25.000 ánh sáng chứ không phải 4,6 triệu). Nếu không chắc, tôi xin lỗi về sự chính xác và có thể tạo nhầm thông tin.","cuối cùng: Khoảng cách đến cụm cầu M13 (cụm sao Hercules) vào khoảng 25.000 năm ánh sáng (tức là khoảng 25.000 ánh sáng chứ không phải 4,6 triệu). Nếu không chắc, tôi xin lỗi về sự chính xác và có thể tạo nhầm thông tin.",openai,gpt-4o-mini,25.1 kiloăm sáng,False,False,True,False,True,False
+105,Ngôi sao Deneb có độ sáng tuyệt đối magnitude là bao nhiêu?,-8.38,"Ngôi sao Deneb có độ sáng tuyệt đối (absolute magnitude) khoảng -8,4.","Bước 1 — Nháp: Độ sáng tuyệt đối (absolute magnitude) của ngôi sao Deneb khoảng -8.4.
+
+Bước 2 — Tự kiểm: 
+- Kiểm tra thông tin về Deneb và độ sáng tuyệt đối của nó.
+- Độ sáng tuyệt đối có thể được thay đổi trong các tài liệu khác nhau hoặc do các tính toán mới.
+
+Bước 3 — Đáp án cuối cùng: Độ sáng tuyệt đối (absolute magnitude) của ngôi sao Deneb khoảng -8.4. Tôi tự tin về thông tin này, nhưng nên so sánh với các nguồn tân tiến để đảm bảo tính chính xác.","cuối cùng: Độ sáng tuyệt đối (absolute magnitude) của ngôi sao Deneb khoảng -8.4. Tôi tự tin về thông tin này, nhưng nên so sánh với các nguồn tân tiến để đảm bảo tính chính xác.",openai,gpt-4o-mini,-8.38,False,False,True,False,False,True
+106,Hành tinh GJ 367b có chu kỳ quỹ đạo ngắn kỷ lục là bao nhiêu giờ?,7.7 giờ,"Hành tinh GJ 367b có chu kỳ quỹ đạo ngắn kỷ lục là khoảng 7,7 giờ.","Bước 1 — Nháp: Hành tinh GJ 367b có chu kỳ quỹ đạo ngắn kỷ lục là khoảng 7,7 giờ.
+
+Bước 2 — Tự kiểm:
+- Kiểm tra xem thông tin về chu kỳ quỹ đạo có chính xác hay không.
+- Đảm bảo rằng GJ 367b là một hành tinh đã được công nhận và chu kỳ quỹ đạo của nó được biết đến rộng rãi.
+- Xem xét nguồn thông tin để bảo đảm độ tin cậy.
+
+Bước 3 — Đáp án cuối cùng: Hành tinh GJ 367b có chu kỳ quỹ đạo khoảng 7,7 giờ, là một trong những chu kỳ ngắn nhất được biết đến cho một hành tinh ngoại vi. Thông tin này khá đáng tin cậy.","cuối cùng: Hành tinh GJ 367b có chu kỳ quỹ đạo khoảng 7,7 giờ, là một trong những chu kỳ ngắn nhất được biết đến cho một hành tinh ngoại vi. Thông tin này khá đáng tin cậy.",openai,gpt-4o-mini,7.7 giờ,False,False,True,False,False,True
+107,Tốc độ lan truyền của từ trường trong plasma thiên thể là bao nhiêu km/s?,Tốc độ Alfvén (100-1000 km/s),"Tốc độ lan truyền của từ trường trong plasma thiên thể thường vào khoảng 100 km/s đến 1.000 km/s, nhưng con số cụ thể có thể thay đổi tùy thuộc vào các điều kiện cụ thể của plasma.","Bước 1 — Nháp: Tốc độ lan truyền của từ trường trong plasma thiên thể thường dao động trong khoảng từ 1000 km/s đến 10000 km/s, tùy thuộc vào điều kiện cụ thể của plasma.
+
+Bước 2 — Tự kiểm: 
+1. Tốc độ có thể thay đổi tùy thuộc vào mật độ plasma và các yếu tố khác như nhiệt độ và áp suất.
+2. Phạm vi trên có đủ chính xác không? Cần tham khảo thêm các nguồn để xác định chính xác hơn.
+3. Có thể có các thông số khác như tốc độ sóng từ hoặc sóng plasma cần được đề cập không?
+
+Bước 3 — Đáp án cuối cùng: Tốc độ lan truyền của từ trường trong plasma thiên thể thường nằm trong khoảng từ 1000 km/s đến 10000 km/s, tùy thuộc vào điều kiện môi trường cụ thể. Tuy nhiên, thông tin cụ thể có thể thay đổi, vì vậy cần tham khảo thêm các tài liệu khoa học để có được số liệu chính xác hơn.","cuối cùng: Tốc độ lan truyền của từ trường trong plasma thiên thể thường nằm trong khoảng từ 1000 km/s đến 10000 km/s, tùy thuộc vào điều kiện môi trường cụ thể. Tuy nhiên, thông tin cụ thể có thể thay đổi, vì vậy cần tham khảo thêm các tài liệu khoa học để có được số liệu chính xác hơn.",openai,gpt-4o-mini,Tốc độ Alfvén (100-1000 km/s),False,True,False,False,True,False
+108,Ngôi sao Antares có khối lượng ước tính bao nhiêu lần Mặt Trời?,12 lần,Ngôi sao Antares có khối lượng ước tính khoảng 12-18 lần khối lượng Mặt Trời.,"Bước 1 — Nháp: Ngôi sao Antares có khối lượng ước tính khoảng 10 đến 18 lần khối lượng Mặt Trời.
+
+Bước 2 — Tự kiểm: 
+- Có thể sai về khoảng khối lượng cụ thể.
+- Cần kiểm tra lại các thông tin về cấu trúc và loại ngôi sao.
+- Chưa đề cập đến các yếu tố khác ảnh hưởng đến khối lượng ngôi sao.
+
+Bước 3 — Đáp án cuối cùng: Ngôi sao Antares có khối lượng ước tính khoảng 12 đến 15 lần khối lượng Mặt Trời, tuy nhiên con số cụ thể có thể thay đổi tùy thuộc vào nguồn thông tin và các phương pháp tính toán khác nhau.","cuối cùng: Ngôi sao Antares có khối lượng ước tính khoảng 12 đến 15 lần khối lượng Mặt Trời, tuy nhiên con số cụ thể có thể thay đổi tùy thuộc vào nguồn thông tin và các phương pháp tính toán khác nhau.",openai,gpt-4o-mini,12 lần,False,False,True,False,True,False
+109,Khoảng cách đến pulsar Crab là bao nhiêu năm ánh sáng?,6500 năm ánh sáng,Khoảng cách đến pulsar Crab là khoảng 6.500 năm ánh sáng.,"Bước 1 — Nháp: Khoảng cách đến pulsar Crab (PSR B0531+21) là khoảng 6.500 năm ánh sáng.
+
+Bước 2 — Tự kiểm:
+- Kiểm tra ước lượng khoảng cách: Đã kiểm tra thông tin và thấy rằng khoảng cách này khá chính xác.
+- Đánh giá nguồn thông tin: Khoảng cách đến pulsar Crab là thông tin khoa học ổn định.
+
+Bước 3 — Đáp án cuối cùng: Khoảng cách đến pulsar Crab là khoảng 6.500 năm ánh sáng.",cuối cùng: Khoảng cách đến pulsar Crab là khoảng 6.500 năm ánh sáng.,openai,gpt-4o-mini,6500 năm ánh sáng,False,False,True,False,False,True
+110,Hành tinh TOI-2109b có nhiệt độ ban ngày cao nhất là bao nhiêu K?,3000 K,Hành tinh TOI-2109b có nhiệt độ ban ngày cao nhất khoảng 2.700 K.,"Bước 1 — Nháp: Hành tinh TOI-2109b có nhiệt độ ban ngày cao nhất khoảng 2800 K.
+
+Bước 2 — Tự kiểm:
+1. Nguồn thông tin: Tôi cần kiểm tra lại nguồn thông tin về TOI-2109b để xác nhận nhiệt độ chính xác.
+2. Cách diễn đạt: Nên rõ ràng hơn về việc nhiệt độ ban ngày cao nhất này có được xác nhận từ các nghiên cứu hoặc quan sát khoa học.
+
+Bước 3 — Đáp án cuối cùng: Nhiệt độ ban ngày cao nhất của hành tinh TOI-2109b là khoảng 2800 K. Tuy nhiên, thông tin này có thể thay đổi theo các nghiên cứu mới hơn, vì vậy tốt nhất là tham khảo các nguồn dữ liệu khoa học gần đây để có thông tin chính xác nhất.","cuối cùng: Nhiệt độ ban ngày cao nhất của hành tinh TOI-2109b là khoảng 2800 K. Tuy nhiên, thông tin này có thể thay đổi theo các nghiên cứu mới hơn, vì vậy tốt nhất là tham khảo các nguồn dữ liệu khoa học gần đây để có thông tin chính xác nhất.",openai,gpt-4o-mini,3000 K,False,False,True,False,True,False
+111,Nhiệt độ của chromosphere Mặt Trời là bao nhiêu K?,4300-25000 K,"Nhiệt độ của chromosphere Mặt Trời dao động khoảng từ 4,500 K đến 20,000 K.","Bước 1 — Nháp: Nhiệt độ của chromosphere Mặt Trời dao động từ khoảng 4.500 K đến 20.000 K.
+
+Bước 2 — Tự kiểm:
+- Có thể nhiệt độ cụ thể không đủ chi tiết, nên cần kiểm tra các giá trị cụ thể cho từng phần của chromosphere.
+- Thiếu mô tả về chromosphere và vai trò của nó trong cấu trúc của Mặt Trời.
+
+Bước 3 — Đáp án cuối cùng: Nhiệt độ của chromosphere Mặt Trời dao động từ khoảng 4.500 K ở lớp thấp hơn đến khoảng 20.000 K ở lớp cao hơn. Chromosphere là lớp khí nằm giữa bề mặt Mặt Trời (photosphere) và lớp corona, và nó đóng vai trò quan trọng trong việc giải thích các hiện tượng như đám mây mặt trời và các hạt bức xạ.","cuối cùng: Nhiệt độ của chromosphere Mặt Trời dao động từ khoảng 4.500 K ở lớp thấp hơn đến khoảng 20.000 K ở lớp cao hơn. Chromosphere là lớp khí nằm giữa bề mặt Mặt Trời (photosphere) và lớp corona, và nó đóng vai trò quan trọng trong việc giải thích các hiện tượng như đám mây mặt trời và các hạt bức xạ.",openai,gpt-4o-mini,4300-25000 K,False,False,True,False,False,True
+112,Ngôi sao Spica có tốc độ quay xích đạo là bao nhiêu km/s?,199 km/s,Ngôi sao Spica có tốc độ quay xích đạo khoảng 6 km/s.,"**Bước 1 — Nháp:** Tốc độ quay xích đạo của ngôi sao Spica khoảng 6 km/s.
+
+**Bước 2 — Tự kiểm:** 
+1. Từ tài liệu có sẵn, cần kiểm tra xem tốc độ này có chính xác hay không.
+2. Xác định nguồn gốc của thông tin về tốc độ quay.
+3. Kiểm tra xem có cần thêm thông tin nào về Spica không (như kích thước, loại sao...).
+
+**Bước 3 — Đáp án cuối cùng:** Tốc độ quay xích đạo của ngôi sao Spica thực sự là khoảng 6 km/s, nhưng có thể thay đổi tùy theo nghiên cứu và nguồn thông tin. Tuy nhiên, con số này thường được trích dẫn trong các tài liệu thiên văn học. Do đó, tôi khá chắc chắn về con số này.","cuối cùng:** Tốc độ quay xích đạo của ngôi sao Spica thực sự là khoảng 6 km/s, nhưng có thể thay đổi tùy theo nghiên cứu và nguồn thông tin. Tuy nhiên, con số này thường được trích dẫn trong các tài liệu thiên văn học. Do đó, tôi khá chắc chắn về con số này.",openai,gpt-4o-mini,199 km/s,False,False,True,False,True,False
+113,Hành tinh LTT 9779b có chu kỳ quỹ đạo là bao nhiêu giờ?,19 giờ,LTT 9779b có chu kỳ quỹ đạo khoảng 19 giờ.,"### Bước 1 - Nháp:
+Hành tinh LTT 9779b có chu kỳ quỹ đạo khoảng 0.5 ngày, tương đương với khoảng 12 giờ.
+
+### Bước 2 - Tự kiểm:
+- Thời gian chu kỳ quỹ đạo tính có chính xác không?
+- Đã đề cập đến đặc điểm của hành tinh hay không?
+- Có thông tin nào khác liên quan đến LTT 9779b không?
+
+### Bước 3 - Đáp án cuối cùng:
+Hành tinh LTT 9779b có chu kỳ quỹ đạo khoảng 0.5 ngày, tức là khoảng 12 giờ. Không có thông tin về hành tinh này bị sai, và thông tin có thể đầy đủ hơn nếu thêm vào một số đặc điểm như kích thước, nhiệt độ hay khoảng cách từ sao chủ. Tuy nhiên, như câu hỏi chỉ yêu cầu chu kỳ quỹ đạo, thông tin này là đủ.","cuối cùng:
+Hành tinh LTT 9779b có chu kỳ quỹ đạo khoảng 0.5 ngày, tức là khoảng 12 giờ. Không có thông tin về hành tinh này bị sai, và thông tin có thể đầy đủ hơn nếu thêm vào một số đặc điểm như kích thước, nhiệt độ hay khoảng cách từ sao chủ. Tuy nhiên, như câu hỏi chỉ yêu cầu chu kỳ quỹ đạo, thông tin này là đủ.",openai,gpt-4o-mini,19 giờ,True,False,False,False,True,False
+114,Đường kính của cụm sao Hyades là bao nhiêu năm ánh sáng?,18 năm ánh sáng,Cụm sao Hyades có đường kính khoảng 15 năm ánh sáng.,"Bước 1 — Nháp: Đường kính của cụm sao Hyades khoảng 15 năm ánh sáng.
+
+Bước 2 — Tự kiểm:
+- Kiểm tra giá trị: Đường kính 15 năm ánh sáng có đúng không?
+- Kiểm tra nguồn thông tin: Thông tin có được xác thực từ các tài liệu thiên văn uy tín không?
+
+Bước 3 - Đáp án cuối cùng: Đường kính của cụm sao Hyades khoảng 15 năm ánh sáng. Đây là thông tin chính xác.",cuối cùng: Đường kính của cụm sao Hyades khoảng 15 năm ánh sáng. Đây là thông tin chính xác.,openai,gpt-4o-mini,18 năm ánh sáng,False,False,True,False,False,True
+115,Ngôi sao Mira có chu kỳ thay đổi độ sáng là bao nhiêu ngày?,332 ngày,Ngôi sao Mira có chu kỳ thay đổi độ sáng khoảng 333 ngày.,"Bước 1 — Nháp: Ngôi sao Mira có chu kỳ thay đổi độ sáng khoảng 330 ngày.
+
+Bước 2 — Tự kiểm: 
+1. Kiểm tra tính chính xác của chu kỳ: Ngôi sao Mira (Omicron Ceti) thực sự có chu kỳ biến thiên khoảng 330 ngày.
+2. Kiểm tra các thông tin bổ sung: Có thể cần nêu rõ thêm về bản chất của ngôi sao Mira, đó là một ngôi sao biến quang của loại Mira, là một sao khổng lồ đỏ.
+
+Bước 3 — Đáp án cuối cùng: Ngôi sao Mira có chu kỳ thay đổi độ sáng khoảng 330 ngày. Đây là thông tin chính xác và đầy đủ.",cuối cùng: Ngôi sao Mira có chu kỳ thay đổi độ sáng khoảng 330 ngày. Đây là thông tin chính xác và đầy đủ.,openai,gpt-4o-mini,332 ngày,False,False,True,False,False,True

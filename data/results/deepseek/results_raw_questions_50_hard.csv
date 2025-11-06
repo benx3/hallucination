@@ -1,0 +1,696 @@
+idx,question,answer,direct_answer,selfcrit_answer,selfcrit_final_span,api,model
+1,Ai là người đề xuất giả thuyết “RNA world” đầu tiên?,Carl Woese,Carl Woese.,"**Bước 1 — Nháp**  
+Người đầu tiên đề xuất giả thuyết ""RNA world"" là Carl Woese (1967), nhưng người phổ biến và đặt tên là Walter Gilbert (1986).
+
+**Bước 2 — Tự kiểm**  
+- Có thể nhầm giữa người đầu tiên nêu ý tưởng và người đặt tên.  
+- Carl Woese (1967) đề xuất RNA có thể có vai trò xúc tác và di truyền trong sự sống sơ khai.  
+- Alexander Rich cũng có đóng góp ý tưởng tương tự năm 1962.  
+- Walter Gilbert (1986) chính thức đặt tên ""RNA world"" trong bài báo trên tạp chí Nature.  
+- Một số nguồn ghi nhận Leslie Orgel cũng có nghiên cứu quan trọng về tiến hóa RNA.  
+→ Cần nói rõ: Người đầu tiên đề xuất ý tưởng là Carl Woese (1967), còn người đặt tên ""RNA world"" là Walter Gilbert (1986).
+
+**Bước 3 — Cuối cùng**  
+Carl Woese thường được coi là người đầu tiên đề xuất ý tưởng về thế giới RNA vào năm 1967, khi ông cho rằng RNA có thể vừa làm vật chất di truyền vừa xúc tác phản ứng. Tuy nhiên, thuật ngữ ""RNA world"" được Walter Gilbert chính thức đưa ra năm 1986. Một số nhà khoa học khác như Alexander Rich (1962) và Leslie Orgel cũng có những đóng góp liên quan trước đó.","Cuối cùng**  
+Carl Woese thường được coi là người đầu tiên đề xuất ý tưởng về thế giới RNA vào năm 1967, khi ông cho rằng RNA có thể vừa làm vật chất di truyền vừa xúc tác phản ứng. Tuy nhiên, thuật ngữ ""RNA world"" được Walter Gilbert chính thức đưa ra năm 1986. Một số nhà khoa học khác như Alexander Rich (1962) và Leslie Orgel cũng có những đóng góp liên quan trước đó.",deepseek,deepseek-chat
+2,Phân tử nào là chất truyền tin thứ hai trong cơ thể liên quan đến AMP?,cAMP,"cAMP (cyclic AMP) là một chất truyền tin thứ hai quan trọng được tạo ra từ ATP dưới tác động của hormone, và bản thân nó thường được gọi là chất truyền tin thứ hai.","**Bước 1 — Nháp**  
+Chất truyền tin thứ hai liên quan đến AMP là **AMP vòng (cyclic AMP, cAMP)**.
+
+**Bước 2 — Tự kiểm**  
+- Có thể nhầm với AMP thông thường (adenosine monophosphate) nhưng chất truyền tin thứ hai là dạng vòng (cyclic AMP).  
+- Cần khẳng định rõ: cAMP được tổng hợp từ ATP nhờ enzyme adenylate cyclase, hoạt động như chất truyền tin thứ hai trong nhiều quá trình tín hiệu tế bào.
+
+**Bước 3 — Cuối cùng**  
+Đáp án: **cAMP (cyclic AMP)**.","Cuối cùng**  
+Đáp án: **cAMP (cyclic AMP)**.",deepseek,deepseek-chat
+3,Ngôn ngữ lập trình đầu tiên hỗ trợ OOP?,Simula,"Ngôn ngữ lập trình đầu tiên được công nhận rộng rãi hỗ trợ các khái niệm hướng đối tượng (OOP) cơ bản là Simula, được phát triển vào những năm 1960.","**Bước 1 — Nháp**  
+Ngôn ngữ lập trình đầu tiên hỗ trợ OOP là **Simula** (phát triển vào những năm 1960).
+
+**Bước 2 — Tự kiểm**  
+- Có thể nhầm với Smalltalk (phổ biến hơn về OOP hiện đại nhưng ra đời sau Simula).  
+- Simula giới thiệu các khái niệm cơ bản của OOP như lớp, đối tượng, kế thừa.  
+- Cần xác nhận thời gian: Simula 67 là phiên bản có ảnh hưởng lớn.  
+- Ngôn ngữ trước đó (như Fortran, Lisp) không hỗ trợ OOP đầy đủ.
+
+**Bước 3 — Cuối cùng**  
+Ngôn ngữ lập trình đầu tiên hỗ trợ OOP là **Simula**, cụ thể là Simula 67 (1967).","Cuối cùng**  
+Ngôn ngữ lập trình đầu tiên hỗ trợ OOP là **Simula**, cụ thể là Simula 67 (1967).",deepseek,deepseek-chat
+4,Ai là người phát minh thuật toán PageRank?,Larry Page & Sergey Brin,"Thuật toán PageRank được phát minh bởi Larry Page và Sergey Brin, những người đồng sáng lập Google.","**Bước 1 — Nháp:**
+Người phát minh thuật toán PageRank là Larry Page và Sergey Brin.
+
+**Bước 2 — Tự kiểm:**
+- PageRank là cốt lõi của công cụ tìm kiếm Google, do hai nhà sáng lập Larry Page và Sergey Brin phát triển tại Đại học Stanford.
+- Có thể có nhầm lẫn rằng chỉ Larry Page (vì tên thuật toán) là người phát minh, nhưng thực tế cả hai cùng công bố trong bài báo ""The Anatomy of a Large-Scale Hypertextual Web Search Engine"".
+- Không có ai khác được ghi nhận chính thức là tác giả phát minh chính của thuật toán này.
+
+**Bước 3 — Cuối cùng:**
+Đáp án cuối cùng: **Larry Page và Sergey Brin** là những người đồng phát minh thuật toán PageRank.",cuối cùng: **Larry Page và Sergey Brin** là những người đồng phát minh thuật toán PageRank.,deepseek,deepseek-chat
+5,Năm nào TCP/IP chính thức được áp dụng cho Internet?,1983,"TCP/IP chính thức được áp dụng cho mạng ARPANET, tiền thân của Internet, vào ngày 1 tháng 1 năm 1983.","**Bước 1 — Nháp:**
+Năm 1983.
+
+**Bước 2 — Tự kiểm:**
+- Điểm có thể sai: Có thể nhầm với năm ARPANET ra đời (1969), năm giao thức TCP/IP được phát minh/giới thiệu (năm 1974 trong bài báo của Vinton Cerf và Bob Kahn), hoặc năm World Wide Web ra đời (1991).
+- Kiểm tra lại: Sự kiện chuyển đổi lớn của ARPANET từ giao thức NCP sang TCP/IP diễn ra vào ngày 1 tháng 1 năm 1983. Đây được coi là ""ngày sinh"" chính thức của Internet hiện đại với nền tảng là TCP/IP.
+
+**Bước 3 — Cuối cùng:**
+Đáp án cuối cùng: **Năm 1983**.",cuối cùng: **Năm 1983**.,deepseek,deepseek-chat
+6,Quốc gia nào có nhiều múi giờ nhất thế giới (bao gồm lãnh thổ)?,Pháp,Pháp có nhiều múi giờ nhất thế giới (12 múi giờ) do các lãnh thổ hải ngoại trải rộng khắp các đại dương.,"**Bước 1 – Nháp**  
+Pháp (bao gồm các vùng lãnh thổ hải ngoại) có nhiều múi giờ nhất, khoảng 12 múi giờ.
+
+**Bước 2 – Tự kiểm**  
+- Có thể nhầm với Nga (11 múi giờ) nhưng Pháp có nhiều hơn do các lãnh thổ rải rác khắp thế giới (Guiana, Polynesia, Guadeloupe, Réunion, New Caledonia, v.v.).  
+- Cần xác nhận lại số liệu: Pháp có 12 múi giờ (UTC-10 đến UTC+12), đúng hơn Nga (11 múi giờ).  
+- Mỹ cũng có nhiều múi giờ nhưng chỉ khoảng 9–11 tùy tính cả các vùng hải ngoại như Samoa, Guam, nhưng vẫn ít hơn Pháp.
+
+**Bước 3 – Cuối cùng**  
+Quốc gia có nhiều múi giờ nhất là **Pháp** (12 múi giờ) do lãnh thổ trải rộng nhiều khu vực địa lý.","Cuối cùng**  
+Quốc gia có nhiều múi giờ nhất là **Pháp** (12 múi giờ) do lãnh thổ trải rộng nhiều khu vực địa lý.",deepseek,deepseek-chat
+7,Cấu trúc tinh thể của kim cương thuộc hệ nào?,Lập phương,Cấu trúc tinh thể của kim cương thuộc hệ **lập phương**.,"**Bước 1 – Nháp**  
+Kim cương có cấu trúc lập phương tâm mặt (FCC) với các nguyên tử carbon chiếm một nửa số hốc tứ diện. Hệ tinh thể là **lập phương**.
+
+**Bước 2 – Tự kiểm**  
+- Có thể nhầm với hệ lục phương (ví dụ như than chì).  
+- Kim cương thuộc hệ lập phương, không gian Fd 3 m, nhóm không gian 227.  
+- Các nguyên tử C ở vị trí (0,0,0) và (¼,¼,¼) cùng các vị trí tương đương trong mạng FCC.  
+- Điểm này khá rõ ràng trong tài liệu khoa học, ít khả năng sai.
+
+**Bước 3 – Cuối cùng**  
+Cấu trúc tinh thể của kim cương thuộc hệ **lập phương**.","Cuối cùng**  
+Cấu trúc tinh thể của kim cương thuộc hệ **lập phương**.",deepseek,deepseek-chat
+8,Ai là người đầu tiên mô tả virus?,Dmitri Ivanovsky,"Virus lần đầu tiên được mô tả bởi Dmitri Ivanovsky vào năm 1892. Ông phát hiện ra mầm bệnh gây bệnh khảm thuốc lá có thể đi qua bộ lọc vi khuẩn, mặc dù lúc đó ông chưa nhìn thấy trực tiếp virus.","**Bước 1 — Nháp:**
+Người đầu tiên mô tả virus là Dmitri Ivanovsky vào năm 1892, khi ông nghiên cứu bệnh khảm thuốc lá và phát hiện ra tác nhân gây bệnh vẫn có thể lây nhiễm sau khi lọc qua bộ lọc vi khuẩn.
+
+**Bước 2 — Tự kiểm:**
+- Có thể nhầm với Martinus Beijerinck, người cũng nghiên cứu độc lập và đặt tên ""virus"" sau đó (năm 1898).
+- Ivanovsky chỉ quan sát hiện tượng qua thí nghiệm lọc, chưa mô tả rõ bản chất virus như khái niệm ngày nay.
+- Cần xác định rõ ""mô tả"" ở đây là ghi nhận hiện tượng hay đặt tên/kết luận.
+
+**Bước 3 — Cuối cùng:**
+Dmitri Ivanovsky (1892) thường được ghi nhận là người đầu tiên phát hiện và mô tả hiện tượng về virus thông qua thí nghiệm lọc. Tuy nhiên, Martinus Beijerinck (1898) mới là người đầu tiên kết luận đây là một dạng mầm bệnh mới (virus) và phổ biến kết quả. Do đó, tùy ngữ cảnh ""mô tả"" mà trả lời có thể khác nhau, nhưng nhìn chung Ivanovsky được xem là người đầu tiên.","kết luận đây là một dạng mầm bệnh mới (virus) và phổ biến kết quả. Do đó, tùy ngữ cảnh ""mô tả"" mà trả lời có thể khác nhau, nhưng nhìn chung Ivanovsky được xem là người đầu tiên.",deepseek,deepseek-chat
+9,Tiêu chuẩn IEEE cho Wi-Fi 6 là gì?,802.11ax,Tiêu chuẩn IEEE cho Wi-Fi 6 là **IEEE 802.11ax**.,"Chắc chắn. Dưới đây là quy trình trả lời theo yêu cầu.
+
+### Bước 1 — Nháp: Trả lời ngắn
+Tiêu chuẩn IEEE cho Wi-Fi 6 là **802.11ax**.
+
+### Bước 2 — Tự kiểm: Điểm có thể sai hoặc thiếu
+1.  **Tên chính xác:** Cần đảm bảo không nhầm lẫn với các thế hệ trước như 802.11ac (Wi-Fi 5) hoặc 802.11n (Wi-Fi 4).
+2.  **Mục đích của Wi-Fi 6:** Câu trả lời nháp chỉ nêu tên. Có thể cần bổ sung ngắn gọn mục tiêu chính của chuẩn này để làm rõ ngữ cảnh, chẳng hạn như cải thiện hiệu suất trong môi trường đông người dùng.
+3.  **Phạm vi tần số:** Wi-Fi 6 hoạt động trên cả hai băng tần 2.4 GHz và 5 GHz, và mở rộng lên 6 GHz trong phiên bản Wi-Fi 6E. Đây là một điểm quan trọng để phân biệt.
+
+### Bước 3 — Cuối cùng: Đáp án cuối cùng
+**Tiêu chuẩn IEEE cho Wi-Fi 6 là 802.11ax.**
+
+Đây là thế hệ thứ sáu của Wi-Fi, được thiết kế để cải thiện đáng kể tốc độ, hiệu suất và hiệu quả trong các môi trường có nhiều thiết bị kết nối đồng thời. Khác với các chuẩn trước, Wi-Fi 6 hoạt động trên cả hai băng tần 2.4 GHz và 5 GHz.
+
+*Tôi hoàn toàn chắc chắn với đáp án này.*","cuối cùng
+**Tiêu chuẩn IEEE cho Wi-Fi 6 là 802.11ax.**
+
+Đây là thế hệ thứ sáu của Wi-Fi, được thiết kế để cải thiện đáng kể tốc độ, hiệu suất và hiệu quả trong các môi trường có nhiều thiết bị kết nối đồng thời. Khác với các chuẩn trước, Wi-Fi 6 hoạt động trên cả hai băng tần 2.4 GHz và 5 GHz.
+
+*Tôi hoàn toàn chắc chắn với đáp án này.*",deepseek,deepseek-chat
+10,Tên thật của Turing Test lúc ban đầu?,Imitation Game,"Tên ban đầu của bài kiểm tra Turing là ""The Imitation Game"" (Trò chơi bắt chước).","**Bước 1 — Nháp**  
+Tên ban đầu của Turing Test là ""The Imitation Game"".
+
+**Bước 2 — Tự kiểm**  
+- Turing đề xuất ý tưởng này trong bài báo ""Computing Machinery and Intelligence"" (1950).  
+- Trong bài báo, ông mô tả một trò chơi bắt chước (imitation game) ban đầu liên quan đến một người đàn ông và một người phụ nữ, sau đó thay một trong hai bằng máy tính.  
+- Có thể nhầm với tên gọi khác như ""Turing's imitation game test"" hay chỉ ""imitation game"".  
+- Tuy nhiên, Turing không gọi nó là ""Turing Test"" – cái tên này do những người sau đặt.  
+- Vậy tên gốc trong ngữ cảnh bài báo là ""the imitation game"".
+
+**Bước 3 — Cuối cùng**  
+Tên thật lúc ban đầu là **""The Imitation Game""**.","Cuối cùng**  
+Tên thật lúc ban đầu là **""The Imitation Game""**.",deepseek,deepseek-chat
+11,Householder transformation thuộc ngành nào?,Đại số tuyến tính,Phép biến đổi Householder thuộc ngành Đại số tuyến tính số (Numerical Linear Algebra).,"**Bước 1 – Nháp:**  
+Householder transformation là một phép biến đổi trong đại số tuyến tính tính toán, thường dùng trong các bài toán số như tìm phân tích QR, làm trội phần tử ma trận, giải hệ phương trình tuyến tính, bài toán trị riêng. Nó thuộc ngành **Khoa học máy tính tính toán (Computational Science)** hoặc **Toán ứng dụng / Toán tính toán (Computational Mathematics)**.
+
+**Bước 2 – Tự kiểm:**  
+- Có thể thiếu: Householder transformation không chỉ thuộc mỗi toán tính toán mà còn là một công cụ cơ bản trong **Numerical Linear Algebra (Đại số tuyến tính số)**.  
+- Có thể sai nếu nói nó thuộc ngành hoàn toàn khác như Vật lý – nó là một công cụ toán học dùng trong nhiều ngành khoa học, nhưng bản thân nó thuộc về **đại số tuyến tính số**, một nhánh của **toán ứng dụng / khoa học tính toán**.  
+- Cần ghi rõ phạm vi: Nó là một **phương pháp số** trong đại số tuyến tính.
+
+**Bước 3 – Cuối cùng:**  
+Householder transformation thuộc ngành **Đại số tuyến tính số (Numerical Linear Algebra)**, một lĩnh vực của **Toán tính toán (Computational Mathematics)** và **Khoa học máy tính tính toán (Computational Science)**.","Cuối cùng:**  
+Householder transformation thuộc ngành **Đại số tuyến tính số (Numerical Linear Algebra)**, một lĩnh vực của **Toán tính toán (Computational Mathematics)** và **Khoa học máy tính tính toán (Computational Science)**.",deepseek,deepseek-chat
+12,Mức CO2 khí quyển trước thời kỳ công nghiệp khoảng bao nhiêu ppm?,~280 ppm,Mức CO2 khí quyển trước thời kỳ công nghiệp (khoảng năm 1750) là khoảng 280 ppm.,"**Bước 1 — Nháp**  
+Khoảng 280 ppm.
+
+**Bước 2 — Tự kiểm**  
+- Có thể nhầm với mức hiện tại (khoảng 420 ppm) hoặc thời kỳ băng hà (khoảng 180 ppm).  
+- Cần xác định rõ ""trước thời kỳ công nghiệp"" là khoảng giữa thế kỷ 18, trước 1750.  
+- Dữ liệu từ nghiên cứu băng hà Nam Cực (ice core) cho thấy ~280 ppm là giá trị ổn định trong kỷ Holocen.  
+- Không nên làm tròn thành 300 ppm vì sẽ sai đáng kể.
+
+**Bước 3 — Cuối cùng**  
+Mức CO₂ khí quyển trước thời kỳ công nghiệp (khoảng năm 1750) là **280 ppm**.","Cuối cùng**  
+Mức CO₂ khí quyển trước thời kỳ công nghiệp (khoảng năm 1750) là **280 ppm**.",deepseek,deepseek-chat
+13,Số lượng nhiễm sắc thể người Neanderthal?,46,"Người Neanderthal có 46 nhiễm sắc thể, giống như con người hiện đại (*Homo sapiens*).","**Bước 1 — Nháp:**
+Người Neanderthal là một loài (hoặc phân loài) trong chi *Homo*, có quan hệ gần gũi với người hiện đại (*Homo sapiens*). Người hiện đại có 23 cặp nhiễm sắc thể (tổng cộng 46). Các nghiên cứu về DNA cổ đại từ hóa thạch Neanderthal cho thấy họ cũng có số lượng nhiễm sắc thể tương tự: **46 nhiễm sắc thể** (23 cặp).
+
+**Bước 2 — Tự kiểm:**
+- Điểm có thể sai: Liệu có bằng chứng trực tiếp về số lượng nhiễm sắc thể không? Vì không thể quan sát trực tiếp tế bào sống, chúng ta dựa vào giải trình tự bộ gen.
+- Kiểm tra: Bộ gen Neanderthal được giải trình tự cho thấy cấu trúc nhiễm sắc thể giống người hiện đại, bao gồm cả việc xác định gen trên các nhiễm sắc thể tương đồng. Điều này ủng hộ giả thuyết số lượng là 46.
+- Thiếu sót: Có thể có sự khác biệt về cấu trúc nhiễm sắc thể (ví dụ: đảo đoạn), nhưng số lượng cơ bản là như nhau.
+
+**Bước 3 — Cuối cùng:**
+Dựa trên bằng chứng di truyền hiện có, người Neanderthal có **46 nhiễm sắc thể** (23 cặp), giống với người hiện đại.","Cuối cùng:**
+Dựa trên bằng chứng di truyền hiện có, người Neanderthal có **46 nhiễm sắc thể** (23 cặp), giống với người hiện đại.",deepseek,deepseek-chat
+14,Thành phần chính của khí quyển sao Kim?,CO₂,Khí quyển Sao Kim chủ yếu (hơn 96%) là carbon dioxide (CO₂).,"**Bước 1 — Nháp**  
+Khí quyển Sao Kim chủ yếu là carbon dioxide (CO₂), chiếm khoảng 96.5%.
+
+**Bước 2 — Tự kiểm**  
+
+- **Điểm có thể sai hoặc thiếu**:  
+  1. Tỉ lệ chính xác của CO₂ có thể không nhớ đúng (có thể nhớ nhầm 95% hay 97%).  
+  2. Có thể quên các thành phần khác: nitơ (N₂) chiếm khoảng 3.5%, cùng các khí vi lượng (SO₂, argon, hơi nước, CO, v.v.).  
+  3. Có thể nhầm với thành phần khí quyển Trái Đất (chủ yếu N₂ và O₂).  
+  4. Áp suất khí quyển Sao Kim rất cao nhưng câu hỏi chỉ hỏi thành phần chính, nên không cần đề cập.  
+
+- **Kiểm tra lại kiến thức**:  
+  Theo dữ liệu từ NASA/Voyager, khí quyển Sao Kim: CO₂ ~96.5%, N₂ ~3.5%, còn lại là SO₂, Ar, H₂O, CO, He, Ne…  
+
+**Bước 3 — Cuối cùng**  
+Thành phần chính của khí quyển Sao Kim là **carbon dioxide (CO₂)**, chiếm khoảng **96.5%**, phần lớn còn lại là nitơ (khoảng 3.5%) cùng một ít các khí khác.","Cuối cùng**  
+Thành phần chính của khí quyển Sao Kim là **carbon dioxide (CO₂)**, chiếm khoảng **96.5%**, phần lớn còn lại là nitơ (khoảng 3.5%) cùng một ít các khí khác.",deepseek,deepseek-chat
+15,Bằng chứng trực tiếp đầu tiên về Big Bang là gì?,Vi bức xạ nền (CMB),"Bằng chứng trực tiếp đầu tiên và quan trọng nhất cho Vụ Nổ Lớn (Big Bang) là việc phát hiện ra Bức xạ Phông Vũ trụ Vi sóng (CMB) bởi Arno Penzias và Robert Wilson vào năm 1965. Bức xạ ""hóa thạch"" này là tàn dư nhiệt trực tiếp từ thời kỳ sơ khai nóng và đặc của vũ trụ, tồn tại ở khắp mọi nơi và phù hợp một cách đáng kinh ngạc với các dự đoán của lý thuyết Big Bang.","**Bước 1 – Nháp:**
+Bằng chứng trực tiếp đầu tiên cho Vụ Nổ Lớn (Big Bang) là việc khám phá ra Bức xạ Phông Vũ trụ Vi sóng (Cosmic Microwave Background - CMB) bởi Penzias và Wilson vào năm 1965.
+
+**Bước 2 – Tự kiểm:**
+- **Tính ""trực tiếp"":** CMB có thực sự là bằng chứng *trực tiếp* nhất và đầu tiên không? Nó là dự đoán then chốt của mô hình Big Bang (dự đoán bởi Gamow, Alpher, và Herman). Khi được phát hiện, nó đã loại bỏ mô hình Trạng thái Dừng và cung cấp bằng chứng thuyết phục nhất lúc bấy giờ cho một vũ trụ ban đầu nóng và đặc.
+- **Tính ""đầu tiên"":** Có những bằng chứng gián tiếp khác xuất hiện trước đó không?
+    - **Định luật Hubble (1929):** Cho thấy vũ trụ đang giãn nở, phù hợp với hệ quả của Big Bang. Đây là một bằng chứng quan trọng và có trước, nhưng nó gián tiếp hơn. Nó không *trực tiếp* chứng minh một vụ nổ nóng ban đầu mà chỉ cho thấy sự giãn nở. Một vũ trụ giãn nở có thể được giải thích bằng các mô hình khác (như Trạng thái Dừng).
+    - **Sự phong phú của các nguyên tố nhẹ (Ví dụ: Heli):** Cũng là một dự đoán của Big Bang, được tính toán từ những năm 1940-1950. Đây là một bằng chứng mạnh mẽ nhưng việc đo đạc chính xác và loại trừ các nguồn sao khác cần thời gian. Nó cũng có thể được xem là gián tiếp hơn so với CMB.
+- **Kết luận:** Vậy, CMB vẫn thường được coi là ""bằng chứng trực tiếp đầu tiên"" vì nó là một dự đoán cụ thể, có thể kiểm chứng và không thể chối cãi của lý thuyết Big Bang. Việc phát hiện ra nó đã cung cấp bằng chứng thực nghiệm rõ ràng và trực tiếp nhất, biến Big Bang từ một lý thuyết thành mô hình chuẩn của vũ trụ học.
+
+**Bước 3 – Cuối cùng:**
+**Đáp án cuối cùng:** Bằng chứng trực tiếp đầu tiên và thuyết phục nhất cho Lý thuyết Vụ Nổ Lớn (Big Bang) là việc khám phá ra **Bức xạ Phông Vũ trụ Vi sóng (Cosmic Microwave Background - CMB)** bởi Arno Penzias và Robert Wilson vào năm 1965.
+
+Phát hiện này đã xác nhận một dự đoán then chốt của mô hình Big Bang: sự tồn tại của một bức xạ nhiệt sóng ngắn còn sót lại từ thời kỳ sơ khai nóng và đặc của vũ trụ. Mặc dù sự giãn nở của vũ trụ (Định luật Hubble, 1929) là một bằng chứng quan trọng có trước, CMB mới được coi là ""bằng chứng trực tiếp"" mang tính quyết định.","cuối cùng:** Bằng chứng trực tiếp đầu tiên và thuyết phục nhất cho Lý thuyết Vụ Nổ Lớn (Big Bang) là việc khám phá ra **Bức xạ Phông Vũ trụ Vi sóng (Cosmic Microwave Background - CMB)** bởi Arno Penzias và Robert Wilson vào năm 1965.
+
+Phát hiện này đã xác nhận một dự đoán then chốt của mô hình Big Bang: sự tồn tại của một bức xạ nhiệt sóng ngắn còn sót lại từ thời kỳ sơ khai nóng và đặc của vũ trụ. Mặc dù sự giãn nở của vũ trụ (Định luật Hubble, 1929) là một bằng chứng quan trọng có trước, CMB mới được coi là ""bằng chứng trực tiếp"" mang tính quyết định.",deepseek,deepseek-chat
+16,Loài người tách khỏi tinh tinh khoảng bao nhiêu triệu năm?,6–7 triệu năm,Loài người tách khỏi tổ tiên chung cuối cùng với tinh tinh vào khoảng 6 đến 7 triệu năm trước.,"**Bước 1 – Nháp**  
+Khoảng 6–7 triệu năm trước.
+
+**Bước 2 – Tự kiểm**  
+- Điểm có thể sai: Con số này có thể thay đổi tùy nghiên cứu, một số nguồn nói 5–7 triệu năm, số khác nói 7–8 triệu năm.  
+- Cần nói rõ đây là thời điểm tổ tiên chung cuối cùng của người và tinh tinh, không phải tách từ tinh tinh hiện đại.  
+- Có thể làm tròn khoảng 7 triệu năm để đơn giản.
+
+**Bước 3 – Cuối cùng**  
+Dựa trên các bằng chứng di truyền và hóa thạch, loài người tách nhánh từ tổ tiên chung cuối cùng với tinh tinh vào khoảng **6–8 triệu năm trước**, trong đó con số thường được chấp nhận rộng rãi là khoảng **7 triệu năm**.","cuối cùng với tinh tinh vào khoảng **6–8 triệu năm trước**, trong đó con số thường được chấp nhận rộng rãi là khoảng **7 triệu năm**.",deepseek,deepseek-chat
+17,Ngân hàng trung ương lâu đời nhất thế giới?,Sveriges Riksbank,"Ngân hàng trung ương lâu đời nhất thế giới được công nhận là Sveriges Riksbank của Thụy Điển, được thành lập năm 1668.","**Bước 1 — Nháp:**
+Ngân hàng trung ương lâu đời nhất thế giới là Sveriges Riksbank (Ngân hàng Thụy Điển), thành lập năm 1668.
+
+**Bước 2 — Tự kiểm:**
+- Có thể nhầm với Ngân hàng Anh (1694) hoặc một số tổ chức khác.
+- Cần xác định rõ ""ngân hàng trung ương"" theo định nghĩa hiện đại hay chỉ là ngân hàng phát hành tiền đầu tiên.
+- Sveriges Riksbank thường được công nhận là ngân hàng trung ương lâu đời nhất vẫn đang hoạt động.
+
+**Bước 3 — Cuối cùng:**
+Sveriges Riksbank (Ngân hàng Thụy Điển) là ngân hàng trung ương lâu đời nhất thế giới còn hoạt động, thành lập năm 1668.","Cuối cùng:**
+Sveriges Riksbank (Ngân hàng Thụy Điển) là ngân hàng trung ương lâu đời nhất thế giới còn hoạt động, thành lập năm 1668.",deepseek,deepseek-chat
+18,RFC đầu tiên của Internet là năm nào?,1969,RFC đầu tiên (RFC 1) được xuất bản vào ngày 7 tháng 4 năm 1969.,"**Bước 1 — Nháp**  
+RFC 1 được xuất bản vào tháng 4 năm 1969.
+
+**Bước 2 — Tự kiểm**  
+- Có thể nhầm với sự kiện khác (ARPANET bắt đầu năm 1969, RFC 1 cũng trong năm đó).  
+- Cần xác nhận: RFC 1 có tiêu đề ""Host Software"", tác giả Steve Crocker, phát hành ngày 7 tháng 4 năm 1969.  
+- Không có điểm sai rõ ràng, nhưng cần ghi rõ ngày tháng để chính xác hơn.
+
+**Bước 3 — Cuối cùng**  
+RFC đầu tiên (RFC 1) được xuất bản vào ngày 7 tháng 4 năm 1969.","Cuối cùng**  
+RFC đầu tiên (RFC 1) được xuất bản vào ngày 7 tháng 4 năm 1969.",deepseek,deepseek-chat
+19,Protein gấp nếp sai gây bệnh gì nổi bật?,Prion / Creutzfeldt-Jakob,"Protein gấp nếp sai gây ra các bệnh thoái hóa thần kinh nổi bật như bệnh Alzheimer, bệnh Parkinson và bệnh bò điên (BSE).","**Bước 1 — Nháp:**
+Bệnh Creutzfeldt-Jakob (bệnh bò điên ở người) và bệnh Alzheimer.
+
+**Bước 2 — Tự kiểm:**
+- ""Protein gấp nếp sai"" là nguyên nhân của nhóm bệnh ""proteinopathies"", chủ yếu là các bệnh thoái hóa thần kinh.
+- Bệnh Creutzfeldt-Jakob (và các bệnh prion khác) là ví dụ điển hình nhất vì nguyên nhân trực tiếp là prion - một dạng protein gấp nếp sai truyền nhiễm.
+- Bệnh Alzheimer cũng liên quan đến protein gấp nếp sai (protein amyloid-beta và tau), rất phổ biến.
+- Có thể thiếu bệnh Parkinson (protein alpha-synuclein), Huntington, ALS.
+- Câu hỏi hỏi ""nổi bật"" nên có lẽ cần nêu bệnh prion (vì tính chất đặc trưng) và Alzheimer (vì phổ biến).
+
+**Bước 3 — Cuối cùng:**
+Các bệnh nổi bật do protein gấp nếp sai gây ra bao gồm:
+1. **Các bệnh prion** (ví dụ: bệnh Creutzfeldt-Jakob, bò điên) - đây là nhóm bệnh mà bản thân protein gấp nếp sai (prion) trực tiếp gây bệnh và có khả năng truyền nhiễm.
+2. **Bệnh Alzheimer** - liên quan đến sự tích tụ protein amyloid-beta và tau gấp nếp sai.
+3. **Bệnh Parkinson** - liên quan đến protein alpha-synuclein.
+4. **Bệnh Huntington** và **xơ cứng teo cơ một bên (ALS)**.
+
+Trong đó, bệnh prion thường được xem là ví dụ điển hình và nổi bật nhất cho cơ chế bệnh sinh trực tiếp từ protein gấp nếp sai.","Cuối cùng:**
+Các bệnh nổi bật do protein gấp nếp sai gây ra bao gồm:
+1. **Các bệnh prion** (ví dụ: bệnh Creutzfeldt-Jakob, bò điên) - đây là nhóm bệnh mà bản thân protein gấp nếp sai (prion) trực tiếp gây bệnh và có khả năng truyền nhiễm.
+2. **Bệnh Alzheimer** - liên quan đến sự tích tụ protein amyloid-beta và tau gấp nếp sai.
+3. **Bệnh Parkinson** - liên quan đến protein alpha-synuclein.
+4. **Bệnh Huntington** và **xơ cứng teo cơ một bên (ALS)**.
+
+Trong đó, bệnh prion thường được xem là ví dụ điển hình và nổi bật nhất cho cơ chế bệnh sinh trực tiếp từ protein gấp nếp sai.",deepseek,deepseek-chat
+20,Hệ mã hóa ECC dùng trên Bitcoin?,secp256k1,Có. Bitcoin sử dụng đường cong elliptic secp256k1 và thuật toán chữ ký số ECDSA (Elliptic Curve Digital Signature Algorithm) để tạo và xác minh chữ ký giao dịch.,"**Bước 1 — Nháp:**
+Secp256k1.
+
+**Bước 2 — Tự kiểm:**
+- Có thể nhầm với các hệ ECC khác (như secp256r1/NIST P-256).
+- Cần xác nhận lại: Bitcoin dùng đường cong secp256k1 cho chữ ký số (ECDSA) và địa chỉ.
+- Kiểm tra: Đúng, tài liệu Bitcoin xác nhận dùng secp256k1 với phương trình \( y^2 = x^3 + 7 \) trên trường hữu hạn nguyên tố.
+
+**Bước 3 — Cuối cùng:**
+Bitcoin sử dụng hệ mã hóa đường cong elliptic **secp256k1** để tạo khóa và ký giao dịch.","Cuối cùng:**
+Bitcoin sử dụng hệ mã hóa đường cong elliptic **secp256k1** để tạo khóa và ký giao dịch.",deepseek,deepseek-chat
+21,Nhà toán học phát minh Fourier transform?,Joseph Fourier,Nhà toán học Joseph Fourier phát minh ra phép biến đổi Fourier.,"**Bước 1 — Nháp:**  
+Joseph Fourier.
+
+**Bước 2 — Tự kiểm:**  
+- Joseph Fourier (Jean-Baptiste Joseph Fourier) là nhà toán học người Pháp.  
+- Ông giới thiệu chuỗi Fourier trong tác phẩm *Théorie analytique de la chaleur* (1822).  
+- Biến đổi Fourier (Fourier transform) là mở rộng từ chuỗi Fourier cho hàm không tuần hoàn, được phát triển dần bởi nhiều nhà toán học sau Fourier (Dirichlet, Poisson, Cauchy, …).  
+- Có thể có tranh cãi: Fourier có phải là người *đầu tiên* phát minh ra biến đổi Fourier dạng tích phân không? Thực tế, công thức tích phân xuất hiện rõ ràng trong các công trình sau này của Cauchy, Poisson.  
+- Tuy nhiên, trong nhiều ngữ cảnh phổ thông, người ta gán tên ông cho cả chuỗi và biến đổi tích phân vì ý tưởng cơ bản là của ông.
+
+**Bước 3 — Cuối cùng:**  
+Joseph Fourier là người đặt nền móng ý tưởng dùng chuỗi lượng giác để biểu diễn hàm, dẫn đến khái niệm biến đổi Fourier sau này.  
+Tuy biến đổi Fourier dạng tích phân hoàn chỉnh được phát triển bởi các nhà toán học khác sau ông, tên của ông được gắn liền với phép biến đổi này do đóng góp nền tảng.
+
+**Đáp án:** Joseph Fourier.","Cuối cùng:**  
+Joseph Fourier là người đặt nền móng ý tưởng dùng chuỗi lượng giác để biểu diễn hàm, dẫn đến khái niệm biến đổi Fourier sau này.  
+Tuy biến đổi Fourier dạng tích phân hoàn chỉnh được phát triển bởi các nhà toán học khác sau ông, tên của ông được gắn liền với phép biến đổi này do đóng góp nền tảng.
+
+**Đáp án:** Joseph Fourier.",deepseek,deepseek-chat
+22,Axit amin bắt đầu phiên mã ở vi khuẩn?,Formyl-methionine,Axit amin đầu tiên trong quá trình dịch mã ở vi khuẩn là N-Formylmethionine (fMet).,"**Bước 1 — Nháp:**
+Axit amin bắt đầu cho quá trình dịch mã ở vi khuẩn là N-formylmethionine (fMet).
+
+**Bước 2 — Tự kiểm:**
+- **Điểm có thể sai:** Câu hỏi ghi ""phiên mã"", nhưng ""phiên mã"" (transcription) là quá trình tổng hợp RNA từ DNA. Quá trình bắt đầu bằng một axit amin cụ thể là ""dịch mã"" (translation). Có thể đây là lỗi đánh máy hoặc nhầm lẫn trong câu hỏi.
+- **Điểm thiếu:** Nếu câu hỏi thực sự hỏi về ""phiên mã"", thì axit amin không tham gia trực tiếp vào bước bắt đầu phiên mã. Phiên mã bắt đầu bằng nucleotide (thường là purin: A hoặc G).
+- **Kết luận kiểm tra:** Tôi tự tin với kiến thức rằng fMet là axit amin mở đầu cho dịch mã ở vi khuẩn. Tôi nghi ngờ từ ""phiên mã"" trong câu hỏi là một sai sót, và ý định thực sự là hỏi về ""dịch mã"".
+
+**Bước 3 — Cuối cùng:**
+Nếu câu hỏi muốn hỏi về axit amin bắt đầu cho quá trình **dịch mã** ở vi khuẩn, thì đáp án là **N-formylmethionine (fMet)**.
+
+Tuy nhiên, nếu câu hỏi nghiêm ngặt hỏi về quá trình **phiên mã**, thì axit amin không phải là thành phần bắt đầu. Quá trình phiên mã bắt đầu bằng một nucleotide.
+
+Vì thuật ngữ trong câu hỏi có sự nhập nhằng, tôi nghiêng về giả thuyết đây là một lỗi phổ biến và câu trả lời dự kiến là **fMet** cho quá trình dịch mã.","Cuối cùng:**
+Nếu câu hỏi muốn hỏi về axit amin bắt đầu cho quá trình **dịch mã** ở vi khuẩn, thì đáp án là **N-formylmethionine (fMet)**.
+
+Tuy nhiên, nếu câu hỏi nghiêm ngặt hỏi về quá trình **phiên mã**, thì axit amin không phải là thành phần bắt đầu. Quá trình phiên mã bắt đầu bằng một nucleotide.
+
+Vì thuật ngữ trong câu hỏi có sự nhập nhằng, tôi nghiêng về giả thuyết đây là một lỗi phổ biến và câu trả lời dự kiến là **fMet** cho quá trình dịch mã.",deepseek,deepseek-chat
+23,Nguyên tố nào có điểm nóng chảy cao nhất?,Tungsten,"Nguyên tố có điểm nóng chảy cao nhất là Wolfram (Tungsten), với nhiệt độ nóng chảy là 3422°C.","**Bước 1 – Nháp:**  
+Wolfram (tungsten, W) có điểm nóng chảy cao nhất trong các nguyên tố, khoảng 3422 °C.
+
+**Bước 2 – Tự kiểm:**  
+- Điểm có thể sai: Liệu có nguyên tố nào cao hơn không?  
+- Carbon (dạng than chì) thăng hoa ở ~3650 °C nhưng không nóng chảy ở áp suất thường; ở áp suất cao, carbon nóng chảy ở nhiệt độ cao hơn tungsten.  
+- Tantalum hafnium carbide được cho là hợp kim/hợp chất có nhiệt độ nóng chảy rất cao (~3990 °C), nhưng đây không phải nguyên tố đơn chất.  
+- Trong các nguyên tố đơn chất, tungsten vẫn giữ kỷ lục.  
+- Kiểm tra lại: Wolfram 3422 °C, rhenium 3186 °C, osmi 3033 °C → tungsten cao nhất.
+
+**Bước 3 – Cuối cùng:**  
+Wolfram (tungsten, ký hiệu W) là nguyên tố có điểm nóng chảy cao nhất trong tất cả các nguyên tố hóa học (3422 °C).","Cuối cùng:**  
+Wolfram (tungsten, ký hiệu W) là nguyên tố có điểm nóng chảy cao nhất trong tất cả các nguyên tố hóa học (3422 °C).",deepseek,deepseek-chat
+24,CPU đầu tiên của Intel?,Intel 4004,"Intel 4004, được phát hành vào năm 1971, là bộ vi xử lý đầu tiên của Intel và là bộ vi xử lý đơn chip đầu tiên trên thế giới có sẵn trên thị trường.","**Bước 1 — Nháp:**
+Intel 4004
+
+**Bước 2 — Tự kiểm:**
+- **Điểm có thể sai:** Có thể nhầm với bộ vi xử lý đầu tiên nói chung, hoặc nhầm với các CPU nổi tiếng khác như 8086.
+- **Kiểm tra lại:** Intel 4004 được phát hành năm 1971, là bộ vi xử lý đầu tiên của Intel và cũng là bộ vi xử lý đơn chip thương mại đầu tiên trên thế giới. Đây chính xác là CPU đầu tiên của Intel.
+
+**Bước 3 — Cuối cùng:**
+CPU đầu tiên của Intel là **Intel 4004**.","Cuối cùng:**
+CPU đầu tiên của Intel là **Intel 4004**.",deepseek,deepseek-chat
+25,Hằng số Hubble xấp xỉ (km/s/Mpc)?,~70,Hằng số Hubble hiện tại được ước tính khoảng **70 km/s/Mpc**.,"**Bước 1 — Nháp:**
+70 km/s/Mpc.
+
+**Bước 2 — Tự kiểm:**
+- Có thể sai vì giá trị này thay đổi tùy theo phương pháp đo.
+- Các phép đo gần đây từ Planck (vũ trụ học) cho giá trị ~67 km/s/Mpc, còn phép đo từ siêu tân tinh (khoảng cách gần) cho ~73 km/s/Mpc.
+- Câu hỏi chỉ hỏi ""xấp xỉ"", nên 70 là hợp lý, nhưng cần nói rõ độ chính xác.
+
+**Bước 3 — Cuối cùng:**
+Giá trị xấp xỉ thường được dùng là **70 km/s/Mpc**.  
+Tuy nhiên, các ước lượng chính xác hiện nay nằm trong khoảng 67–73 km/s/Mpc tùy phương pháp đo.","Cuối cùng:**
+Giá trị xấp xỉ thường được dùng là **70 km/s/Mpc**.  
+Tuy nhiên, các ước lượng chính xác hiện nay nằm trong khoảng 67–73 km/s/Mpc tùy phương pháp đo.",deepseek,deepseek-chat
+26,Lý thuyết “Gödel incompleteness” nói về điều gì?,Hệ tiên đề không thể đầy đủ và nhất quán,"Lý thuyết ""Gödel's incompleteness"" khẳng định rằng trong bất kỳ hệ tiên đề mâu thuẫn nào đủ mạnh để mô tả số học cơ bản, đều tồn tại những mệnh đề không thể chứng minh cũng không thể bác bỏ được từ các tiên đề đó. Nói cách khác, hệ thống đó không thể vừa đầy đủ (mọi mệnh đề đều chứng minh được) vừa nhất quán (không có mâu thuẫn).","**Bước 1 — Nháp:**
+
+Định lý không đầy đủ của Gödel (thường gọi là Định lý bất toàn) nói rằng trong bất kỳ hệ tiên đề mâu thuẫn và đủ mạnh để mô tả số học cơ bản, luôn tồn tại những mệnh đề không thể chứng minh cũng không thể bác bỏ được từ các tiên đề đó. Nghĩa là hệ tiên đề đó không đầy đủ. Định lý thứ hai còn nói rằng bản thân hệ không thể chứng minh tính nhất quán của chính nó.
+
+---
+
+**Bước 2 — Tự kiểm:**
+
+- Có thể sai: nhầm lẫn giữa định lý thứ nhất và thứ hai.
+- Có thể thiếu: điều kiện ""hệ phải nhất quán"" (consistent) và ""đủ mạnh cho số học"".
+- Từ ""mâu thuẫn"" trong nháp là sai — phải là ""nhất quán"" (consistent).
+- Cần nói rõ: đây là kết quả quan trọng trong logic toán, do Kurt Gödel công bố năm 1931.
+
+---
+
+**Bước 3 — Cuối cùng:**
+
+Lý thuyết “Gödel incompleteness” (Định lý không đầy đủ của Gödel) gồm hai định lý chính:
+
+1. **Định lý thứ nhất:** Trong bất kỳ hệ tiên đề nhất quán và đủ mạnh để mô tả số học cơ bản, luôn tồn tại những mệnh đề không thể chứng minh và không thể bác bỏ trong hệ thống đó (tính không đầy đủ).
+
+2. **Định lý thứ hai:** Không hệ hình thức nhất quán và đủ mạnh nói trên nào có thể chứng minh được tính nhất quán của chính nó bằng các công cụ của hệ đó.
+
+Đây là kết quả nền tảng trong logic toán, do Kurt Gödel công bố năm 1931, cho thấy giới hạn của các hệ tiên đề hình thức trong việc capture toàn bộ chân lý toán học.","Cuối cùng:**
+
+Lý thuyết “Gödel incompleteness” (Định lý không đầy đủ của Gödel) gồm hai định lý chính:
+
+1. **Định lý thứ nhất:** Trong bất kỳ hệ tiên đề nhất quán và đủ mạnh để mô tả số học cơ bản, luôn tồn tại những mệnh đề không thể chứng minh và không thể bác bỏ trong hệ thống đó (tính không đầy đủ).
+
+2. **Định lý thứ hai:** Không hệ hình thức nhất quán và đủ mạnh nói trên nào có thể chứng minh được tính nhất quán của chính nó bằng các công cụ của hệ đó.
+
+Đây là kết quả nền tảng trong logic toán, do Kurt Gödel công bố năm 1931, cho thấy giới hạn của các hệ tiên đề hình thức trong việc capture toàn bộ chân lý toán học.",deepseek,deepseek-chat
+27,Đơn vị đo entropi trong thông tin?,Bit,"Đơn vị đo entropi thông tin là bit (còn gọi là shannon). Trong một số trường hợp, nó cũng có thể được đo bằng nat hoặc hartley.","**Bước 1 — Nháp**  
+Đơn vị của entropy trong lý thuyết thông tin là **bit** (khi dùng logarit cơ số 2).
+
+**Bước 2 — Tự kiểm**  
+- Có thể nhầm với entropy nhiệt động (đơn vị J/K).  
+- Có thể quên nói rõ logarit cơ số 2.  
+- Có thể quên đơn vị khác như nat (nếu dùng logarit tự nhiên) hoặc hartley (nếu dùng logarit cơ số 10), nhưng thông dụng nhất là bit.  
+
+**Bước 3 — Cuối cùng**  
+Entropy trong lý thuyết thông tin được đo bằng **bit** (với công thức dùng logarit cơ số 2).  
+Các đơn vị khác như nat hay hartley cũng được dùng trong một số ngữ cảnh, nhưng bit là phổ biến nhất.","Cuối cùng**  
+Entropy trong lý thuyết thông tin được đo bằng **bit** (với công thức dùng logarit cơ số 2).  
+Các đơn vị khác như nat hay hartley cũng được dùng trong một số ngữ cảnh, nhưng bit là phổ biến nhất.",deepseek,deepseek-chat
+28,Số nguyên tố lớn nhất đã biết thuộc dạng gì?,Số Mersenne,"Số nguyên tố lớn nhất đã biết hiện nay là số nguyên tố Mersenne, có dạng 2^p − 1 với p là số nguyên tố.","**Bước 1 — Nháp**  
+Số nguyên tố lớn nhất đã biết hiện nay là \( 2^{82,589,933} - 1 \), thuộc dạng số nguyên tố Mersenne.
+
+**Bước 2 — Tự kiểm**  
+- Có thể sai nếu không cập nhật thông tin mới nhất (tính đến năm 2024, số này vẫn giữ kỷ lục).  
+- Có thể thiếu giải thích: số nguyên tố Mersenne là số có dạng \( M_p = 2^p - 1 \) với \( p \) nguyên tố.  
+- Kiểm tra: Dự án GIMPS (Great Internet Mersenne Prime Search) tìm ra số này tháng 12/2018, chưa có số nào lớn hơn được xác nhận.  
+- Không phải mọi số nguyên tố lớn đều là Mersenne, nhưng các số lớn nhất thường là Mersenne vì có kiểm tra nhanh (Lucas–Lehmer).
+
+**Bước 3 — Cuối cùng**  
+Số nguyên tố lớn nhất đã biết hiện nay có dạng Mersenne, cụ thể là \( 2^{82,589,933} - 1 \), được phát hiện bởi GIMPS vào tháng 12 năm 2018.","Cuối cùng**  
+Số nguyên tố lớn nhất đã biết hiện nay có dạng Mersenne, cụ thể là \( 2^{82,589,933} - 1 \), được phát hiện bởi GIMPS vào tháng 12 năm 2018.",deepseek,deepseek-chat
+29,Tập đoàn nào sản xuất chip M1?,Apple,Tập đoàn Apple thiết kế chip M1 và TSMC (Taiwan Semiconductor Manufacturing Company) là đơn vị sản xuất.,"**Bước 1 — Nháp:**
+Apple.
+
+**Bước 2 — Tự kiểm:**
+- Điểm có thể sai: Apple là công ty thiết kế chip M1, nhưng họ không tự sản xuất (fabless). Nhà máy sản xuất thực tế là TSMC (Taiwan Semiconductor Manufacturing Company).
+- Cần phân biệt ""thiết kế"" và ""sản xuất"".
+
+**Bước 3 — Cuối cùng:**
+Chip M1 do Apple thiết kế và TSMC sản xuất (gia công). Vì câu hỏi hỏi ""tập đoàn nào sản xuất"", câu trả lời chính xác là **TSMC**.","Cuối cùng:**
+Chip M1 do Apple thiết kế và TSMC sản xuất (gia công). Vì câu hỏi hỏi ""tập đoàn nào sản xuất"", câu trả lời chính xác là **TSMC**.",deepseek,deepseek-chat
+30,Lần đầu nhân loại chụp ảnh lỗ đen năm nào?,2019,Lần đầu tiên nhân loại chụp được hình ảnh trực tiếp về lỗ đen là vào năm 2019.,"**Bước 1 — Nháp:**  
+2019.
+
+**Bước 2 — Tự kiểm:**  
+- Có thể nhầm giữa năm công bố và năm chụp thực tế.  
+- Dự án EHT (Event Horizon Telescope) quan sát vào tháng 4/2017, công bố ảnh đầu tiên vào tháng 4/2019.  
+- Ảnh đầu tiên là ảnh lỗ đen M87*, không phải Sagittarius A* (công bố sau).  
+- Vậy năm công bố ảnh đầu tiên là 2019, nhưng dữ liệu chụp từ 2017.  
+- Câu hỏi hỏi “nhân loại chụp ảnh” — có thể hiểu là thời điểm chụp (2017) hoặc thời điểm công bố (2019). Thông thường, đa số hiểu là năm công bố ảnh (2019).
+
+**Bước 3 — Cuối cùng:**  
+Lần đầu tiên nhân loại chụp được ảnh lỗ đen (lỗ đen M87*) là vào năm 2019 (công bố ngày 10/4/2019).","Cuối cùng:**  
+Lần đầu tiên nhân loại chụp được ảnh lỗ đen (lỗ đen M87*) là vào năm 2019 (công bố ngày 10/4/2019).",deepseek,deepseek-chat
+31,Bằng chứng hóa thạch lâu đời nhất khoảng bao nhiêu năm?,~3.5 tỷ năm,"Bằng chứng hóa thạch lâu đời nhất là của các vi sinh vật, có niên đại khoảng 3,5 tỷ năm.","**Bước 1 — Nháp:**
+Bằng chứng hóa thạch lâu đời nhất là của các vi sinh vật cổ đại, có niên đại khoảng 3.5 tỷ năm.
+
+**Bước 2 — Tự kiểm:**
+- Có phải 3.5 tỷ năm không? Tôi nhớ các hóa thạch stromatolite ở Úc và một số nơi khác có tuổi khoảng 3.4–3.7 tỷ năm, trong đó bằng chứng được chấp nhận rộng rãi là khoảng 3.5 tỷ năm (ví dụ ở Pilbara, Úc).
+- Có thể có bằng chứng còn cổ hơn không? Có những nghiên cứu về graphit trong đá 3.8 tỷ năm ở Greenland, nhưng đó là bằng chứng hóa học chứ không phải hóa thạch cơ thể rõ ràng.
+- Cần phân biệt: hóa thạch lâu đời nhất **của sự sống** là khoảng 3.5 tỷ năm (dạng stromatolite), còn Trái Đất hình thành ~4.5 tỷ năm trước.
+
+**Bước 3 — Cuối cùng:**
+Bằng chứng hóa thạch lâu đời nhất được chấp nhận rộng rãi (dạng stromatolite do vi khuẩn cổ tạo ra) có niên đại khoảng **3.5 tỷ năm**. Có một số bằng chứng gián tiếp (dấu vết hóa học của sự sống) trong đá khoảng 3.8–4.1 tỷ năm, nhưng chưa phải hóa thạch cấu trúc rõ ràng.","Cuối cùng:**
+Bằng chứng hóa thạch lâu đời nhất được chấp nhận rộng rãi (dạng stromatolite do vi khuẩn cổ tạo ra) có niên đại khoảng **3.5 tỷ năm**. Có một số bằng chứng gián tiếp (dấu vết hóa học của sự sống) trong đá khoảng 3.8–4.1 tỷ năm, nhưng chưa phải hóa thạch cấu trúc rõ ràng.",deepseek,deepseek-chat
+32,Nhiên liệu chính của mặt trời?,Hydro,"Nhiên liệu chính của Mặt Trời là hydro. Thông qua phản ứng tổng hợp hạt nhân, hydro được chuyển hóa thành heli trong lõi Mặt Trời, giải phóng một năng lượng khổng lồ.","**Bước 1 — Nháp:**
+Hydro.
+
+**Bước 2 — Tự kiểm:**
+- Điểm có thể sai: Mặt Trời không chỉ đốt hydro thông thường mà thực hiện phản ứng tổng hợp hạt nhân (phản ứng nhiệt hạch) biến hydro thành heli.
+- Có thể thiếu: Cụ thể hơn là phản ứng *proton–proton* (dây chuyền p-p) chiếm ~99% năng lượng Mặt Trời.
+- Có thể cần nói rõ: ""Hydro là nhiên liệu ban đầu, phản ứng nhiệt hạch hydro → heli giải phóng năng lượng.""
+
+**Bước 3 — Cuối cùng:**
+Nhiên liệu chính của Mặt Trời là hydro, được sử dụng trong các phản ứng nhiệt hạch (chủ yếu chu trình proton-proton) để tạo ra heli và giải phóng năng lượng.","Cuối cùng:**
+Nhiên liệu chính của Mặt Trời là hydro, được sử dụng trong các phản ứng nhiệt hạch (chủ yếu chu trình proton-proton) để tạo ra heli và giải phóng năng lượng.",deepseek,deepseek-chat
+33,Quốc gia đầu tiên hợp pháp hóa Bitcoin làm tiền tệ?,El Salvador,"El Salvador là quốc gia đầu tiên trên thế giới hợp pháp hóa Bitcoin trở thành tiền tệ hợp pháp, có hiệu lực từ ngày 7 tháng 9 năm 2021.","**Bước 1 — Nháp:**  
+El Salvador.
+
+**Bước 2 — Tự kiểm:**  
+- Có phải là quốc gia *đầu tiên* không?  
+- Bitcoin được hợp pháp hóa làm *tiền tệ pháp định* (legal tender), không chỉ là tài sản hợp pháp.  
+- Các nước khác như Mỹ, Nhật chấp nhận Bitcoin như tài sản, hàng hóa, nhưng không phải là tiền tệ pháp định.  
+- El Salvador thông qua luật ngày 9/6/2021, có hiệu lực từ 7/9/2021.  
+- Trước đó không có quốc gia nào coi Bitcoin là tiền tệ pháp định.  
+- Cộng hòa Trung Phi (CAR) thông qua Bitcoin làm tiền tệ pháp định vào tháng 4/2022, sau El Salvador.  
+
+→ Không có điểm sai ở đây.
+
+**Bước 3 — Cuối cùng:**  
+El Salvador là quốc gia đầu tiên trên thế giới hợp pháp hóa Bitcoin làm tiền tệ pháp định.","Cuối cùng:**  
+El Salvador là quốc gia đầu tiên trên thế giới hợp pháp hóa Bitcoin làm tiền tệ pháp định.",deepseek,deepseek-chat
+34,Ngôn ngữ Haskell đặt theo tên ai?,Haskell Curry,Ngôn ngữ Haskell được đặt theo tên của nhà toán học và logic học Haskell Brooks Curry.,"**Bước 1 — Nháp:**  
+Haskell được đặt theo tên nhà toán học và logic học **Haskell Curry**.
+
+**Bước 2 — Tự kiểm:**  
+- Có thể nhầm với một người khác (ví dụ: Alonzo Church, người tạo ra lambda calculus).  
+- Cần xác nhận: Haskell Curry là nhà toán học Mỹ, nghiên cứu về logic tổ hợp, ảnh hưởng đến ngôn ngữ lập trình hàm.  
+- Tên ngôn ngữ Haskell được chọn vào cuối thập niên 1980 để vinh danh ông.  
+- Không có điểm sai rõ ràng, nhưng cần nhớ đúng tên đầy đủ.
+
+**Bước 3 — Cuối cùng:**  
+Ngôn ngữ Haskell được đặt theo tên **Haskell Curry**.","Cuối cùng:**  
+Ngôn ngữ Haskell được đặt theo tên **Haskell Curry**.",deepseek,deepseek-chat
+35,Dịch vụ DNS hoạt động trên cổng UDP nào?,53,"Dịch vụ DNS chủ yếu hoạt động trên **cổng UDP 53** để trả lời các truy vấn. Giao thức TCP, cũng trên cổng 53, được sử dụng cho các trường hợp như chuyển vùng (zone transfers) hoặc khi phản hồi vượt quá kích thước cho phép của gói UDP.","**Bước 1 — Nháp:**
+DNS chủ yếu sử dụng cổng UDP 53.
+
+**Bước 2 — Tự kiểm:**
+- **Điểm có thể thiếu:** DNS cũng có thể sử dụng TCP trên cổng 53 trong một số trường hợp (ví dụ: khi kích thước gói tin vượt quá 512 byte, hoặc cho các hoạt động như zone transfer).
+- **Điểm có thể sai:** Câu trả lời chỉ đề cập đến UDP mà không nói đến TCP có thể gây hiểu lầm rằng DNS chỉ dùng UDP.
+
+**Bước 3 — Cuối cùng:**
+Dịch vụ DNS chủ yếu hoạt động trên cổng UDP 53. Tuy nhiên, nó cũng có thể sử dụng TCP trên cổng 53 cho một số tác vụ cụ thể.","Cuối cùng:**
+Dịch vụ DNS chủ yếu hoạt động trên cổng UDP 53. Tuy nhiên, nó cũng có thể sử dụng TCP trên cổng 53 cho một số tác vụ cụ thể.",deepseek,deepseek-chat
+36,NLP viết tắt của gì?,Natural Language Processing,NLP viết tắt cho **Natural Language Processing** (Xử lý ngôn ngữ tự nhiên).,"**Bước 1 — Nháp:**
+NLP là viết tắt của ""Natural Language Processing"".
+
+**Bước 2 — Tự kiểm:**
+- **Điểm có thể sai:** Có hai cách giải thích phổ biến cho từ viết tắt NLP:
+    1. **Natural Language Processing** (Xử lý ngôn ngữ tự nhiên) - Đây là lĩnh vực trong trí tuệ nhân tạo và khoa học máy tính.
+    2. **Neuro-Linguistic Programming** (Lập trình ngôn ngữ tư duy) - Đây là một phương pháp trong tâm lý học và phát triển bản thân.
+- **Thiếu bối cảnh:** Câu hỏi không cung cấp ngữ cảnh cụ thể (ví dụ: trong lĩnh vực AI hay tâm lý học). Trong bối cảnh công nghệ và AI (thường gặp hơn), ""Natural Language Processing"" là câu trả lời phổ biến nhất.
+
+**Bước 3 — Cuối cùng:**
+Trong bối cảnh công nghệ và trí tuệ nhân tạo, NLP là viết tắt của **Natural Language Processing** (Xử lý ngôn ngữ tự nhiên). Tuy nhiên, cũng có một nghĩa khác là Neuro-Linguistic Programming (Lập trình ngôn ngữ tư duy) trong lĩnh vực tâm lý. Nếu câu hỏi này được đặt trong một bài học về máy tính hoặc AI, thì đáp án là Natural Language Processing.","Cuối cùng:**
+Trong bối cảnh công nghệ và trí tuệ nhân tạo, NLP là viết tắt của **Natural Language Processing** (Xử lý ngôn ngữ tự nhiên). Tuy nhiên, cũng có một nghĩa khác là Neuro-Linguistic Programming (Lập trình ngôn ngữ tư duy) trong lĩnh vực tâm lý. Nếu câu hỏi này được đặt trong một bài học về máy tính hoặc AI, thì đáp án là Natural Language Processing.",deepseek,deepseek-chat
+37,Không gian Hilbert thuộc nhánh nào?,Giải tích hàm,"Không gian Hilbert là một khái niệm trung tâm trong ngành Giải tích hàm, một nhánh của Toán học.","**Bước 1 — Nháp:**
+Toán học.
+
+**Bước 2 — Tự kiểm:**
+- Không gian Hilbert là một khái niệm trung tâm trong *Giải tích hàm* (Functional Analysis).
+- Giải tích hàm là một nhánh chính của *Toán học hiện đại*.
+- Nó cũng có ứng dụng sâu rộng trong Vật lý (cơ học lượng tử), nhưng về bản chất và nguồn gốc, nó thuộc về Toán học.
+- Điểm có thể sai: Nếu trả lời chỉ là ""Toán học"" thì quá rộng và chung chung, chưa chỉ ra được nhánh cụ thể. Cần phải cụ thể hơn.
+
+**Bước 3 — Cuối cùng:**
+Không gian Hilbert là một khái niệm trọng tâm thuộc nhánh **Giải tích hàm** trong Toán học.","Cuối cùng:**
+Không gian Hilbert là một khái niệm trọng tâm thuộc nhánh **Giải tích hàm** trong Toán học.",deepseek,deepseek-chat
+38,Hệ mã hóa RSA dựa trên vấn đề toán gì?,Phân tích thừa số số nguyên lớn,Hệ mã hóa RSA dựa trên vấn đề phân tích một số nguyên lớn thành các thừa số nguyên tố (bài toán phân tích số).,"**Bước 1 — Nháp**  
+Hệ mã hóa RSA dựa trên bài toán phân tích một số nguyên lớn thành các thừa số nguyên tố (factoring problem).
+
+**Bước 2 — Tự kiểm**  
+- Có thể nhầm với bài toán logarit rời rạc (dùng trong Diffie–Hellman hoặc ElGamal).  
+- RSA dựa trên tính khó của việc phân tích n = p×q khi p, q lớn, từ đó suy ra khó tìm d từ e mà không biết φ(n).  
+- Cũng có thể đề cập đến “Bài toán RSA” (RSA problem) — tìm m từ c ≡ m^e (mod n) khi biết (n,e) nhưng không biết d — thường quy về độ khó của phân tích n.  
+- Cần nói rõ: vấn đề cơ bản là phân tích số nguyên.
+
+**Bước 3 — Cuối cùng**  
+Hệ mã hóa RSA dựa trên **bài toán phân tích số nguyên lớn ra thừa số nguyên tố** (integer factorization problem).  
+Cụ thể: việc tìm bí mật từ khóa công khai tương đương với việc phân tích n = p×q, và đây là bài toán khó khi p, q đủ lớn.","Cuối cùng**  
+Hệ mã hóa RSA dựa trên **bài toán phân tích số nguyên lớn ra thừa số nguyên tố** (integer factorization problem).  
+Cụ thể: việc tìm bí mật từ khóa công khai tương đương với việc phân tích n = p×q, và đây là bài toán khó khi p, q đủ lớn.",deepseek,deepseek-chat
+39,Cá thể sống đa bào cổ nhất là gì?,Porifera,"Cá thể sống đa bào cổ nhất được biết đến là một loại tảo đỏ có tên *Bangiomorpha pubescens*, xuất hiện vào khoảng 1,05 tỷ năm trước.","**Bước 1 — Nháp:**  
+Cá thể sống đa bào cổ nhất được biết đến hiện nay là *Fractofusus*, một sinh vật thuộc hệ sinh vật Ediacara, sống vào khoảng 571–539 triệu năm trước (kỷ Ediacara).  
+
+**Bước 2 — Tự kiểm:**  
+- Có thể nhầm với các sinh vật đa bào khác như *Dickinsonia* hay *Namacalathus*, nhưng *Fractofusus* được xem là một trong những dạng đa bào lâu đời nhất dựa trên hóa thạch.  
+- Hóa thạch *Fractofusus* có niên đại khoảng 571 triệu năm, sớm hơn một số sinh vật Ediacara khác.  
+- Cần lưu ý rằng các phát hiện mới có thể thay đổi nhận định này.  
+
+**Bước 3 — Cuối cùng:**  
+Cá thể sống đa bào cổ nhất được ghi nhận từ hóa thạch là **Fractofusus** (khoảng 571 triệu năm trước), thuộc hệ sinh vật Ediacara. Tuy nhiên, do bằng chứng hóa thạch còn hạn chế và có thể có tranh luận, tôi không hoàn toàn chắc chắn đây là câu trả lời cuối cùng nếu có phát hiện mới.",cuối cùng nếu có phát hiện mới.,deepseek,deepseek-chat
+40,“Red shift” trong thiên văn nghĩa là gì?,Giãn nở vũ trụ / vật thể rời xa,"Red shift (dịch chuyển đỏ) là hiện tượng ánh sáng từ các thiên thể bị dịch chuyển về phía bước sóng dài hơn (màu đỏ) của quang phổ. Hiệu ứng này chủ yếu xảy ra do hai nguyên nhân: sự giãn nở của vũ trụ khiến các thiên hà xa xôi lùi ra xa chúng ta (dịch chuyển đỏ vũ trụ học), hoặc do hiệu ứng Doppler khi một vật thể di chuyển ra xa người quan sát.","**Bước 1 — Nháp:**  
+Red shift (dịch chuyển đỏ) là hiện tượng ánh sáng hoặc sóng điện từ từ một thiên thể bị dịch chuyển về phía bước sóng dài hơn (màu đỏ) của quang phổ. Nguyên nhân thường gặp nhất là do hiệu ứng Doppler khi thiên thể đang chuyển động ra xa Trái Đất.  
+
+**Bước 2 — Tự kiểm:**  
+- Định nghĩa có thể thiếu: red shift không chỉ do chuyển động (Doppler) mà còn do sự giãn nở của không gian (red shift vũ trụ) trong vũ trụ học.  
+- Có thể nên nói rõ: red shift đo tốc độ lùi xa của các thiên hà, là bằng chứng cho vũ trụ đang giãn nở.  
+- Cần phân biệt 3 loại: Doppler, gravitational, cosmological.  
+
+**Bước 3 — Cuối cùng:**  
+Red shift trong thiên văn là hiện tượng bước sóng ánh sáng từ các thiên thể bị kéo dài, dịch chuyển về phía đầu đỏ của quang phổ. Nguyên nhân có thể là:  
+1. **Doppler redshift** – do thiên thể chuyển động ra xa ta.  
+2. **Gravitational redshift** – do trường hấp dẫn mạnh (theo thuyết tương đối rộng).  
+3. **Cosmological redshift** – do không gian giãn nở làm kéo dài bước sóng ánh sáng khi truyền qua vũ trụ.  
+Red shift là một trong những bằng chứng quan trọng cho thấy vũ trụ đang giãn nở.","Cuối cùng:**  
+Red shift trong thiên văn là hiện tượng bước sóng ánh sáng từ các thiên thể bị kéo dài, dịch chuyển về phía đầu đỏ của quang phổ. Nguyên nhân có thể là:  
+1. **Doppler redshift** – do thiên thể chuyển động ra xa ta.  
+2. **Gravitational redshift** – do trường hấp dẫn mạnh (theo thuyết tương đối rộng).  
+3. **Cosmological redshift** – do không gian giãn nở làm kéo dài bước sóng ánh sáng khi truyền qua vũ trụ.  
+Red shift là một trong những bằng chứng quan trọng cho thấy vũ trụ đang giãn nở.",deepseek,deepseek-chat
+41,Ai phát minh Gradient Descent?,Cauchy,Augustin-Louis Cauchy thường được ghi nhận là người đã mô tả phương pháp Gradient Descent đầu tiên vào năm 1847.,"**Bước 1 — Nháp**  
+Augustin-Louis Cauchy được cho là người đầu tiên đề xuất ý tưởng cơ bản của Gradient Descent trong một bài báo năm 1847.
+
+**Bước 2 — Tự kiểm**  
+- Có thể sai về tên chính xác: một số nguồn gán cho Cauchy, một số khác nói Curry (1944) hoặc các nhà toán học khác.  
+- Có thể nhầm giữa ""phát minh"" và ""áp dụng đầu tiên"" — Cauchy dùng cho giải hệ phương trình, không phải cho máy học hiện đại.  
+- Có thể thiếu thông tin về người phổ biến thuật toán trong bối cảnh tối ưu hóa máy học (như Robbins–Monro, 1951).
+
+**Bước 3 — Cuối cùng**  
+Theo các tài liệu lịch sử, **Augustin-Louis Cauchy** thường được ghi nhận là người đầu tiên mô tả phương pháp gradient (giảm dần) vào năm 1847. Tuy nhiên, tôi không hoàn toàn chắc chắn vì có tranh luận về việc ai là người ""phát minh"" thực sự nếu xét theo hình thức thuật toán ngày nay.","Cuối cùng**  
+Theo các tài liệu lịch sử, **Augustin-Louis Cauchy** thường được ghi nhận là người đầu tiên mô tả phương pháp gradient (giảm dần) vào năm 1847. Tuy nhiên, tôi không hoàn toàn chắc chắn vì có tranh luận về việc ai là người ""phát minh"" thực sự nếu xét theo hình thức thuật toán ngày nay.",deepseek,deepseek-chat
+42,Nước đầu tiên phóng vệ tinh nhân tạo?,Liên Xô,"Liên Xô là nước đầu tiên phóng vệ tinh nhân tạo, Sputnik 1, vào ngày 4 tháng 10 năm 1957.","**Bước 1 — Nháp:**
+Liên Xô.
+
+**Bước 2 — Tự kiểm:**
+- Điểm có thể sai: Tên nước cụ thể. Liên Xô (tên đầy đủ là Liên bang Cộng hòa Xã hội Chủ nghĩa Xô viết) là quốc gia đầu tiên phóng thành công vệ tinh nhân tạo lên quỹ đạo Trái Đất.
+- Sự kiện: Vệ tinh Sputnik 1, phóng ngày 4 tháng 10 năm 1957.
+- Có thể nhầm với Mỹ (vì Mỹ cũng trong cuộc chạy đua không gian, nhưng Mỹ phóng vệ tinh đầu tiên của họ, Explorer 1, vào năm 1958, sau Liên Xô).
+- Kiểm tra lại: Thông tin này là phổ biến và chính xác trong lịch sử khai phá vũ trụ.
+
+**Bước 3 — Cuối cùng:**
+Liên Xô là nước đầu tiên phóng thành công vệ tinh nhân tạo (Sputnik 1) vào ngày 4 tháng 10 năm 1957.","Cuối cùng:**
+Liên Xô là nước đầu tiên phóng thành công vệ tinh nhân tạo (Sputnik 1) vào ngày 4 tháng 10 năm 1957.",deepseek,deepseek-chat
+43,Nhà toán học đứng sau lý thuyết Turing completeness?,Alan Turing,Alan Turing.,"**Bước 1 — Nháp:**  
+Alan Turing.
+
+**Bước 2 — Tự kiểm:**  
+- Turing completeness liên quan đến khả năng tính toán của một máy/mô hình, được xác định bằng máy Turing.  
+- Alan Turing đề xuất máy Turing và khái niệm tính toán được.  
+- Có thể nhầm với Alonzo Church (Church–Turing thesis), nhưng ""Turing completeness"" trực tiếp gắn với máy Turing.  
+- Tên đầy đủ: Alan Mathison Turing.  
+- Không có điểm gì sai ở đây.
+
+**Bước 3 — Cuối cùng:**  
+Alan Turing.","Cuối cùng:**  
+Alan Turing.",deepseek,deepseek-chat
+44,Đồng vị phóng xạ dùng trong PET scan?,Fluorine-18,"Đồng vị phóng xạ phổ biến nhất được sử dụng trong PET scan là Fluorine-18 (F-18), thường được kết hợp vào một phân tử đường gọi là FDG (Fluorodeoxyglucose). Các đồng vị khác bao gồm Carbon-11, Oxygen-15 và Nitrogen-13.","**Bước 1 — Nháp:**
+Đồng vị phóng xạ dùng trong PET scan là Flo-18 (¹⁸F), thường kết hợp với một phân tử đường như FDG (Fluorodeoxyglucose).
+
+**Bước 2 — Tự kiểm:**
+- Có thể thiếu các đồng vị khác cũng được sử dụng trong PET, như Carbon-11, Oxygen-15, Nitrogen-13, hoặc Gallium-68.
+- Cần làm rõ Flo-18 là phổ biến nhất trong lâm sàng.
+- Cần nói rõ đặc điểm chung của các đồng vị này là phát ra positron.
+
+**Bước 3 — Cuối cùng:**
+Đồng vị phóng xạ phổ biến nhất được sử dụng trong PET scan là **Flo-18 (¹⁸F)**, thường dưới dạng FDG. Ngoài ra, các đồng vị phát positron khác như Carbon-11 (¹¹C), Oxygen-15 (¹⁵O), Nitrogen-13 (¹³N) và Gallium-68 (⁶⁸Ga) cũng có thể được sử dụng tùy vào mục đích chẩn đoán cụ thể.","Cuối cùng:**
+Đồng vị phóng xạ phổ biến nhất được sử dụng trong PET scan là **Flo-18 (¹⁸F)**, thường dưới dạng FDG. Ngoài ra, các đồng vị phát positron khác như Carbon-11 (¹¹C), Oxygen-15 (¹⁵O), Nitrogen-13 (¹³N) và Gallium-68 (⁶⁸Ga) cũng có thể được sử dụng tùy vào mục đích chẩn đoán cụ thể.",deepseek,deepseek-chat
+45,Quantum tunneling là hiện tượng gì?,Hạt xuyên rào cấm lượng tử,"Quantum tunneling là hiện tượng cơ học lượng tử trong đó một hạt có thể vượt qua một rào thế năng ngay cả khi năng lượng của nó thấp hơn đỉnh rào, một điều không thể xảy ra trong cơ học cổ điển.","**Bước 1 — Nháp:**
+Quantum tunneling là hiện tượng hạt lượng tử có thể vượt qua một rào thế năng cao hơn năng lượng của nó, điều không thể xảy ra trong cơ học cổ điển.
+
+**Bước 2 — Tự kiểm:**
+- Định nghĩa đã đủ chưa? Cần nói rõ là xác suất khác 0, không phải chắc chắn.
+- Có nên đề cập hệ quả quan trọng không? (VD: giải thích phân rã alpha, hoạt động diode tunnel)
+- Có thể nhầm với hiệu ứng đường ngầm thông thường? Cần nhấn ""lượng tử"".
+- Điều kiện: rào thế phải có độ rộng hữu hạn.
+
+**Bước 3 — Cuối cùng:**
+Quantum tunneling là hiện tượng trong cơ học lượng tử, trong đó một hạt (như electron) có xác suất khác không để vượt qua một rào thế năng mà năng lượng của hạt thấp hơn đỉnh rào, nếu rào thế có độ rộng đủ nhỏ. Trong cơ học cổ điển, điều này là không thể. Hiện tượng này giải thích nhiều hiệu ứng vật lý như phân rã hạt nhân, hoạt động của diode tunnel, và phản ứng nhiệt hạch trong Mặt Trời.","Cuối cùng:**
+Quantum tunneling là hiện tượng trong cơ học lượng tử, trong đó một hạt (như electron) có xác suất khác không để vượt qua một rào thế năng mà năng lượng của hạt thấp hơn đỉnh rào, nếu rào thế có độ rộng đủ nhỏ. Trong cơ học cổ điển, điều này là không thể. Hiện tượng này giải thích nhiều hiệu ứng vật lý như phân rã hạt nhân, hoạt động của diode tunnel, và phản ứng nhiệt hạch trong Mặt Trời.",deepseek,deepseek-chat
+46,Nguyên tắc Heisenberg nói về điều gì?,Không thể biết chính xác đồng thời vị trí & động lượng,Nguyên tắc Heisenberg (hay nguyên lý bất định) phát biểu rằng ta không thể đồng thời xác định chính xác cả vị trí và động lượng của một hạt lượng tử; việc xác định một đại lượng càng chính xác thì đại lượng kia càng bất định.,"**Bước 1 — Nháp:**
+Nguyên tắc Heisenberg (nguyên lý bất định) nói rằng ta không thể đồng thời xác định chính xác cả vị trí và động lượng của một hạt lượng tử. Độ bất định của hai đại lượng này có mối liên hệ: tích của chúng không nhỏ hơn một hằng số xác định (cỡ h/4π).
+
+**Bước 2 — Tự kiểm:**
+- Có thể sai tên gọi: ""Nguyên lý bất định Heisenberg"" là tên phổ biến hơn ""Nguyên tắc Heisenberg"".
+- Có thể thiếu phát biểu toán học: Δx·Δp ≥ ħ/2 (với ħ = h/2π).
+- Có thể quên nói rõ đây là giới hạn cơ bản của phép đo, không phải do dụng cụ.
+- Có thể quên mở rộng: nguyên lý này áp dụng cho các cặp đại lượng vật lý khác (ví dụ: năng lượng và thời gian).
+
+**Bước 3 — Cuối cùng:**
+Nguyên lý bất định Heisenberg là một nguyên lý cơ bản trong cơ học lượng tử, phát biểu rằng không thể đồng thời xác định chính xác cả vị trí và động lượng của một hạt. Cụ thể, tích của độ bất định về vị trí (Δx) và độ bất định về động lượng (Δp) luôn lớn hơn hoặc bằng một nửa hằng số Planck rút gọn: Δx·Δp ≥ ħ/2. Đây là giới hạn cơ bản xuất phát từ bản chất sóng-hạt của vật chất, không phải do hạn chế của thiết bị đo. Nguyên lý tương tự cũng áp dụng cho các cặp đại lượng vật lý liên hợp khác như năng lượng và thời gian.","Cuối cùng:**
+Nguyên lý bất định Heisenberg là một nguyên lý cơ bản trong cơ học lượng tử, phát biểu rằng không thể đồng thời xác định chính xác cả vị trí và động lượng của một hạt. Cụ thể, tích của độ bất định về vị trí (Δx) và độ bất định về động lượng (Δp) luôn lớn hơn hoặc bằng một nửa hằng số Planck rút gọn: Δx·Δp ≥ ħ/2. Đây là giới hạn cơ bản xuất phát từ bản chất sóng-hạt của vật chất, không phải do hạn chế của thiết bị đo. Nguyên lý tương tự cũng áp dụng cho các cặp đại lượng vật lý liên hợp khác như năng lượng và thời gian.",deepseek,deepseek-chat
+47,Loại sóng não khi ngủ sâu?,Delta,Sóng não khi ngủ sâu chủ yếu là sóng Delta.,"**Bước 1 — Nháp:**
+Sóng não khi ngủ sâu chủ yếu là sóng delta.
+
+**Bước 2 — Tự kiểm:**
+- Điểm có thể sai hoặc thiếu:
+    1. Giai đoạn ngủ sâu là giai đoạn nào? (Giai đoạn N3 trong giấc ngủ NREM).
+    2. Sóng delta có tần số bao nhiêu? (0.5–4 Hz).
+    3. Có thể nhầm với giai đoạn ngủ khác (ví dụ: N2 có sóng theta và sleep spindle, REM có sóng não nhanh).
+    4. Có nên nói rõ đây là giấc ngủ sóng chậm (Slow-wave sleep) không?
+
+**Bước 3 — Cuối cùng:**
+Loại sóng não đặc trưng khi ngủ sâu (giai đoạn N3 của giấc ngủ NREM) là **sóng delta** (tần số 0.5–4 Hz), còn gọi là giấc ngủ sóng chậm (Slow-wave sleep).","Cuối cùng:**
+Loại sóng não đặc trưng khi ngủ sâu (giai đoạn N3 của giấc ngủ NREM) là **sóng delta** (tần số 0.5–4 Hz), còn gọi là giấc ngủ sóng chậm (Slow-wave sleep).",deepseek,deepseek-chat
+48,Cơ chế chính của vaccine mRNA?,Dạy tế bào tạo protein kháng nguyên,"Vaccine mRNA hoạt động bằng cách cung cấp một đoạn mã RNA thông tin (mRNA) được tổng hợp để mã hóa cho một protein đặc hiệu của virus (như protein gai của SARS-CoV-2). Khi được tiêm vào cơ thể, các tế bào của chúng ta sử dụng mRNA này để sản xuất ra protein virus. Protein này không gây bệnh nhưng kích thích hệ thống miễn dịch tạo ra phản ứng, bao gồm cả kháng thể và tế bào T, để sẵn sàng chống lại virus thực nếu bị nhiễm trong tương lai.","Chắc chắn, tôi sẽ làm theo các bước bạn đề xuất.
+
+### Bước 1 — Nháp: Trả lời ngắn
+Vaccine mRNA hoạt động bằng cách đưa một đoạn mã di truyền (mRNA) được tổng hợp nhân tạo vào trong tế bào cơ thể. Đoạn mRNA này hướng dẫn tế bào tạo ra một protein gai (spike protein) đặc trưng của virus (ví dụ SARS-CoV-2). Cơ thể nhận diện protein lạ này là ""vật thể lạ"" và kích hoạt hệ miễn dịch tạo ra kháng thể và tế bào T để tiêu diệt nó. Nhờ đó, khi cơ thể tiếp xúc với virus thật, hệ miễn dịch đã có sẵn ""trí nhớ"" để phản ứng nhanh và mạnh mẽ, ngăn ngừa bệnh.
+
+### Bước 2 — Tự kiểm: Liệt kê điểm có thể sai hoặc thiếu
+1.  **Tính chính xác của mRNA:** mRNA trong vaccine là phiên bản tổng hợp, được tối ưu hóa để ổn định và hiệu quả hơn, không phải trích xuất trực tiếp từ virus.
+2.  **Bào quan cụ thể:** Cần nói rõ mRNA được các tế bào chất (cytoplasm) sử dụng, chứ không phải đi vào nhân tế bào. Đây là điểm quan trọng để phân biệt và giải thích tính an toàn (nó không ảnh hưởng đến DNA).
+3.  **Cơ chế đưa mRNA vào tế bào:** Thiếu chi tiết về ""công nghệ hóa học"" bảo vệ mRNA. Cần đề cập đến các hạt nano lipid (lipid nanoparticles - LNP) đóng vai trò như ""chiếc xe"" bảo vệ mRNA khỏi bị phá hủy và giúp nó xâm nhập vào được bên trong tế bào.
+4.  **Số phận của mRNA và protein:** mRNA sau khi hoàn thành nhiệm vụ sẽ bị tế bào phân hủy tự nhiên. Protein gai được tạo ra cũng bị hệ miễn dịch tiêu diệt và đào thải. Cả hai không tồn tại lâu trong cơ thể.
+5.  **Phản ứng miễn dịch:** Có thể bổ sung rằng vaccine kích thích cả hai nhánh của hệ miễn dịch: miễn dịch dịch thể (tạo kháng thể) và miễn dịch qua trung gian tế bào (tế bào T).
+
+### Bước 3 — Cuối cùng: Đưa đáp án cuối cùng
+**Cơ chế chính của vaccine mRNA:**
+
+1.  **Tiêm vaccine:** Vaccine chứa mRNA được bọc trong các hạt nano lipid (LNP) được tiêm vào cơ thể.
+2.  **Xâm nhập tế bào:** Các hạt nano lipid giúp đưa đoạn mRNA vào bên trong tế bào chất của các tế bào tại vị trí tiêm.
+3.  **Sản xuất protein gai:** Ribosome trong tế bào ""đọc"" mã di truyền từ mRNA và sử dụng nó như một khuôn mẫu để sản xuất ra protein gai (spike protein) vô hại của virus.
+4.  **Kích hoạt hệ miễn dịch:**
+    - Tế bào trình diện kháng nguyên sẽ trưng bày protein gai lên bề mặt.
+    - Hệ thống miễn dịch nhận diện đây là ""vật thể lạ"" và kích hoạt phản ứng phòng vệ mạnh mẽ, bao gồm:
+        - **Miễn dịch dịch thể:** Sản xuất kháng thể đặc hiệu chống lại protein gai.
+        - **Miễn dịch qua trung gian tế bào:** Tạo ra các tế bào T (tế bào lympho T) có khả năng tiêu diệt các tế bào đã nhiễm virus.
+5.  **Hình thành trí nhớ miễn dịch:** Cơ thể tạo ra các tế bào lympho B và T nhớ. Khi virus thật xâm nhập sau này, hệ miễn dịch đã được ""huấn luyện"" sẽ nhanh chóng nhận diện, tấn công và vô hiệu hóa virus, ngăn ngừa bệnh phát triển hoặc làm giảm mức độ nghiêm trọng của bệnh.
+
+*Lưu ý:* mRNA từ vaccine không bao giờ đi vào nhân tế bào và không tương tác với DNA của chúng ta. Cả mRNA và protein gai đều bị phân hủy tự nhiên sau khi hoàn thành nhiệm vụ.","cuối cùng
+**Cơ chế chính của vaccine mRNA:**
+
+1.  **Tiêm vaccine:** Vaccine chứa mRNA được bọc trong các hạt nano lipid (LNP) được tiêm vào cơ thể.
+2.  **Xâm nhập tế bào:** Các hạt nano lipid giúp đưa đoạn mRNA vào bên trong tế bào chất của các tế bào tại vị trí tiêm.
+3.  **Sản xuất protein gai:** Ribosome trong tế bào ""đọc"" mã di truyền từ mRNA và sử dụng nó như một khuôn mẫu để sản xuất ra protein gai (spike protein) vô hại của virus.
+4.  **Kích hoạt hệ miễn dịch:**
+    - Tế bào trình diện kháng nguyên sẽ trưng bày protein gai lên bề mặt.
+    - Hệ thống miễn dịch nhận diện đây là ""vật thể lạ"" và kích hoạt phản ứng phòng vệ mạnh mẽ, bao gồm:
+        - **Miễn dịch dịch thể:** Sản xuất kháng thể đặc hiệu chống lại protein gai.
+        - **Miễn dịch qua trung gian tế bào:** Tạo ra các tế bào T (tế bào lympho T) có khả năng tiêu diệt các tế bào đã nhiễm virus.
+5.  **Hình thành trí nhớ miễn dịch:** Cơ thể tạo ra các tế bào lympho B và T nhớ. Khi virus thật xâm nhập sau này, hệ miễn dịch đã được ""huấn luyện"" sẽ nhanh chóng nhận diện, tấn công và vô hiệu hóa virus, ngăn ngừa bệnh phát triển hoặc làm giảm mức độ nghiêm trọng của bệnh.
+
+*Lưu ý:* mRNA từ vaccine không bao giờ đi vào nhân tế bào và không tương tác với DNA của chúng ta. Cả mRNA và protein gai đều bị phân hủy tự nhiên sau khi hoàn thành nhiệm vụ.",deepseek,deepseek-chat
+49,Mật mã lượng tử dựa trên tính chất gì?,Rối & bất định lượng tử,Mật mã lượng tử chủ yếu dựa trên nguyên lý cơ bản của cơ học lượng tử: **nguyên lý không thể sao chép** (no-cloning theorem) và **tính chất của phép đo** làm thay đổi trạng thái lượng tử.,"**Bước 1 — Nháp:**  
+Mật mã lượng tử dựa trên các nguyên lý của cơ học lượng tử, cụ thể là **nguyên lý không thể sao chép lượng tử** (no-cloning theorem) và **tính chất của phép đo lượng tử** (khi đo làm sụp đổ trạng thái lượng tử, phát hiện nghe lén).
+
+**Bước 2 — Tự kiểm:**  
+- Có thể thiếu: chưa nêu rõ ứng dụng chính là **phân phối khóa lượng tử (QKD)**.  
+- Có thể sai: mật mã lượng tử không phải mã hóa dữ liệu bằng lượng tử toàn bộ, mà chủ yếu dùng lượng tử để phân phối khóa an toàn.  
+- Có thể thiếu: ngoài no-cloning, còn dựa vào **tính entanglement** (vướng víu) trong một số giao thức.  
+- Diễn đạt chưa rõ: cần nói rõ tính chất vật lý cơ bản là ""đo đạc làm thay đổi hệ lượng tử"" → phát hiện xâm nhập.
+
+**Bước 3 — Cuối cùng:**  
+Mật mã lượng tử chủ yếu dựa trên **các nguyên lý cơ bản của cơ học lượng tử**, bao gồm:  
+1. **Nguyên lý không sao chép được trạng thái lượng tử** (no-cloning theorem) → không thể sao chép khóa mà không bị phát hiện.  
+2. **Tính chất của phép đo trong cơ học lượng tử**: bất kỳ phép đo nào trên hệ lượng tử cũng làm nhiễu loạn trạng thái nếu chưa biết cơ sở đo chính xác, cho phép phát hiện nghe lén.  
+3. **Hiện tượng vướng víu lượng tử** (entanglement) được dùng trong một số giao thức mã hóa.  
+
+Ứng dụng nổi bật nhất hiện nay là **phân phối khóa lượng tử (QKD)** cho phép hai bên trao đổi khóa bí mật một cách an toàn.","Cuối cùng:**  
+Mật mã lượng tử chủ yếu dựa trên **các nguyên lý cơ bản của cơ học lượng tử**, bao gồm:  
+1. **Nguyên lý không sao chép được trạng thái lượng tử** (no-cloning theorem) → không thể sao chép khóa mà không bị phát hiện.  
+2. **Tính chất của phép đo trong cơ học lượng tử**: bất kỳ phép đo nào trên hệ lượng tử cũng làm nhiễu loạn trạng thái nếu chưa biết cơ sở đo chính xác, cho phép phát hiện nghe lén.  
+3. **Hiện tượng vướng víu lượng tử** (entanglement) được dùng trong một số giao thức mã hóa.  
+
+Ứng dụng nổi bật nhất hiện nay là **phân phối khóa lượng tử (QKD)** cho phép hai bên trao đổi khóa bí mật một cách an toàn.",deepseek,deepseek-chat
+50,Mô hình học sâu đầu tiên thắng ImageNet?,AlexNet,"Mô hình học sâu đầu tiên thắng cuộc thi ImageNet là AlexNet, do Alex Krizhevsky, Ilya Sutskever và Geoffrey Hinton phát triển. Nó giành chiến thắng trong ImageNet Large Scale Visual Recognition Challenge (ILSVRC) năm 2012 với tỷ lệ lỗi top-5 đạt 15.3%, vượt xa các đối thủ.","**Bước 1 — Nháp**  
+AlexNet (2012).
+
+**Bước 2 — Tự kiểm**  
+- Có thể nhầm với mô hình khác như VGG, GoogLeNet, ResNet (nhưng các mô hình này sau 2012).  
+- Cần nói rõ là AlexNet thắng cuộc thi ILSVRC 2012, chứ không phải là mô hình học sâu đầu tiên trên ImageNet (vì ImageNet là bộ dữ liệu, ILSVRC là cuộc thi).  
+- Trước 2012 đã có các mô hình học sâu khác như LeNet-5 (nhưng không thắng ImageNet).  
+- AlexNet không phải là mô hình học sâu đầu tiên nói chung, mà là mô hình học sâu đầu tiên thắng ImageNet (ILSVRC) với cách biệt lớn, mở đầu cho kỷ nguyên Deep Learning trong thị giác máy tính.
+
+**Bước 3 — Cuối cùng**  
+Mô hình học sâu đầu tiên thắng ImageNet (cuộc thi ILSVRC) là **AlexNet** (năm 2012), do Alex Krizhevsky, Ilya Sutskever và Geoffrey Hinton phát triển.","Cuối cùng**  
+Mô hình học sâu đầu tiên thắng ImageNet (cuộc thi ILSVRC) là **AlexNet** (năm 2012), do Alex Krizhevsky, Ilya Sutskever và Geoffrey Hinton phát triển.",deepseek,deepseek-chat

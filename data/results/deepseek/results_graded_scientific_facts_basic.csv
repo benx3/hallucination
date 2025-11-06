@@ -1,0 +1,1563 @@
+idx,question,answer,direct_answer,selfcrit_answer,selfcrit_final_span,api,model,gold_answer,direct_correct,direct_uncertain,direct_hallucination,selfcrit_correct,selfcrit_uncertain,selfcrit_hallucination
+1,Nguyên tố có số hiệu nguyên tử 1 là gì?,hydrogen,Nguyên tố có số hiệu nguyên tử 1 là Hydro.,"**Bước 1 — Nháp**  
+Nguyên tố có số hiệu nguyên tử 1 là Hiđro (Hydrogen), ký hiệu H.
+
+**Bước 2 — Tự kiểm**  
+- Số hiệu nguyên tử = số proton = 1 → đúng với Hiđro.  
+- Tên và ký hiệu: Hydrogen, H → đúng.  
+- Không có điểm sai rõ ràng.
+
+**Bước 3 — Cuối cùng**  
+Nguyên tố có số hiệu nguyên tử 1 là **Hiđro (Hydrogen)**, ký hiệu **H**.","Cuối cùng**  
+Nguyên tố có số hiệu nguyên tử 1 là **Hiđro (Hydrogen)**, ký hiệu **H**.",deepseek,deepseek-chat,hydrogen,False,False,True,True,False,False
+2,Công thức hóa học của nước là gì?,H2O,Công thức hóa học của nước là H₂O.,"**Bước 1 — Nháp:**
+Công thức hóa học của nước là H₂O.
+
+**Bước 2 — Tự kiểm:**
+- Có thể sai về chỉ số: H2O hay H₂O đều đúng, nhưng phải viết đúng số nguyên tử (2 H, 1 O).
+- Có thể thiếu trạng thái (lỏng) nhưng câu hỏi chỉ yêu cầu công thức hóa học.
+- Không nhầm với hydrogen peroxide (H₂O₂).
+- Không có sai sót rõ ràng.
+
+**Bước 3 — Cuối cùng:**
+Công thức hóa học của nước là H₂O.","Cuối cùng:**
+Công thức hóa học của nước là H₂O.",deepseek,deepseek-chat,H2O,False,False,True,False,False,True
+3,Tốc độ ánh sáng trong chân không là bao nhiêu?,299792458 m/s,Tốc độ ánh sáng trong chân không là 299.792.458 mét trên giây.,"**Bước 1 – Nháp**  
+Tốc độ ánh sáng trong chân không là \( 299.792.458 \ \text{m/s} \), thường được làm tròn thành \( 3 \times 10^8 \ \text{m/s} \).
+
+**Bước 2 – Tự kiểm**  
+- Con số chính xác: \( 299.792.458 \ \text{m/s} \) là định nghĩa của mét, không phải là kết quả đo đạc.  
+- Có thể sai nếu ghi nhớ nhầm thành \( 300.000.000 \ \text{m/s} \) (làm tròn).  
+- Đơn vị: phải là mét trên giây (m/s), không phải km/s hay km/h.  
+- Điều kiện: “trong chân không” là quan trọng, vì trong môi trường khác ánh sáng chậm hơn.
+
+**Bước 3 – Cuối cùng**  
+Tốc độ ánh sáng trong chân không là \( 299.792.458 \ \text{m/s} \).","Cuối cùng**  
+Tốc độ ánh sáng trong chân không là \( 299.792.458 \ \text{m/s} \).",deepseek,deepseek-chat,299792458 m/s,False,False,True,False,False,True
+4,Nhiệt độ sôi của nước ở áp suất tiêu chuẩn?,100°C,Nhiệt độ sôi của nước ở áp suất tiêu chuẩn (1 atm) là **100 °C** (212 °F).,"**Bước 1 — Nháp:**
+100 °C
+
+**Bước 2 — Tự kiểm:**
+- Điểm có thể sai: ""Áp suất tiêu chuẩn"" có thể được hiểu là áp suất khí quyển tiêu chuẩn (1 atm) hay không? Có sự khác biệt nhỏ giữa 1 atm (101.325 kPa) và 1 bar (100 kPa), nhưng nhiệt độ sôi chênh lệch không đáng kể.
+- Điểm thiếu: Có cần nêu rõ đơn vị không? Đã ghi °C, nhưng có cần đề cập đến thang nhiệt độ khác (như Kelvin) không? Câu hỏi chỉ hỏi nhiệt độ sôi, nên trả lời °C là phù hợp.
+
+**Bước 3 — Cuối cùng:**
+Nhiệt độ sôi của nước ở áp suất tiêu chuẩn (1 atm) là **100 °C**.","Cuối cùng:**
+Nhiệt độ sôi của nước ở áp suất tiêu chuẩn (1 atm) là **100 °C**.",deepseek,deepseek-chat,100°C,False,False,True,False,False,True
+5,Nguyên tố nào có ký hiệu Au?,vàng,Nguyên tố có ký hiệu Au là vàng.,"**Bước 1 — Nháp:**
+Au là vàng (Gold).
+
+**Bước 2 — Tự kiểm:**
+- Ký hiệu Au bắt nguồn từ tên Latinh ""Aurum"" của vàng.
+- Đây là kiến thức cơ bản trong hóa học, ít khả năng sai.
+- Không có điểm nào nghi ngờ về tính chính xác.
+
+**Bước 3 — Cuối cùng:**
+Nguyên tố có ký hiệu Au là Vàng (Gold).","Cuối cùng:**
+Nguyên tố có ký hiệu Au là Vàng (Gold).",deepseek,deepseek-chat,vàng,True,False,False,True,False,False
+6,Protein nào vận chuyển oxy trong máu?,hemoglobin,Hemoglobin là protein vận chuyển oxy trong máu.,"**Bước 1 — Nháp:**
+Hemoglobin.
+
+**Bước 2 — Tự kiểm:**
+- Điểm có thể sai: Câu hỏi hỏi ""protein nào"", nhưng hemoglobin thực chất là một phức hợp protein (gồm 4 tiểu đơn vị globin và 4 nhóm heme). Vậy câu trả lời ""hemoglobin"" là chính xác và đủ.
+- Điểm thiếu: Trong máu còn có một protein khác vận chuyển một lượng nhỏ oxy là myoglobin trong huyết tương, nhưng chức năng chính và áp đảo là của hemoglobin trong hồng cầu. Vì vậy, hemoglobin vẫn là câu trả lời chính xác nhất và phù hợp với ý nghĩa thông thường của câu hỏi.
+
+**Bước 3 — Cuối cùng:**
+Protein chính vận chuyển oxy trong máu là **hemoglobin**.","Cuối cùng:**
+Protein chính vận chuyển oxy trong máu là **hemoglobin**.",deepseek,deepseek-chat,hemoglobin,True,False,False,True,False,False
+7,Hành tinh nào gần Mặt Trời nhất?,Sao Thủy,Sao Thủy là hành tinh gần Mặt Trời nhất.,"**Bước 1 — Nháp:**
+Sao Thủy.
+
+**Bước 2 — Tự kiểm:**
+- Điểm có thể sai: Nhầm lẫn với các hành tinh khác như Sao Kim, Trái Đất.
+- Kiểm tra kiến thức cơ bản: Trong hệ Mặt Trời, thứ tự các hành tinh tính từ Mặt Trời ra là: Sao Thủy, Sao Kim, Trái Đất, Sao Hỏa,... Vậy Sao Thủy là gần nhất. Đây là kiến thức đã được xác nhận rõ ràng.
+
+**Bước 3 — Cuối cùng:**
+Hành tinh gần Mặt Trời nhất là Sao Thủy.","Cuối cùng:**
+Hành tinh gần Mặt Trời nhất là Sao Thủy.",deepseek,deepseek-chat,Sao Thủy,True,False,False,True,False,False
+8,Khí nào chiếm tỷ lệ lớn nhất trong khí quyển Trái Đất?,nitrogen,"Nitơ (N₂) chiếm tỷ lệ lớn nhất, khoảng 78% trong khí quyển Trái Đất.","**Bước 1 – Nháp:**
+Nitơ.
+
+**Bước 2 – Tự kiểm:**
+- Điểm có thể sai: Nhớ nhầm với oxi.
+- Kiểm tra lại: Trong khí quyển Trái Đất, nitơ chiếm khoảng 78%, oxi khoảng 21%, các khí khác (argon, CO2, hơi nước,...) chiếm tỷ lệ rất nhỏ. Vậy nitơ là khí chiếm tỷ lệ lớn nhất.
+
+**Bước 3 – Cuối cùng:**
+Khí Nitơ (N₂) chiếm tỷ lệ lớn nhất trong khí quyển Trái Đất.","Cuối cùng:**
+Khí Nitơ (N₂) chiếm tỷ lệ lớn nhất trong khí quyển Trái Đất.",deepseek,deepseek-chat,nitrogen,False,False,True,False,False,True
+9,DNA là viết tắt của cụm từ gì?,deoxyribonucleic acid,"DNA là viết tắt của cụm từ ""Deoxyribonucleic acid"", có nghĩa tiếng Việt là ""axit deoxyribonucleic"".","**Bước 1 — Nháp:**
+Deoxyribonucleic acid
+
+**Bước 2 — Tự kiểm:**
+- Có thể sai chính tả từ ""Deoxyribonucleic"" (dễ thiếu chữ ""o"" sau ""De"" hoặc sai ""ribo"").
+- Có thể nhầm thứ tự các từ.
+- Kiểm tra lại: Đúng là ""Deoxyribonucleic acid"", trong đó ""Deoxyribo"" là phần đường deoxyribose, ""nucleic acid"" là axit nucleic.
+
+**Bước 3 — Cuối cùng:**
+DNA là viết tắt của ""Deoxyribonucleic acid"" (Axit deoxyribonucleic).","Cuối cùng:**
+DNA là viết tắt của ""Deoxyribonucleic acid"" (Axit deoxyribonucleic).",deepseek,deepseek-chat,deoxyribonucleic acid,True,False,False,True,False,False
+10,Số π (pi) xấp xỉ bằng bao nhiêu (2 chữ số thập phân)?,3.14,Số π xấp xỉ bằng 3.14.,"**Bước 1 – Nháp**  
+π ≈ 3.14159...  
+Làm tròn đến 2 chữ số thập phân: 3.14.
+
+**Bước 2 – Tự kiểm**  
+- Kiểm tra chữ số thứ ba sau dấu phẩy là 1, nhỏ hơn 5 nên không làm tròn lên.  
+- Không nhầm lẫn với 22/7 ≈ 3.142857 (làm tròn 2 chữ số cũng là 3.14).  
+- Đề yêu cầu 2 chữ số thập phân, không phải 2 chữ số có nghĩa.  
+- Kết quả 3.14 là phổ biến và đúng với quy tắc làm tròn.
+
+**Bước 3 – Cuối cùng**  
+Đáp án: **3.14**","Cuối cùng**  
+Đáp án: **3.14**",deepseek,deepseek-chat,3.14,True,False,False,True,False,False
+11,Nguyên tử carbon có bao nhiêu proton?,6,Nguyên tử carbon có 6 proton.,"**Bước 1 – Nháp:**  
+Nguyên tử carbon có 6 proton.
+
+**Bước 2 – Tự kiểm:**  
+- Số proton xác định bởi số hiệu nguyên tử Z.  
+- Carbon có Z = 6.  
+- Có thể nhầm với nguyên tử khác nếu nhớ sai bảng tuần hoàn, nhưng đây là kiến thức cơ bản.  
+- Không có điểm nào đáng nghi ngờ.
+
+**Bước 3 – Cuối cùng:**  
+Nguyên tử carbon có **6 proton**.","Cuối cùng:**  
+Nguyên tử carbon có **6 proton**.",deepseek,deepseek-chat,6,True,False,False,True,False,False
+12,Enzyme nào giúp tiêu hóa tinh bột?,amylase,"Enzyme chính giúp tiêu hóa tinh bột là amylase, được tiết ra trong nước bọt và dịch tụy.","**Bước 1 — Nháp:**
+Enzyme amylase.
+
+**Bước 2 — Tự kiểm:**
+- Có thể thiếu chi tiết: Tinh bột được tiêu hóa bởi nhiều enzyme amylase ở các vị trí khác nhau (ví dụ: amylase trong nước bọt và amylase trong dịch tụy).
+- Có thể cần nói rõ là ""amylase"" chứ không phải một enzyme khác.
+- Câu trả lời ngắn như vậy là đúng nhưng có thể chưa đầy đủ nếu đề bài yêu cầu chi tiết.
+
+**Bước 3 — Cuối cùng:**
+Enzyme chính giúp tiêu hóa tinh bột là **amylase**, được tiết ở miệng (tuyến nước bọt) và tuyến tụy (dịch tụy).","Cuối cùng:**
+Enzyme chính giúp tiêu hóa tinh bột là **amylase**, được tiết ở miệng (tuyến nước bọt) và tuyến tụy (dịch tụy).",deepseek,deepseek-chat,amylase,True,False,False,True,False,False
+13,Hạt cơ bản nào có điện tích âm?,electron,Hạt cơ bản có điện tích âm là electron.,"**Bước 1 – Nháp:**  
+Hạt cơ bản có điện tích âm là electron.
+
+**Bước 2 – Tự kiểm:**  
+- Electron là hạt cơ bản trong mô hình chuẩn, thuộc nhóm lepton, điện tích −1 (đơn vị điện tích cơ bản).  
+- Có thể ai đó nhầm với muon hoặc tau (cũng mang điện tích âm), nhưng chúng không phải hạt phổ biến nhất khi nói đến ""hạt cơ bản có điện tích âm"" trong ngữ cảnh thông thường.  
+- Phản hạt của electron (positron) có điện tích dương, nhưng câu hỏi chỉ hỏi hạt (không nói rõ phản hạt).  
+- Trong các hạt cơ bản khác: proton (+), neutron (0), neutrino (0), quark có điện tích phân số nhưng không tồn tại tự do.  
+→ Không có sai sót ở đây.
+
+**Bước 3 – Cuối cùng:**  
+Electron.","Cuối cùng:**  
+Electron.",deepseek,deepseek-chat,electron,True,False,False,True,False,False
+14,Công thức tính động năng là gì?,KE = 1/2mv²,Công thức tính động năng (K) cho một vật có khối lượng m chuyển động với vận tốc v là: K = ½ * m * v².,"**Bước 1 — Nháp:**
+
+Động năng của một vật có khối lượng m chuyển động với tốc độ v được tính bằng công thức:
+
+\[
+K = \frac{1}{2} m v^2
+\]
+
+**Bước 2 — Tự kiểm:**
+
+- Công thức này áp dụng cho vật chuyển động tịnh tiến trong cơ học Newton.
+- Nếu vật có vận tốc gần bằng ánh sáng thì phải dùng công thức tương đối tính, nhưng câu hỏi này có lẽ chỉ hỏi công thức cổ điển.
+- Kiểm tra đơn vị: m (kg), v (m/s) → K (Joule) là đúng.
+- Công thức này giả sử v là tốc độ (độ lớn của vận tốc).
+
+**Bước 3 — Cuối cùng:**
+
+Công thức tính động năng (trong cơ học cổ điển) là:
+
+\[
+K = \frac{1}{2} m v^2
+\]
+
+trong đó:
+- \(K\) là động năng,
+- \(m\) là khối lượng của vật,
+- \(v\) là tốc độ của vật.","Cuối cùng:**
+
+Công thức tính động năng (trong cơ học cổ điển) là:
+
+\[
+K = \frac{1}{2} m v^2
+\]
+
+trong đó:
+- \(K\) là động năng,
+- \(m\) là khối lượng của vật,
+- \(v\) là tốc độ của vật.",deepseek,deepseek-chat,KE = 1/2mv²,False,False,True,False,False,True
+15,Nguyên tố nào cần thiết cho tuyến giáp?,iodine,Iốt là nguyên tố vi lượng cần thiết cho hoạt động bình thường của tuyến giáp.,"**Bước 1 — Nháp:**
+I-ốt (Iodine).
+
+**Bước 2 — Tự kiểm:**
+- Điểm có thể sai: Câu hỏi hỏi ""nguyên tố"", vậy cần trả lời tên nguyên tố hóa học, không phải tên thông thường. Tên nguyên tố là ""Iodine"", ký hiệu là I.
+- Có thiếu sót không? Tuyến giáp cần I-ốt để tổng hợp hormone tuyến giáp (T3 và T4). Đây là chức năng chính và phổ biến nhất. Ngoài ra, tuyến giáp cũng cần một lượng nhỏ nguyên tố Selen (Se) để hỗ trợ enzyme chuyển đổi hormone tuyến giáp. Vậy câu trả lời chỉ có I-ốt là chưa đầy đủ.
+
+**Bước 3 — Cuối cùng:**
+Nguyên tố chính và quan trọng nhất cần thiết cho chức năng của tuyến giáp là **I-ốt (Iodine, ký hiệu I)**. Ngoài ra, nguyên tố **Selen (Selenium, ký hiệu Se)** cũng rất cần thiết với vai trò hỗ trợ quá trình chuyển hóa hormone tuyến giáp.","Cuối cùng:**
+Nguyên tố chính và quan trọng nhất cần thiết cho chức năng của tuyến giáp là **I-ốt (Iodine, ký hiệu I)**. Ngoài ra, nguyên tố **Selen (Selenium, ký hiệu Se)** cũng rất cần thiết với vai trò hỗ trợ quá trình chuyển hóa hormone tuyến giáp.",deepseek,deepseek-chat,iodine,False,False,True,True,False,False
+16,Tế bào nào không có nhân?,prokaryote,"Tế bào prokaryote (như vi khuẩn) không có nhân hoàn chỉnh, vật chất di truyền của chúng nằm tự do trong tế bào chất. Ở sinh vật nhân thực (eukaryote), hồng cầu trưởng thành ở người cũng không có nhân.","**Bước 1 — Nháp:**
+Tế bào hồng cầu (ở động vật có vú) không có nhân.
+
+**Bước 2 — Tự kiểm:**
+- Điểm có thể sai: Không phải tất cả hồng cầu đều không nhân. Ở động vật có vú, hồng cầu trưởng thành mất nhân để tăng không gian chứa hemoglobin, nhưng ở các loài khác (ví dụ: chim, bò sát, lưỡng cư) hồng cầu vẫn có nhân.
+- Thiếu: Có thể kể thêm tiểu cầu (không phải tế bào hoàn chỉnh, là mảnh tế bào) cũng không có nhân.
+- Cần nêu rõ đối tượng (động vật có vú) để tránh hiểu nhầm.
+
+**Bước 3 — Cuối cùng:**
+**Đáp án:** Ở động vật có vú, tế bào hồng cầu trưởng thành không có nhân.  
+Ngoài ra, tiểu cầu (mảnh tế bào) cũng không có nhân.","Cuối cùng:**
+**Đáp án:** Ở động vật có vú, tế bào hồng cầu trưởng thành không có nhân.  
+Ngoài ra, tiểu cầu (mảnh tế bào) cũng không có nhân.",deepseek,deepseek-chat,prokaryote,True,False,False,False,False,True
+17,Áp suất khí quyển tiêu chuẩn là bao nhiêu?,101325 Pa,"Áp suất khí quyển tiêu chuẩn là **101.325 kilopascal** (kPa), tương đương với 1 atm, 760 mmHg hoặc 1013,25 millibar.","**Bước 1 — Nháp:**
+Áp suất khí quyển tiêu chuẩn là 101325 Pascal (Pa), tương đương 1 atm (atmosphere).
+
+**Bước 2 — Tự kiểm:**
+- Có thể nhầm đơn vị: Pascal, atm, mmHg, bar.
+- Có thể quên giá trị chính xác (101325 Pa) và chỉ nhớ 1 atm.
+- Có thể nhớ sai thành 100000 Pa (1 bar) – đây là giá trị làm tròn, không phải giá trị tiêu chuẩn chính xác.
+
+**Bước 3 — Cuối cùng:**
+Áp suất khí quyển tiêu chuẩn là **101325 Pascal (Pa)**, hay còn được định nghĩa là **1 atm**.","Cuối cùng:**
+Áp suất khí quyển tiêu chuẩn là **101325 Pascal (Pa)**, hay còn được định nghĩa là **1 atm**.",deepseek,deepseek-chat,101325 Pa,False,False,True,True,False,False
+18,Vitamin nào được tổng hợp khi tiếp xúc ánh nắng?,vitamin D,"Vitamin D được tổng hợp ở da khi tiếp xúc với ánh nắng mặt trời, cụ thể là tia UVB.","**Bước 1 — Nháp:**
+Vitamin D.
+
+**Bước 2 — Tự kiểm:**
+- Có thể nhầm với vitamin khác (ví dụ vitamin A, E, K).
+- Cần nói rõ là vitamin D3 (cholecalciferol) được tổng hợp ở da dưới tác động của tia UVB.
+- Có thể thiếu thông tin về quá trình: 7-dehydrocholesterol → tiền vitamin D3 → vitamin D3.
+- Có thể quên ghi chú nguồn thực phẩm cũng cung cấp vitamin D.
+
+**Bước 3 — Cuối cùng:**
+Vitamin D (cụ thể là vitamin D3) được tổng hợp ở da khi da tiếp xúc với ánh nắng mặt trời (tia UVB).","Cuối cùng:**
+Vitamin D (cụ thể là vitamin D3) được tổng hợp ở da khi da tiếp xúc với ánh nắng mặt trời (tia UVB).",deepseek,deepseek-chat,vitamin D,True,False,False,True,False,False
+19,Loại tia nào có bước sóng ngắn nhất?,tia gamma,Tia gamma có bước sóng ngắn nhất trong phổ điện từ.,"**Bước 1 — Nháp**  
+Tia gamma.
+
+**Bước 2 — Tự kiểm**  
+- Thang sóng điện từ sắp xếp theo bước sóng giảm dần: tia gamma, tia X, tia tử ngoại, ánh sáng nhìn thấy, tia hồng ngoại, sóng vô tuyến.  
+- Tia gamma có bước sóng ngắn nhất (dưới 0,01 nm).  
+- Không nhầm với tia X (tuy ngắn nhưng dài hơn tia gamma).  
+- Câu trả lời này phù hợp với kiến thức vật lý đã biết, không có điểm sai rõ ràng.
+
+**Bước 3 — Cuối cùng**  
+Tia gamma có bước sóng ngắn nhất trong thang sóng điện từ.","Cuối cùng**  
+Tia gamma có bước sóng ngắn nhất trong thang sóng điện từ.",deepseek,deepseek-chat,tia gamma,True,False,False,True,False,False
+20,Hormone nào điều hòa lượng đường trong máu?,insulin,"Hormone chính điều hòa lượng đường trong máu là **insulin** (hạ đường huyết) và **glucagon** (tăng đường huyết), cả hai đều được sản xuất bởi tuyến tụy. Các hormone khác như adrenaline và cortisol cũng đóng vai trò quan trọng.","**Bước 1 – Nháp:**
+Insulin và glucagon.
+
+**Bước 2 – Tự kiểm:**
+- **Điểm có thể thiếu:** Câu hỏi hỏi ""hormone nào"", có thể hiểu là hỏi hormone chính. Insulin và glucagon là hai hormone chính đối kháng nhau để điều hòa đường huyết. Tuy nhiên, còn một số hormone khác cũng có tác dụng làm tăng đường huyết như adrenaline (epinephrine), cortisol, hormone tăng trưởng (GH). Nếu chỉ trả lời hai hormone thì có thể chưa đầy đủ trong một số ngữ cảnh.
+- **Độ chính xác:** Câu trả lời ""insulin và glucagon"" là đúng và phù hợp nhất cho câu hỏi cơ bản về điều hòa đường huyết.
+
+**Bước 3 – Cuối cùng:**
+Hormone chính điều hòa lượng đường trong máu là **insulin** (có tác dụng hạ đường huyết) và **glucagon** (có tác dụng tăng đường huyết). Ngoài ra, các hormone như adrenaline, cortisol và hormone tăng trưởng cũng tham gia vào quá trình làm tăng đường huyết.","Cuối cùng:**
+Hormone chính điều hòa lượng đường trong máu là **insulin** (có tác dụng hạ đường huyết) và **glucagon** (có tác dụng tăng đường huyết). Ngoài ra, các hormone như adrenaline, cortisol và hormone tăng trưởng cũng tham gia vào quá trình làm tăng đường huyết.",deepseek,deepseek-chat,insulin,True,False,False,True,False,False
+21,Nguyên tố nào có điểm nóng chảy cao nhất?,tungsten,"Wolfram (Tungsten), với điểm nóng chảy là 3422°C.","**Bước 1 — Nháp:**  
+Wolfram (W, còn gọi là Tungsten).
+
+**Bước 2 — Tự kiểm:**  
+- Điểm nóng chảy của Wolfram là khoảng 3422 °C (6192 °F), cao nhất trong tất cả các nguyên tố.  
+- Có thể nhầm với Rheni (3186 °C) hoặc Tantali (3017 °C) nhưng Wolfram vẫn cao hơn.  
+- Cần xác nhận xem có hợp chất hay hợp kim nào cao hơn không? Câu hỏi chỉ hỏi ""nguyên tố"" nên không tính hợp chất (như cacbon ở dạng than chì hay kim cương không phải là nguyên tố kim loại, và điểm nóng chảy của cacbon nguyên tố thấp hơn Wolfram nếu xét ở điều kiện thường vì cacron thăng hoa trước khi nóng chảy ở áp suất khí quyển).  
+- Wolfram vẫn đúng.
+
+**Bước 3 — Cuối cùng:**  
+Wolfram (Tungsten) là nguyên tố có điểm nóng chảy cao nhất.","Cuối cùng:**  
+Wolfram (Tungsten) là nguyên tố có điểm nóng chảy cao nhất.",deepseek,deepseek-chat,tungsten,True,False,False,True,False,False
+22,Tốc độ truyền âm trong không khí?,343 m/s,"Tốc độ truyền âm trong không khí ở điều kiện tiêu chuẩn (0°C) là khoảng **331 m/s**. Ở nhiệt độ phòng (khoảng 25°C), tốc độ này vào khoảng **346 m/s**.","**Bước 1 — Nháp:**
+Tốc độ truyền âm trong không khí vào khoảng 343 m/s (ở điều kiện nhiệt độ 20°C).
+
+**Bước 2 — Tự kiểm:**
+- Điểm có thể sai hoặc thiếu:
+  1. Tốc độ này phụ thuộc vào nhiệt độ, cần nêu rõ điều kiện (thường là 20°C).
+  2. Có thể nhầm với tốc độ trong các môi trường khác (nước, thép).
+  3. Có thể quên đơn vị (m/s thay vì km/h).
+  4. Giá trị chính xác có thể thay đổi tùy theo nguồn tài liệu (340 m/s, 343 m/s, 330 m/s tùy nhiệt độ).
+
+**Bước 3 — Cuối cùng:**
+Tốc độ truyền âm trong không khí vào khoảng **343 m/s** ở nhiệt độ **20°C**.  
+Giá trị này thay đổi theo nhiệt độ, thường trong khoảng 330–346 m/s với điều kiện thông thường.","Cuối cùng:**
+Tốc độ truyền âm trong không khí vào khoảng **343 m/s** ở nhiệt độ **20°C**.  
+Giá trị này thay đổi theo nhiệt độ, thường trong khoảng 330–346 m/s với điều kiện thông thường.",deepseek,deepseek-chat,343 m/s,False,False,True,True,False,False
+23,Protein nào tạo nên tóc và móng?,keratin,Keratin là protein cấu trúc chính tạo nên tóc và móng.,"**Bước 1 — Nháp:**
+Keratin.
+
+**Bước 2 — Tự kiểm:**
+- Điểm có thể sai: Có phải chỉ có keratin không? Có protein nào khác không?
+- Kiểm tra lại: Tóc và móng chủ yếu được cấu tạo từ keratin, một loại protein sợi cứng và bền. Các thành phần khác (như nước, lipid, khoáng chất) có mặt nhưng không phải là protein chính. Vì vậy, câu trả lời này là chính xác.
+
+**Bước 3 — Cuối cùng:**
+Protein tạo nên tóc và móng là **keratin**.","Cuối cùng:**
+Protein tạo nên tóc và móng là **keratin**.",deepseek,deepseek-chat,keratin,True,False,False,True,False,False
+24,Tế bào nào sản xuất insulin?,tế bào beta,Tế bào beta (β-cell) trong các đảo tụy (đảo Langerhans) của tuyến tụy là tế bào sản xuất insulin.,"**Bước 1 — Nháp:**
+Tế bào beta (β) của đảo tụy (đảo Langerhans) trong tuyến tụy sản xuất insulin.
+
+**Bước 2 — Tự kiểm:**
+- **Tính chính xác của thuật ngữ:** ""Tế bào beta"" là chính xác, nhưng cần ghi rõ nó thuộc ""đảo tụy"" (islets of Langerhans) trong tuyến tụy để đầy đủ.
+- **Khả năng nhầm lẫn:** Có thể nhầm với tế bào alpha (sản xuất glucagon) hoặc các tế bào ngoại tiết của tụy (không sản xuất insulin).
+- **Thông tin thiếu:** Có nên đề cập đến chức năng của insulin (điều hòa đường huyết) không? Câu hỏi chỉ hỏi tế bào nào sản xuất, nên có thể không cần thiết.
+- **Kiến thức cập nhật:** Không có thông tin mới nào thay đổi điều này.
+
+**Bước 3 — Cuối cùng:**
+**Đáp án cuối cùng:** Insulin được sản xuất bởi **tế bào beta (β)** nằm trong **các đảo tụy (đảo Langerhans) của tuyến tụy**.",cuối cùng:** Insulin được sản xuất bởi **tế bào beta (β)** nằm trong **các đảo tụy (đảo Langerhans) của tuyến tụy**.,deepseek,deepseek-chat,tế bào beta,True,False,False,True,False,False
+25,Nguyên tố nào phóng xạ nhất trong tự nhiên?,uranium,Poloni-210 (Po-210) thường được coi là nguyên tố phóng xạ nhất trong tự nhiên do có chu kỳ bán rã rất ngắn (138 ngày) và độ phóng xạ cực cao.,"**Bước 1 – Nháp**  
+Poloni-210 (Po-210) thường được coi là một trong những nguyên tố phóng xạ mạnh nhất trong tự nhiên về độ phóng xạ riêng (hoạt độ riêng cao).  
+
+**Bước 2 – Tự kiểm**  
+- Có thể nhầm với radium hay uranium nhưng hoạt độ riêng của Po-210 lớn hơn rất nhiều.  
+- Chu kỳ bán rã của Po-210 là 138,4 ngày, phát ra hạt alpha mạnh.  
+- Có các đồng vị phóng xạ khác trong tự nhiên như Radon-222 (chu kỳ bán rã ngắn hơn, 3,8 ngày) nhưng Radon là khí, còn hỏi “nguyên tố” thì Po-210 thường được nhắc đến do độc tính phóng xạ rất cao.  
+- Cần xem xét: “phóng xạ nhất” có thể hiểu là hoạt độ riêng lớn nhất → Po-210 không phải lớn nhất tuyệt đối (ví dụ Po-208, Po-209 có hoạt độ cao hơn nhưng không phổ biến trong tự nhiên bằng Po-210). Trong tự nhiên, Po-210 có trong chuỗi phân rã uranium-238.  
+- Có thể tranh cãi giữa Radon-222 (phóng xạ mạnh, chu kỳ ngắn) và Poloni-210, nhưng Radon là sản phẩm phân rã trung gian, còn Poloni-210 được biết đến rộng rãi là chất phóng xạ rất nguy hiểm.  
+
+**Bước 3 – Cuối cùng**  
+Poloni-210 (⁸⁴Po) là nguyên tố phóng xạ tự nhiên có độ phóng xạ rất mạnh thường được nhắc đến trong các tài liệu phổ biến. Tuy nhiên, nếu tính theo hoạt độ riêng, một số đồng vị khác như Radon-222 cũng có hoạt độ cao, nhưng Poloni-210 thường được coi là một trong những nguyên tố phóng xạ mạnh nhất trong tự nhiên.","Cuối cùng**  
+Poloni-210 (⁸⁴Po) là nguyên tố phóng xạ tự nhiên có độ phóng xạ rất mạnh thường được nhắc đến trong các tài liệu phổ biến. Tuy nhiên, nếu tính theo hoạt độ riêng, một số đồng vị khác như Radon-222 cũng có hoạt độ cao, nhưng Poloni-210 thường được coi là một trong những nguyên tố phóng xạ mạnh nhất trong tự nhiên.",deepseek,deepseek-chat,uranium,False,False,True,False,False,True
+26,Enzyme nào cắt DNA?,endonuclease,"Có nhiều enzyme cắt DNA, nhưng phổ biến nhất là các **enzyme giới hạn (restriction enzyme)**. Chúng nhận biết các trình tự DNA đặc hiệu và cắt tại đó.","Chúng ta cùng làm từng bước nhé.
+
+**Bước 1 — Nháp: trả lời ngắn**  
+Enzyme cắt DNA là **restrictase** (enzyme giới hạn).
+
+**Bước 2 — Tự kiểm: điểm có thể sai hoặc thiếu**  
+- Tên chính xác trong tiếng Anh thường dùng là **restriction enzyme** (hoặc restriction endonuclease), còn ""restrictase"" có thể không phải tên thông dụng trong sách giáo khoa.  
+- Có loại enzyme khác cũng cắt DNA như exonuclease (cắt từ đầu mút) nhưng câu hỏi này chắc chỉ hỏi loại enzyme cắt ở những vị trí đặc hiệu trên DNA (restriction enzyme).  
+- Ngoài ra, một số enzyme khác trong tế bào cũng có khả năng cắt DNA (ví dụ: DNase, topoisomerase, enzyme sửa chữa DNA) nhưng trong phòng thí nghiệm và ngữ cảnh phổ biến, ""enzyme cắt DNA"" thường được hiểu là restriction enzyme.  
+- Cần nói rõ là chúng cắt DNA ở trình tự nhận biết đặc hiệu.
+
+**Bước 3 — Cuối cùng: đáp án cuối cùng**  
+Enzyme thường được nhắc đến khi nói ""cắt DNA"" trong phòng thí nghiệm là **restriction enzyme (restriction endonuclease)**. Chúng nhận biết trình tự nucleotide đặc hiệu và cắt hai mạch của DNA tại đó.","cuối cùng**  
+Enzyme thường được nhắc đến khi nói ""cắt DNA"" trong phòng thí nghiệm là **restriction enzyme (restriction endonuclease)**. Chúng nhận biết trình tự nucleotide đặc hiệu và cắt hai mạch của DNA tại đó.",deepseek,deepseek-chat,endonuclease,False,False,True,True,False,False
+27,Hạt nào nhỏ nhất trong nguyên tử?,quark,Hạt nhỏ nhất trong nguyên tử là electron.,"**Bước 1 — Nháp:**
+Electron.
+
+**Bước 2 — Tự kiểm:**
+- Các hạt cơ bản trong nguyên tử gồm proton, neutron và electron.
+- Proton và neutron có khối lượng xấp xỉ nhau, lớn hơn rất nhiều so với electron (khoảng 1836 lần).
+- Proton và neutron không phải hạt cơ bản nhất; chúng được cấu tạo từ các hạt quark.
+- Vậy, nếu xét trong nguyên tử (cấu trúc gồm hạt nhân và electron), electron nhỏ hơn về kích thước và khối lượng so với proton và neutron.
+- Nhưng nếu xét đến các hạt quark bên trong proton và neutron, thì quark có thể nhỏ hơn electron.
+- Câu hỏi hỏi ""trong nguyên tử"", tức là xét các hạt cấu thành nên nguyên tử hoàn chỉnh (proton, neutron, electron), chứ không phải các hạt bên trong hadron.
+- Vậy electron là nhỏ nhất về khối lượng và kích thước trong số proton, neutron, electron.
+
+**Bước 3 — Cuối cùng:**
+Electron.","Cuối cùng:**
+Electron.",deepseek,deepseek-chat,quark,False,False,True,False,False,True
+28,Tuyến nào tiết ra adrenaline?,tuyến thượng thận,Tuyến thượng thận (cụ thể là phần tủy) là nơi tiết ra adrenaline.,"**Bước 1 — Nháp:**
+Adrenaline (epinephrine) được tiết ra chủ yếu bởi **tủy tuyến thượng thận**.
+
+**Bước 2 — Tự kiểm:**
+- Điểm có thể sai: Nhầm lẫn giữa tủy thượng thận và vỏ thượng thận (vỏ thượng thận tiết hormone corticosteroid, không tiết adrenaline).
+- Thiếu: Có thể nói rõ adrenaline còn được sản xuất ở một số tế bào thần kinh (như hệ thần kinh giao cảm) nhưng nguồn chính vào máu là từ tủy thượng thận.
+
+**Bước 3 — Cuối cùng:**
+Adrenaline được tiết ra chủ yếu bởi **tủy tuyến thượng thận**.","Cuối cùng:**
+Adrenaline được tiết ra chủ yếu bởi **tủy tuyến thượng thận**.",deepseek,deepseek-chat,tuyến thượng thận,True,False,False,True,False,False
+29,Nguyên tử có bao nhiêu loại hạt cơ bản?,3,"Nguyên tử có ba loại hạt cơ bản: proton, neutron và electron.","**Bước 1 – Nháp**  
+Nguyên tử có 3 loại hạt cơ bản: proton, neutron và electron.
+
+**Bước 2 – Tự kiểm**  
+- Có thể nhầm nếu đếm cả hạt quark (thành phần của proton và neutron) nhưng đề hỏi hạt cơ bản trong cấu trúc nguyên tử, không phải hạt cơ bản nhất của vật lý hạt.  
+- Có thể quên neutron (nhưng neutron có trong hạt nhân).  
+- Có thể thắc mắc về phản hạt, nhưng không tính là loại hạt cấu thành nguyên tử thông thường.  
+- ""Hạt cơ bản"" ở đây hiểu là các hạt chính cấu tạo nên nguyên tử, chứ không phải hạt cơ bản không phân chia (vì proton và neutron không phải hạt cơ bản theo vật lý hạt).  
+→ Vậy câu trả lời 3 loại là đúng trong ngữ cảnh hóa học/phổ thông.
+
+**Bước 3 – Cuối cùng**  
+Đáp án: Nguyên tử có 3 loại hạt cơ bản là proton, neutron và electron.","Cuối cùng**  
+Đáp án: Nguyên tử có 3 loại hạt cơ bản là proton, neutron và electron.",deepseek,deepseek-chat,3,False,False,True,True,False,False
+30,Ánh sáng nào có năng lượng cao nhất?,tia gamma,Tia gamma có năng lượng cao nhất trong phổ điện từ.,"**Bước 1 — Nháp:**  
+Tia gamma.
+
+**Bước 2 — Tự kiểm:**  
+- Thang sóng điện từ theo năng lượng tăng dần: sóng radio, vi sóng, hồng ngoại, ánh sáng nhìn thấy, tử ngoại, tia X, tia gamma.  
+- Tia gamma có bước sóng ngắn nhất, tần số cao nhất nên năng lượng photon cao nhất.  
+- Có thể nhầm với tia X, nhưng tia gamma có năng lượng cao hơn tia X.  
+- Câu hỏi hỏi “ánh sáng” theo nghĩa rộng (ánh sáng không nhìn thấy được) hay chỉ ánh sáng nhìn thấy? Nếu chỉ ánh sáng nhìn thấy thì tím/nghịch đảo bước sóng, nhưng ở đây ngữ cảnh thường hiểu là toàn bộ sóng điện từ.  
+
+**Bước 3 — Cuối cùng:**  
+Tia gamma.","Cuối cùng:**  
+Tia gamma.",deepseek,deepseek-chat,tia gamma,True,False,False,True,False,False
+31,Protein nào giúp cơ bắp co?,actin và myosin,Protein chính giúp cơ bắp co là actin và myosin. Chúng tương tác với nhau thông qua cầu nối chéo để tạo ra lực co cơ.,"**Bước 1 — Nháp:**
+Actin và myosin.
+
+**Bước 2 — Tự kiểm:**
+- Câu hỏi hỏi ""protein nào"", nhưng thực tế cơ bắp co là do hệ thống các protein tương tác.
+- Hai protein chính là actin (sợi mỏng) và myosin (sợi dày).
+- Còn có các protein điều hòa như tropomyosin và troponin cũng quan trọng trong cơ chế co cơ.
+- Nếu chỉ trả lời actin và myosin thì đúng nhưng có thể chưa đủ chi tiết nếu đề bài muốn nói rõ cơ chế.
+
+**Bước 3 — Cuối cùng:**
+Protein chính giúp cơ bắp co là **actin** và **myosin**.  
+Ngoài ra, các protein **tropomyosin** và **troponin** đóng vai trò điều hòa sự co cơ.","Cuối cùng:**
+Protein chính giúp cơ bắp co là **actin** và **myosin**.  
+Ngoài ra, các protein **tropomyosin** và **troponin** đóng vai trò điều hòa sự co cơ.",deepseek,deepseek-chat,actin và myosin,True,False,False,False,False,True
+32,Nguyên tố nào cần thiết cho hemoglobin?,sắt,Sắt (Fe) là nguyên tố cần thiết cho hemoglobin.,"**Bước 1 — Nháp:**
+Sắt (Iron).
+
+**Bước 2 — Tự kiểm:**
+- Hemoglobin là protein trong hồng cầu, chứa nhân heme.
+- Nhân heme có nguyên tử sắt (Fe) ở trung tâm, liên kết với oxy.
+- Các nguyên tố khác cũng cần cho tạo máu (như đồng, kobalt, vitamin B12) nhưng trực tiếp cấu trúc hemoglobin là sắt.
+- Có thể thiếu sót nếu không đề cập đến các yếu tố hỗ trợ hấp thu sắt (vitamin C) hoặc tổng hợp globin.
+
+**Bước 3 — Cuối cùng:**
+Sắt (Iron, ký hiệu Fe) là nguyên tố cần thiết trực tiếp cho cấu trúc của hemoglobin, vì nó tạo nên trung tâm của nhóm heme, giúp gắn và vận chuyển oxy.","Cuối cùng:**
+Sắt (Iron, ký hiệu Fe) là nguyên tố cần thiết trực tiếp cho cấu trúc của hemoglobin, vì nó tạo nên trung tâm của nhóm heme, giúp gắn và vận chuyển oxy.",deepseek,deepseek-chat,sắt,True,False,False,True,False,False
+33,Enzyme nào tiêu hóa protein?,pepsin,"Enzyme chính tiêu hóa protein là pepsin (trong dạ dày) và trypsin, chymotrypsin (trong ruột non).","**Bước 1 — Nháp:**
+Enzyme tiêu hóa protein bao gồm pepsin (trong dạ dày), trypsin, chymotrypsin (trong ruột non), và carboxypeptidase.
+
+**Bước 2 — Tự kiểm:**
+- Các enzyme này thuộc nhóm protease.
+- Cần phân biệt nơi sản xuất và nơi hoạt động: pepsin do dạ dày tiết, trypsin và chymotrypsin do tụy tiết và hoạt động ở ruột non.
+- Có thể thiếu một số enzyme khác như elastase (cũng do tụy tiết) hoặc enzyme ở ruột non như aminopeptidase.
+- Câu hỏi chỉ hỏi ""enzyme nào"", không giới hạn vị trí, nên cần liệt kê đủ các enzyme chính.
+
+**Bước 3 — Cuối cùng:**
+Các enzyme chính tiêu hóa protein trong cơ thể người là:
+- **Pepsin** (dạ dày).
+- **Trypsin, Chymotrypsin, Carboxypeptidase, Elastase** (tụy tiết vào ruột non).
+- **Aminopeptidase** (ở ruột non).","Cuối cùng:**
+Các enzyme chính tiêu hóa protein trong cơ thể người là:
+- **Pepsin** (dạ dày).
+- **Trypsin, Chymotrypsin, Carboxypeptidase, Elastase** (tụy tiết vào ruột non).
+- **Aminopeptidase** (ở ruột non).",deepseek,deepseek-chat,pepsin,True,False,False,True,False,False
+34,Nhiệt độ tuyệt đối 0 là bao nhiêu Celsius?,-273.15°C,"Nhiệt độ tuyệt đối 0 là -273,15 độ Celsius.","**Bước 1 — Nháp**  
+Nhiệt độ tuyệt đối 0 là −273,15°C.
+
+**Bước 2 — Tự kiểm**  
+- Điểm có thể sai:  
+  - Có thể nhớ nhầm là −273°C (thiếu phần 0,15).  
+  - Có thể nhầm với độ F.  
+  - Cần kiểm tra xem có phải là 0 K không? (0 K = −273,15°C).  
+- Kết quả này là định nghĩa chuẩn trong vật lý, ít khả năng sai nếu nhớ chính xác con số.
+
+**Bước 3 — Cuối cùng**  
+Nhiệt độ tuyệt đối 0 là **−273,15°C**.","Cuối cùng**  
+Nhiệt độ tuyệt đối 0 là **−273,15°C**.",deepseek,deepseek-chat,-273.15°C,False,False,True,False,False,True
+35,Tế bào nào bảo vệ não?,neuroglia,"Các tế bào chính bảo vệ não là tế bào thần kinh đệm (glial cells), đặc biệt là tế bào hình sao (astrocytes) tạo thành hàng rào máu não và tế bào microglia hoạt động như hệ miễn dịch của não.","**Bước 1 – Nháp:**
+Tế bào thần kinh đệm (tế bào glia), đặc biệt là tế bào hình sao (astrocyte) và tế bào vi ​​microglia.
+
+**Bước 2 – Tự kiểm:**
+- **Tính chính xác của thuật ngữ:** ""Tế bào thần kinh đệm"" là tên gọi chung cho các tế bào hỗ trợ và bảo vệ tế bào thần kinh. Cụ thể hơn, microglia có chức năng miễn dịch, bảo vệ não khỏi nhiễm trùng và tổn thương; astrocyte tạo hàng rào máu não, điều hòa môi trường hóa học. Vậy câu trả lời đã đủ và chính xác.
+- **Có thiếu loại tế bào nào không?** Ngoài hai loại trên, tế bào ít nhánh (oligodendrocyte) tạo myelin bảo vệ và cách điện sợi trục, cũng có vai trò bảo vệ gián tiếp. Tuy nhiên, câu hỏi hỏi ""bảo vệ"" nên có thể tập trung vào microglia và astrocyte là chính.
+- **Có nhầm lẫn gì không?** Không nhầm với tế bào thần kinh (neuron) vì neuron chủ yếu xử lý thông tin, không phải bảo vệ.
+
+**Bước 3 – Cuối cùng:**
+**Đáp án:** Các tế bào thần kinh đệm (glia) bảo vệ não, trong đó quan trọng nhất là:
+- **Tế bào hình sao (Astrocyte)**: Quản lý môi trường hóa học, tạo hàng rào máu não.
+- **Tế bào Microglia**: Hoạt động như đại thực bào, bảo vệ não khỏi tác nhân gây bệnh và tổn thương.","Cuối cùng:**
+**Đáp án:** Các tế bào thần kinh đệm (glia) bảo vệ não, trong đó quan trọng nhất là:
+- **Tế bào hình sao (Astrocyte)**: Quản lý môi trường hóa học, tạo hàng rào máu não.
+- **Tế bào Microglia**: Hoạt động như đại thực bào, bảo vệ não khỏi tác nhân gây bệnh và tổn thương.",deepseek,deepseek-chat,neuroglia,False,False,True,False,False,True
+36,Nguyên tố nào tạo kim cương?,carbon,Nguyên tố tạo thành kim cương là Carbon (C).,"**Bước 1 – Nháp:**  
+Carbon (C).
+
+**Bước 2 – Tự kiểm:**  
+- Kim cương là dạng thù hình của carbon, không phải hợp chất hay nguyên tố khác.  
+- Có thể nhầm với than chì (cũng là carbon) nhưng cấu trúc tinh thể khác nhau.  
+- Không có nguyên tố nào khác trong thành phần tinh khiết của kim cương tự nhiên (ngoài có thể tạp chất rất nhỏ).
+
+**Bước 3 – Cuối cùng:**  
+Nguyên tố tạo kim cương là **carbon (C)**.","Cuối cùng:**  
+Nguyên tố tạo kim cương là **carbon (C)**.",deepseek,deepseek-chat,carbon,True,False,False,True,False,False
+37,Hormone nào điều hòa giấc ngủ?,melatonin,Melatonin là hormone chính điều hòa nhịp sinh học và khởi phát giấc ngủ.,"**Bước 1 — Nháp:**
+
+Melatonin.
+
+**Bước 2 — Tự kiểm:**
+
+- **Điểm có thể thiếu:** Melatonin là hormone chính, nhưng không phải là hormone duy nhất liên quan. Các hormone/và chất dẫn truyền thần kinh khác cũng ảnh hưởng đến giấc ngủ, ví dụ:
+    - **Serotonin:** Tiền chất của melatonin, đóng vai trò quan trọng trong điều hòa chu kỳ ngủ-thức, đặc biệt là giai đoạn ngủ REM.
+    - **Adenosine:** Tích tụ trong ngày và gây buồn ngủ, là cơ chế hoạt động của caffeine (ức chế adenosine).
+    - **Cortisol:** Mức độ thay đổi theo nhịp ngày đêm, thấp vào ban đêm và tăng cao vào buổi sáng để giúp thức dậy.
+- **Điểm có thể sai:** Nếu chỉ trả lời ""melatonin"" thì đúng nhưng chưa đầy đủ. Câu hỏi hỏi ""hormone nào"", có thể người hỏi muốn biết hormone chính, nhưng trong sinh học, thường có nhiều yếu tố phối hợp.
+
+**Bước 3 — Cuối cùng:**
+
+Hormone chính điều hòa giấc ngủ là **melatonin**, được sản xuất bởi tuyến tùng, giúp báo hiệu cho cơ thể biết khi nào đến giờ ngủ. Ngoài ra, các chất khác như serotonin, adenosine và cortisol cũng tham gia vào việc điều hòa chu kỳ ngủ-thức.","Cuối cùng:**
+
+Hormone chính điều hòa giấc ngủ là **melatonin**, được sản xuất bởi tuyến tùng, giúp báo hiệu cho cơ thể biết khi nào đến giờ ngủ. Ngoài ra, các chất khác như serotonin, adenosine và cortisol cũng tham gia vào việc điều hòa chu kỳ ngủ-thức.",deepseek,deepseek-chat,melatonin,True,False,False,True,False,False
+38,Tốc độ thoát ly của Trái Đất?,11.2 km/s,"Tốc độ thoát ly của Trái Đất là khoảng **11,2 km/s** (hay 40.270 km/h) tính từ bề mặt.","**Bước 1 — Nháp:**
+Tốc độ thoát ly của Trái Đất là khoảng **11,2 km/s**.
+
+**Bước 2 — Tự kiểm:**
+- Điểm có thể sai hoặc thiếu:
+    1. **Giá trị chính xác:** 11,2 km/s là giá trị gần đúng. Giá trị chính xác phụ thuộc vào vị trí (thường tính từ bề mặt Trái Đất, bỏ qua lực cản không khí).
+    2. **Định nghĩa:** Tốc độ thoát ly (tốc độ vũ trụ cấp 2) là tốc độ tối thiểu một vật cần có để thoát khỏi trường hấp dẫn của Trái Đất mà không cần cung cấp thêm năng lượng.
+    3. **Công thức:** \( v = \sqrt{\frac{2GM}{R}} \) với \( G \) là hằng số hấp dẫn, \( M \) là khối lượng Trái Đất, \( R \) là bán kính Trái Đất.
+    4. **Ngữ cảnh:** Cần nói rõ đây là tốc độ tại bề mặt Trái Đất. Nếu ở độ cao khác, tốc độ này sẽ nhỏ hơn.
+
+**Bước 3 — Cuối cùng:**
+Tốc độ thoát ly của Trái Đất (tính từ bề mặt, bỏ qua lực cản khí quyển) là **khoảng 11,2 km/s**. Giá trị này có thể thay đổi chút ít tùy vào vị trí và các hằng số vật lý được sử dụng.","Cuối cùng:**
+Tốc độ thoát ly của Trái Đất (tính từ bề mặt, bỏ qua lực cản khí quyển) là **khoảng 11,2 km/s**. Giá trị này có thể thay đổi chút ít tùy vào vị trí và các hằng số vật lý được sử dụng.",deepseek,deepseek-chat,11.2 km/s,False,False,True,False,True,False
+39,Protein nào vận chuyển sắt trong máu?,transferrin,Transferrin là protein vận chuyển sắt trong máu.,"**Bước 1 — Nháp:**
+Transferrin.
+
+**Bước 2 — Tự kiểm:**
+- **Điểm có thể sai:** Có thể nhầm lẫn với ferritin (dạng dự trữ sắt trong tế bào) hoặc hemoglobin (chứa sắt trong hồng cầu nhưng không vận chuyển sắt tự do trong máu).
+- **Điểm thiếu:** Cần nói rõ transferrin vận chuyển sắt dưới dạng ion Fe³⁺ trong huyết tương, từ nơi hấp thu (ruột) hoặc dự trữ (gan) đến các mô, đặc biệt là tủy xương để tạo hồng cầu.
+
+**Bước 3 — Cuối cùng:**
+Protein vận chuyển sắt trong máu là **transferrin**.","Cuối cùng:**
+Protein vận chuyển sắt trong máu là **transferrin**.",deepseek,deepseek-chat,transferrin,True,False,False,True,False,False
+40,Nguyên tố nào có tính dẫn điện tốt nhất?,bạc,Bạc là nguyên tố có tính dẫn điện tốt nhất ở nhiệt độ phòng.,"**Bước 1 — Nháp:**  
+Bạc (Ag).
+
+**Bước 2 — Tự kiểm:**  
+- Tính dẫn điện thường được xếp theo thứ tự: Bạc > Đồng > Vàng > Nhôm > ...  
+- Bạc có độ dẫn điện cao nhất trong các kim loại ở điều kiện thường.  
+- Có thể nhầm với đồng vì đồng được dùng phổ biến hơn trong dây dẫn.  
+- Điểm cần kiểm tra: Nhiệt độ có thể ảnh hưởng đến độ dẫn điện, nhưng ở nhiệt độ phòng, bạc vẫn dẫn điện tốt nhất trong các nguyên tố.  
+- Không có nguyên tố phi kim nào vượt bạc về dẫn điện trong điều kiện thông thường.
+
+**Bước 3 — Cuối cùng:**  
+Nguyên tố có tính dẫn điện tốt nhất là **Bạc (Ag)**.","Cuối cùng:**  
+Nguyên tố có tính dẫn điện tốt nhất là **Bạc (Ag)**.",deepseek,deepseek-chat,bạc,True,False,False,True,False,False
+41,Vitamin nào tan trong nước?,vitamin C,"Các vitamin tan trong nước là vitamin C và toàn bộ nhóm vitamin B (bao gồm B1, B2, B3, B5, B6, B7, B9, B12).","**Bước 1 – Nháp:**
+Vitamin tan trong nước gồm vitamin nhóm B và vitamin C.
+
+**Bước 2 – Tự kiểm:**
+- Có thể quên liệt kê cụ thể các vitamin nhóm B.
+- Có thể nhầm lẫn với vitamin tan trong dầu (A, D, E, K).
+- Cần xác định rõ vitamin nào thuộc nhóm B (B1, B2, B3, B5, B6, B7, B9, B12).
+
+**Bước 3 – Cuối cùng:**
+Vitamin tan trong nước bao gồm:
+- Vitamin C (axit ascorbic)
+- Các vitamin nhóm B:
+  - B1 (thiamine)
+  - B2 (riboflavin)
+  - B3 (niacin)
+  - B5 (axit pantothenic)
+  - B6 (pyridoxine)
+  - B7 (biotin)
+  - B9 (axit folic)
+  - B12 (cobalamin)","Cuối cùng:**
+Vitamin tan trong nước bao gồm:
+- Vitamin C (axit ascorbic)
+- Các vitamin nhóm B:
+  - B1 (thiamine)
+  - B2 (riboflavin)
+  - B3 (niacin)
+  - B5 (axit pantothenic)
+  - B6 (pyridoxine)
+  - B7 (biotin)
+  - B9 (axit folic)
+  - B12 (cobalamin)",deepseek,deepseek-chat,vitamin C,True,False,False,True,False,False
+42,pH của nước tinh khiết?,7,Nước tinh khiết ở 25°C có pH trung tính là 7.,"**Bước 1 — Nháp:**
+pH của nước tinh khiết ở 25°C là 7, vì đây là điểm trung tính trên thang pH.
+
+**Bước 2 — Tự kiểm:**
+- Điều kiện: Câu trả lời này chỉ đúng ở nhiệt độ 25°C. Nếu nhiệt độ thay đổi, tích số ion của nước (Kw) thay đổi, dẫn đến pH trung tính khác 7 (ví dụ ở 100°C, pH trung tính khoảng 6,14).
+- Giả định: ""Nước tinh khiết"" được hiểu là nước cất/deionized, không chứa chất tan hay khí hòa tan (như CO₂) làm thay đổi pH.
+- Tính chính xác: Nếu câu hỏi không nêu nhiệt độ, thông thường vẫn mặc định 25°C và đáp án là 7.
+
+**Bước 3 — Cuối cùng:**
+pH của nước tinh khiết ở điều kiện tiêu chuẩn (25°C) là 7.","Cuối cùng:**
+pH của nước tinh khiết ở điều kiện tiêu chuẩn (25°C) là 7.",deepseek,deepseek-chat,7,True,False,False,True,False,False
+43,Tế bào nào sản xuất kháng thể?,tế bào B,Tế bào plasma (một dạng tế bào B đã được kích hoạt và biệt hóa) là tế bào sản xuất kháng thể.,"**Bước 1 — Nháp:**
+Tế bào plasma.
+
+**Bước 2 — Tự kiểm:**
+- **Điểm có thể sai hoặc thiếu:**
+    1. Tế bào plasma là tế bào cuối cùng tiết ra kháng thể, nhưng nó bắt nguồn từ tế bào B đã được hoạt hóa.
+    2. Có thể nhầm với tế bào lympho T (tế bào T không sản xuất kháng thể).
+    3. Có thể quên đề cập rằng tế bào B nhận diện kháng nguyên và biệt hóa thành tế bào plasma để sản xuất kháng thể.
+    4. Cần khẳng định rõ: tế bào plasma là tế bào **chuyên sản xuất** kháng thể.
+
+**Bước 3 — Cuối cùng:**
+Tế bào plasma (một dạng tế bào B đã biệt hóa) là tế bào sản xuất kháng thể.","Cuối cùng:**
+Tế bào plasma (một dạng tế bào B đã biệt hóa) là tế bào sản xuất kháng thể.",deepseek,deepseek-chat,tế bào B,True,False,False,True,False,False
+44,Nguyên tố nào tạo ra ozone?,oxy,Ozone (O₃) được tạo ra từ các nguyên tử oxy.,"**Bước 1 — Nháp:**
+Ozone (O₃) được tạo ra từ nguyên tố Oxi (O).
+
+**Bước 2 — Tự kiểm:**
+- Điểm có thể sai: Câu hỏi có thể đang hỏi về nguyên tố nào *trong tự nhiên* tạo ra ozone, hoặc quá trình nào tạo ra nó. Tuy nhiên, xét về mặt nguyên tố cấu tạo, câu trả lời rõ ràng là Oxi.
+- Điểm thiếu: Có thể cần làm rõ rằng ozone là một dạng thù hình của oxi, được tạo thành từ 3 nguyên tử oxi. Nó có thể được tạo ra trong tự nhiên (nhờ tia UV hoặc sét) hoặc nhân tạo (máy ozone).
+
+**Bước 3 — Cuối cùng:**
+Nguyên tố tạo ra ozone là **Oxi (O)**. Ozone là một phân tử gồm ba nguyên tử oxi (O₃).","Cuối cùng:**
+Nguyên tố tạo ra ozone là **Oxi (O)**. Ozone là một phân tử gồm ba nguyên tử oxi (O₃).",deepseek,deepseek-chat,oxy,True,False,False,False,False,True
+45,Enzyme nào tham gia quá trình hô hấp?,cytochrome oxidase,"Nhiều enzyme tham gia quá trình hô hấp tế bào, bao gồm các enzyme trong chu trình Krebs (như dehydrogenase, synthase) và chuỗi vận chuyển electron (như cytochrome oxidase).","**Bước 1 — Nháp:**
+Các enzyme tham gia vào quá trình hô hấp tế bào bao gồm các enzyme trong chu trình Krebs (như citrate synthase, isocitrate dehydrogenase, alpha-ketoglutarate dehydrogenase), phức hệ enzyme trong chuỗi truyền điện tử (như cytochrome c oxidase), và enzyme trong đường phân (như hexokinase, phosphofructokinase, pyruvate kinase).
+
+**Bước 2 — Tự kiểm:**
+- Có thể sai vì liệt kê không đầy đủ tất cả các enzyme, vì quá trình hô hấp gồm nhiều giai đoạn với rất nhiều enzyme.
+- Có thể thiếu: không nêu rõ enzyme chính hoặc quan trọng nhất, hoặc không phân biệt được enzyme đặc trưng cho từng giai đoạn.
+- Câu hỏi có thể chỉ mong đợi một vài enzyme tiêu biểu, nhưng cũng có thể yêu cầu một cái nhìn tổng quan.
+
+**Bước 3 — Cuối cùng:**
+Quá trình hô hấp tế bào (bao gồm đường phân, chu trình Krebs và chuỗi truyền điện tử) có sự tham gia của rất nhiều enzyme. Một số enzyme quan trọng và thường được nhắc đến là:
+- **Hexokinase/Glucokinase**: Xúc tác bước đầu tiên của đường phân.
+- **Phosphofructokinase**: Enzyme điều hòa chính của đường phân.
+- **Pyruvate dehydrogenase**: Chuyển hóa pyruvate thành Acetyl-CoA.
+- **Citrate synthase**: Enzyme đầu tiên của chu trình Krebs.
+- **Isocitrate dehydrogenase**: Enzyme điều hòa chính của chu trình Krebs.
+- **Cytochrome c oxidase**: Enzyme then chốt trong chuỗi truyền điện tử.
+
+Vì câu hỏi khá rộng, đây là những enzyme tiêu biểu cho các giai đoạn chính. Nếu cần một câu trả lời ngắn gọn nhất, có thể nói: ""Nhiều enzyme tham gia, ví dụ như các enzyme trong đường phân (phosphofructokinase), chu trình Krebs (isocitrate dehydrogenase) và chuỗi truyền điện tử (cytochrome c oxidase).""","Cuối cùng:**
+Quá trình hô hấp tế bào (bao gồm đường phân, chu trình Krebs và chuỗi truyền điện tử) có sự tham gia của rất nhiều enzyme. Một số enzyme quan trọng và thường được nhắc đến là:
+- **Hexokinase/Glucokinase**: Xúc tác bước đầu tiên của đường phân.
+- **Phosphofructokinase**: Enzyme điều hòa chính của đường phân.
+- **Pyruvate dehydrogenase**: Chuyển hóa pyruvate thành Acetyl-CoA.
+- **Citrate synthase**: Enzyme đầu tiên của chu trình Krebs.
+- **Isocitrate dehydrogenase**: Enzyme điều hòa chính của chu trình Krebs.
+- **Cytochrome c oxidase**: Enzyme then chốt trong chuỗi truyền điện tử.
+
+Vì câu hỏi khá rộng, đây là những enzyme tiêu biểu cho các giai đoạn chính. Nếu cần một câu trả lời ngắn gọn nhất, có thể nói: ""Nhiều enzyme tham gia, ví dụ như các enzyme trong đường phân (phosphofructokinase), chu trình Krebs (isocitrate dehydrogenase) và chuỗi truyền điện tử (cytochrome c oxidase).""",deepseek,deepseek-chat,cytochrome oxidase,True,False,False,False,True,False
+46,Hằng số Planck là bao nhiêu?,6.626 × 10^-34 J⋅s,"Hằng số Planck (h) có giá trị xấp xỉ là 6,62607015 × 10^-34 J·s.","**Bước 1 — Nháp:**
+Hằng số Planck là \( 6.62607015 \times 10^{-34} \, \text{J·s} \).
+
+**Bước 2 — Tự kiểm:**
+- Có thể sai về số chữ số thập phân (do có nhiều giá trị làm tròn trong sách giáo khoa cũ).
+- Có thể thiếu đơn vị chính xác (J·s).
+- Từ năm 2019, giá trị này đã được định nghĩa chính xác (không còn đo đạc nữa), nên đây là giá trị định nghĩa của SI.
+
+**Bước 3 — Cuối cùng:**
+Hằng số Planck là  
+\[
+h = 6.62607015 \times 10^{-34} \ \text{J·s}
+\]  
+(giá trị định nghĩa chính xác theo hệ SI từ 2019).","Cuối cùng:**
+Hằng số Planck là  
+\[
+h = 6.62607015 \times 10^{-34} \ \text{J·s}
+\]  
+(giá trị định nghĩa chính xác theo hệ SI từ 2019).",deepseek,deepseek-chat,6.626 × 10^-34 J⋅s,False,False,True,False,False,True
+47,Nguyên tố nào có khối lượng nguyên tử nhỏ nhất?,hydrogen,"Nguyên tố có khối lượng nguyên tử nhỏ nhất là Hydro, với khối lượng nguyên tử tiêu chuẩn xấp xỉ 1,008 u.","**Bước 1 — Nháp**  
+Hydro có khối lượng nguyên tử nhỏ nhất.
+
+**Bước 2 — Tự kiểm**  
+- Khối lượng nguyên tử thường tính theo đơn vị cacbon (u), là khối lượng trung bình của các đồng vị tự nhiên có tính đến độ phong phú.  
+- Hydro chủ yếu là đồng vị \( ^1H \) (proton, không có neutron), khối lượng xấp xỉ \( 1.008 \, u \).  
+- Một số nguyên tố khác có đồng vị nhẹ hơn 1.008 không? Không, vì heli đã khoảng 4.0026 u, lithi khoảng 6.94 u.  
+- Có thể nhầm với khối lượng nguyên tử của heli hoặc lithi không? Không, vì chúng lớn hơn nhiều.  
+- Có thể nhầm với nguyên tố có số khối nhỏ nhất? Số khối nhỏ nhất là 1 (hydro).  
+- Điểm có thể sai: nếu tính theo khối lượng nguyên tử tương đối (số liệu IUPAC), hydro là \( 1.008 \) và vẫn nhỏ hơn mọi nguyên tố khác.  
+- Không có thiếu sót rõ ràng.
+
+**Bước 3 — Cuối cùng**  
+Hydro có khối lượng nguyên tử nhỏ nhất trong tất cả các nguyên tố.","Cuối cùng**  
+Hydro có khối lượng nguyên tử nhỏ nhất trong tất cả các nguyên tố.",deepseek,deepseek-chat,hydrogen,False,False,True,False,False,True
+48,Quá trình nào sản xuất ATP trong ty thể?,hô hấp tế bào,Quá trình phosphoryl hóa oxy hóa (chuỗi chuyền điện tử và hóa thẩm thấu) sản xuất ATP trong ty thể.,"**Bước 1 — Nháp:**
+Quá trình phosphoryl hóa oxy hóa (chuỗi truyền điện tử và hóa thẩm thấu).
+
+**Bước 2 — Tự kiểm:**
+- Có thể nhầm với quá trình lên men hoặc đường phân (nhưng chúng xảy ra ở bào tương, không phải ty thể).
+- Có thể quên không nói rõ ATP synthase là enzyme chính tạo ATP.
+- Có thể quên nguồn gốc năng lượng (NADH, FADH2 từ chu trình Krebs, v.v.).
+- Có thể thiếu chi tiết về cơ chế hóa thẩm thấu (gradient proton).
+
+**Bước 3 — Cuối cùng:**
+Quá trình chính sản xuất ATP trong ty thể là **phosphoryl hóa oxy hóa**, gồm:
+- Chuỗi truyền điện tử: NADH và FADH2 từ các quá trình trước (như chu trình Krebs, β-oxid hóa) cho điện tử qua phức hệ I–IV, bơm proton vào khoảng gian màng tạo gradient proton.
+- Hóa thẩm thấu: Proton chảy ngược gradient qua ATP synthase (phức hệ V) cung cấp năng lượng để tổng hợp ATP từ ADP và Pi.
+
+Ngoài ra, một lượng nhỏ ATP có thể được tạo trực tiếp trong chu trình Krebs (phosphoryl hóa ở mức cơ chất) nhưng không phải là nguồn chính.","Cuối cùng:**
+Quá trình chính sản xuất ATP trong ty thể là **phosphoryl hóa oxy hóa**, gồm:
+- Chuỗi truyền điện tử: NADH và FADH2 từ các quá trình trước (như chu trình Krebs, β-oxid hóa) cho điện tử qua phức hệ I–IV, bơm proton vào khoảng gian màng tạo gradient proton.
+- Hóa thẩm thấu: Proton chảy ngược gradient qua ATP synthase (phức hệ V) cung cấp năng lượng để tổng hợp ATP từ ADP và Pi.
+
+Ngoài ra, một lượng nhỏ ATP có thể được tạo trực tiếp trong chu trình Krebs (phosphoryl hóa ở mức cơ chất) nhưng không phải là nguồn chính.",deepseek,deepseek-chat,hô hấp tế bào,False,False,True,False,True,False
+49,Loại liên kết nào mạnh nhất trong phân tử?,liên kết cộng hóa trị,Liên kết cộng hóa trị là loại liên kết mạnh nhất trong một phân tử.,"**Bước 1 — Nháp**  
+Liên kết cộng hóa trị.
+
+**Bước 2 — Tự kiểm**  
+- Có thể sai vì:  
+  + Liên kết ion cũng rất mạnh, tùy vào ngữ cảnh ""trong phân tử"" thường chỉ các chất cộng hóa trị.  
+  + Trong cùng một phân tử, liên kết cộng hóa trị (đặc biệt liên kết cộng hóa trị có cực hoặc liên kết cộng hóa trị ba) mạnh hơn liên kết hydro, liên kết Van der Waals.  
+  + Nhưng nếu so sánh giữa liên kết cộng hóa trị và liên kết ion: liên kết ion trong tinh thể có thể rất mạnh (như NaCl rắn), nhưng ""trong phân tử"" thường không có liên kết ion thực sự (vì liên kết ion là giữa ion trong mạng tinh thể, không phải trong một phân tử riêng lẻ).  
+  + Vậy trong một phân tử riêng lẻ, liên kết mạnh nhất là liên kết cộng hóa trị.  
+- Cần xác định rõ: ""phân tử"" thường dùng cho hợp chất cộng hóa trị, nên đáp án là liên kết cộng hóa trị.  
+- Có thể thiếu: cần nói rõ là liên kết cộng hóa trị (hoặc cộng hóa trị không cực/có cực) mạnh hơn các liên kết yếu như liên kết hydro, Van der Waals, tương tác ion–lưỡng cực trong cùng một phân tử.  
+
+**Bước 3 — Cuối cùng**  
+Liên kết cộng hóa trị là mạnh nhất trong một phân tử.","Cuối cùng**  
+Liên kết cộng hóa trị là mạnh nhất trong một phân tử.",deepseek,deepseek-chat,liên kết cộng hóa trị,True,False,False,True,False,False
+50,Hạt nào quyết định số hiệu nguyên tử?,proton,Số hiệu nguyên tử (số proton) được quyết định bởi hạt **proton** trong hạt nhân.,"**Bước 1 – Nháp:**  
+Proton quyết định số hiệu nguyên tử.
+
+**Bước 2 – Tự kiểm:**  
+- Số hiệu nguyên tử (Z) = số proton trong hạt nhân.  
+- Nếu thay đổi số proton → nguyên tố khác.  
+- Số neutron không ảnh hưởng đến số hiệu nguyên tử, chỉ ảnh hưởng đến đồng vị.  
+- Electron có thể thay đổi (ion) nhưng không làm thay đổi số hiệu nguyên tử.  
+- Không có điểm nào sai ở đây.
+
+**Bước 3 – Cuối cùng:**  
+Proton quyết định số hiệu nguyên tử.","Cuối cùng:**  
+Proton quyết định số hiệu nguyên tử.",deepseek,deepseek-chat,proton,True,False,False,True,False,False
+51,Enzyme nào nhân đôi DNA?,DNA polymerase,Enzyme chính chịu trách nhiệm nhân đôi DNA là DNA polymerase.,"**Bước 1 — Nháp:**
+Enzyme chính tham gia vào quá trình nhân đôi DNA là DNA polymerase.
+
+**Bước 2 — Tự kiểm:**
+- **Điểm có thể thiếu:** Quá trình nhân đôi DNA cần nhiều enzyme và protein phối hợp, không chỉ mỗi DNA polymerase. Ví dụ:
+    - **Helicase:** mở xoắn phân tử DNA.
+    - **Primase:** tổng hợp đoạn mồi RNA.
+    - **DNA polymerase:** tổng hợp mạch mới (cả mạch liên tục và gián đoạn).
+    - **DNA ligase:** nối các đoạn Okazaki trên mạch gián đoạn.
+    - **Topoisomerase:** giảm sức căng xoắn khi DNA tháo xoắn.
+- **Điểm có thể sai:** Nếu trả lời chỉ là ""DNA polymerase"" thì đúng nhưng chưa đầy đủ vì nó là enzyme chính nhưng không thể hoạt động đơn độc.
+
+**Bước 3 — Cuối cùng:**
+Enzyme chính thực hiện việc tổng hợp mạch DNA mới trong quá trình nhân đôi DNA là **DNA polymerase**.  
+Tuy nhiên, quá trình này còn có sự tham gia của nhiều enzyme khác như helicase, primase, ligase, topoisomerase để đảm bảo nhân đôi chính xác và hoàn chỉnh.","Cuối cùng:**
+Enzyme chính thực hiện việc tổng hợp mạch DNA mới trong quá trình nhân đôi DNA là **DNA polymerase**.  
+Tuy nhiên, quá trình này còn có sự tham gia của nhiều enzyme khác như helicase, primase, ligase, topoisomerase để đảm bảo nhân đôi chính xác và hoàn chỉnh.",deepseek,deepseek-chat,DNA polymerase,True,False,False,True,False,False
+52,Nguyên tố nào là kim loại lỏng ở nhiệt độ phòng?,thủy ngân,Thủy ngân (Hg) là nguyên tố kim loại duy nhất ở thể lỏng ở nhiệt độ phòng.,"**Bước 1 — Nháp:**  
+Thủy ngân (Hg) là kim loại lỏng ở nhiệt độ phòng. Ngoài ra còn có gali (Ga) và cesi (Cs) gần nhiệt độ phòng nhưng cần xem xét điều kiện cụ thể.
+
+**Bước 2 — Tự kiểm:**  
+- Thủy ngân: chắc chắn lỏng ở 25°C (nhiệt độ nóng chảy −38,83°C).  
+- Gali: nóng chảy ở ~29,76°C, nên ở nhiệt độ phòng trên 30°C thì lỏng, nhưng nếu phòng mát (~25°C) thì rắn.  
+- Cesi: nóng chảy ở 28,5°C, tương tự gali, không phải luôn lỏng ở mọi nhiệt độ phòng.  
+- Franci: phóng xạ, rất hiếm, khó quan sát.  
+- Brom: là phi kim lỏng ở nhiệt độ phòng, không phải kim loại.  
+→ Vậy kim loại luôn lỏng ở nhiệt độ phòng thông thường (khoảng 20–25°C) chỉ có thủy ngân. Gali và cesi chỉ lỏng khi nhiệt độ phòng trên điểm nóng chảy của chúng.
+
+**Bước 3 — Cuối cùng:**  
+Kim loại duy nhất **luôn** ở thể lỏng ở nhiệt độ phòng thông thường (khoảng 20–25°C) là **Thủy ngân (Hg)**.","Cuối cùng:**  
+Kim loại duy nhất **luôn** ở thể lỏng ở nhiệt độ phòng thông thường (khoảng 20–25°C) là **Thủy ngân (Hg)**.",deepseek,deepseek-chat,thủy ngân,True,False,False,True,False,False
+53,Vitamin nào cần thiết cho đông máu?,vitamin K,Vitamin K cần thiết cho quá trình đông máu.,"**Bước 1 — Nháp:**
+Vitamin K.
+
+**Bước 2 — Tự kiểm:**
+- Điểm có thể sai: Nhầm với vitamin khác (ví dụ vitamin C, D).
+- Điểm có thể thiếu: Cần nói rõ vai trò của nó (tổng hợp các yếu tố đông máu) hoặc các dạng chính của vitamin K (K1, K2).
+- Kiểm tra lại kiến thức: Vitamin K tham gia vào quá trình carboxyl hóa các yếu tố đông máu II, VII, IX, X và các protein chống đông Protein C, Protein S, Z. Thiếu vitamin K gây ra tình trạng máu khó đông.
+
+**Bước 3 — Cuối cùng:**
+Vitamin K là vitamin cần thiết cho quá trình đông máu.","Cuối cùng:**
+Vitamin K là vitamin cần thiết cho quá trình đông máu.",deepseek,deepseek-chat,vitamin K,True,False,False,True,False,False
+54,Tế bào nào có nhiều mitochondria nhất?,tế bào cơ,"Tế bào cơ tim (tế bào cơ tâm nhĩ và tâm thất) có mật độ mitochondria cao nhất trong cơ thể người, chiếm khoảng 30-35% thể tích tế bào để đáp ứng nhu cầu năng lượng liên tục.","**Bước 1 — Nháp:**  
+Tế bào cơ, đặc biệt là tế bào cơ tim, có nhiều ti thể nhất vì cần nhiều năng lượng (ATP) cho hoạt động co cơ liên tục.
+
+**Bước 2 — Tự kiểm:**  
+- Có thể quên tế bào thần kinh (não) cũng cần nhiều năng lượng, nhưng không bằng cơ tim.  
+- Tế bào gan cũng có nhiều ti thể vì chuyển hóa mạnh, nhưng vẫn ít hơn cơ tim.  
+- Cần nói rõ là ""tế bào cơ tim"" thay vì chỉ ""tế bào cơ"" để chính xác hơn.  
+- Có thể có tế bào khác như tế bào tuyến nội tiết cần nhiều năng lượng? Nhưng không vượt cơ tim.
+
+**Bước 3 — Cuối cùng:**  
+Tế bào có nhiều mitochondria nhất là **tế bào cơ tim**, do nhu cầu năng lượng (ATP) rất cao để co bóp liên tục và không ngừng nghỉ.","Cuối cùng:**  
+Tế bào có nhiều mitochondria nhất là **tế bào cơ tim**, do nhu cầu năng lượng (ATP) rất cao để co bóp liên tục và không ngừng nghỉ.",deepseek,deepseek-chat,tế bào cơ,True,False,False,True,False,False
+55,Nguyên tố nào có electron hóa trị 1?,natri,"Nhiều nguyên tố có electron hóa trị bằng 1, chẳng hạn như các kim loại kiềm (Lithi, Natri, Kali, Rubidi, Xesi, Franxi) và Hydro.","**Bước 1 – Nháp**  
+Các nguyên tố có 1 electron hóa trị là các kim loại kiềm (nhóm IA): Li, Na, K, Rb, Cs, Fr.  
+
+**Bước 2 – Tự kiểm**  
+- Có thể quên hydro (H) cũng có 1 electron hóa trị nhưng không phải kim loại kiềm.  
+- Cần xác định rõ ""electron hóa trị"" là electron ở lớp ngoài cùng (theo quan điểm chung trong hóa học phổ thông).  
+- Các nguyên tố nhóm IB (Cu, Ag, Au) có 1 electron hóa trị nếu xét cấu hình bề mặt, nhưng thường được dạy là có 1 electron hóa trị trong nhiều tình huống.  
+- Tuy nhiên, câu hỏi này thường hướng đến nhóm IA và H.  
+
+**Bước 3 – Cuối cùng**  
+Các nguyên tố có 1 electron hóa trị gồm:  
+- Hydro (H)  
+- Các kim loại kiềm: Li, Na, K, Rb, Cs, Fr.  
+Một số nguồn cũng tính Cu, Ag, Au có 1 electron hóa trị, nhưng nếu theo chương trình phổ thông thì đáp án chính là nhóm IA và H.","Cuối cùng**  
+Các nguyên tố có 1 electron hóa trị gồm:  
+- Hydro (H)  
+- Các kim loại kiềm: Li, Na, K, Rb, Cs, Fr.  
+Một số nguồn cũng tính Cu, Ag, Au có 1 electron hóa trị, nhưng nếu theo chương trình phổ thông thì đáp án chính là nhóm IA và H.",deepseek,deepseek-chat,natri,True,False,False,False,False,True
+56,Hormone nào kích thích sản xuất sữa?,prolactin,Hormone prolactin kích thích sản xuất sữa.,"**Bước 1 — Nháp:**
+Hormone kích thích sản xuất sữa là prolactin.
+
+**Bước 2 — Tự kiểm:**
+- **Điểm có thể sai hoặc thiếu:**
+    1. **Prolactin** là hormone chính kích thích tuyến vú *sản xuất* sữa (quá trình gọi là lactogenesis).
+    2. Cần phân biệt với **oxytocin** – hormone kích thích *tiết sữa* (phản xạ tống sữa ra ngoài), không phải sản xuất.
+    3. Câu trả lời chỉ nên đề cập hormone chính cho ""sản xuất sữa"", không nhầm lẫn sang hormone khác.
+    4. Kiểm tra lại: Prolactin được tiết ra từ thùy trước tuyến yên, tăng mạnh sau sinh và kích thích tế bào tuyến vú tổng hợp sữa.
+
+**Bước 3 — Cuối cùng:**
+Hormone chính kích thích sản xuất sữa là **prolactin**.","Cuối cùng:**
+Hormone chính kích thích sản xuất sữa là **prolactin**.",deepseek,deepseek-chat,prolactin,True,False,False,True,False,False
+57,Loại sóng nào truyền qua chân không?,sóng điện từ,Sóng điện từ truyền qua chân không.,"**Bước 1 – Nháp:**  
+Sóng điện từ.
+
+**Bước 2 – Tự kiểm:**  
+- Sóng cơ học (âm thanh, sóng nước) không truyền qua chân không vì cần môi trường vật chất.  
+- Sóng điện từ truyền qua chân không được, vì không cần môi trường vật chất.  
+- Các loại sóng khác như sóng âm, sóng trên dây đàn, sóng nước đều không truyền qua chân không.  
+- Có thể quên sóng hạt (sóng vật chất de Broglie) cũng truyền trong chân không, nhưng câu hỏi này thường chỉ hướng đến sóng điện từ.
+
+**Bước 3 – Cuối cùng:**  
+Loại sóng truyền qua chân không là **sóng điện từ**.","Cuối cùng:**  
+Loại sóng truyền qua chân không là **sóng điện từ**.",deepseek,deepseek-chat,sóng điện từ,True,False,False,True,False,False
+58,Protein nào chống oxy hóa trong hồng cầu?,catalase,Protein chống oxy hóa chính trong hồng cầu là **peroxiredoxin 2**.,"**Bước 1 – Nháp:**
+Protein chống oxy hóa chính trong hồng cầu là **Catalase** và **Superoxide dismutase (SOD)**. Ngoài ra, hệ thống glutathione (glutathione peroxidase) cũng đóng vai trò quan trọng.
+
+**Bước 2 – Tự kiểm:**
+- **Catalase**: Đúng, nó phân giải H₂O₂ thành nước và oxy, rất quan trọng trong hồng cầu.
+- **Superoxide dismutase (SOD)**: Có, nó chuyển đổi gốc superoxide (O₂⁻) thành H₂O₂.
+- **Glutathione peroxidase (GPx)**: Cũng rất quan trọng, sử dụng glutathione để khử H₂O₂ và lipid peroxide.
+- **Thiếu sót có thể**: Có nên đề cập đến ""Peroxiredoxin 2""? Đây cũng là một protein chống oxy hóa quan trọng trong hồng cầu, giúp khử H₂O₂.
+- **Tính chính xác**: Các protein này phối hợp với nhau để bảo vệ hồng cầu khỏi stress oxy hóa, đặc biệt là vì hồng cầu chứa nhiều oxy và sắt (có thể xúc tác phản ứng oxy hóa).
+
+**Bước 3 – Cuối cùng:**
+Các protein chống oxy hóa chính trong hồng cầu bao gồm:
+- **Superoxide dismutase (SOD)**
+- **Catalase**
+- **Glutathione peroxidase (GPx)**
+- **Peroxiredoxin 2** (một peroxiredoxin quan trọng trong hồng cầu)
+
+Các protein này cùng hệ thống glutathione tạo thành mạng lưới bảo vệ hồng cầu khỏi tổn thương oxy hóa.","Cuối cùng:**
+Các protein chống oxy hóa chính trong hồng cầu bao gồm:
+- **Superoxide dismutase (SOD)**
+- **Catalase**
+- **Glutathione peroxidase (GPx)**
+- **Peroxiredoxin 2** (một peroxiredoxin quan trọng trong hồng cầu)
+
+Các protein này cùng hệ thống glutathione tạo thành mạng lưới bảo vệ hồng cầu khỏi tổn thương oxy hóa.",deepseek,deepseek-chat,catalase,False,False,True,True,False,False
+59,Nguyên tố nào cần thiết cho enzyme carbonic anhydrase?,kẽm,Kẽm (Zn) là nguyên tố cần thiết cho enzyme carbonic anhydrase.,"**Bước 1 — Nháp:**
+Kẽm (Zn).
+
+**Bước 2 — Tự kiểm:**
+- Carbonic anhydrase là một enzyme quan trọng xúc tác cho phản ứng chuyển đổi giữa CO₂ và nước thành axit cacbonic (và ngược lại).
+- Enzyme này chứa một ion kim loại ở trung tâm hoạt động để liên kết và kích hoạt phân tử nước.
+- Ion kim loại phổ biến và đúng cho carbonic anhydrase là kẽm (Zn²⁺).
+- Có thể nhầm với các ion kim loại khác trong enzyme khác (ví dụ: sắt trong catalase, đồng trong cytochrome c oxidase), nhưng với carbonic anhydrase thì chắc chắn là kẽm.
+
+**Bước 3 — Cuối cùng:**
+Nguyên tố cần thiết cho enzyme carbonic anhydrase là **Kẽm (Zn)**.","Cuối cùng:**
+Nguyên tố cần thiết cho enzyme carbonic anhydrase là **Kẽm (Zn)**.",deepseek,deepseek-chat,kẽm,True,False,False,True,False,False
+60,Quá trình nào chuyển glucose thành pyruvate?,glycolysis,Quá trình đường phân (glycolysis) là quá trình chuyển hóa glucose thành pyruvate trong tế bào chất.,"**Bước 1 — Nháp:**
+Quá trình đó là **đường phân** (glycolysis).
+
+**Bước 2 — Tự kiểm:**
+- Điểm có thể sai: Tên gọi chính xác trong tiếng Việt là ""đường phân"" (glycolysis), cần kiểm tra xem có nhầm với quá trình khác không (ví dụ: chu trình Krebs, hô hấp hiếu khí).
+- Điểm thiếu: Có thể cần nói rõ pyruvate là sản phẩm cuối cùng của đường phân trong điều kiện hiếu khí; còn điều kiện kỵ khí thì pyruvate có thể chuyển thành lactate hoặc ethanol. Nhưng câu hỏi chỉ hỏi ""chuyển glucose thành pyruvate"" nên đường phân là đủ.
+- Kiểm tra lại: Glucose (C6) qua đường phân tạo 2 phân tử pyruvate (C3), xảy ra trong bào tảo, không cần oxy. Đúng.
+
+**Bước 3 — Cuối cùng:**
+Quá trình chuyển glucose thành pyruvate là **đường phân (glycolysis)**.","Cuối cùng:**
+Quá trình chuyển glucose thành pyruvate là **đường phân (glycolysis)**.",deepseek,deepseek-chat,glycolysis,True,False,False,True,False,False
+61,Hạt nào quyết định đồng vị?,neutron,Đồng vị của một nguyên tố được quyết định bởi số **neutron** trong hạt nhân.,"**Bước 1 – Nháp**  
+Đồng vị được quyết định bởi số neutron trong hạt nhân.  
+
+**Bước 2 – Tự kiểm**  
+- Đồng vị của một nguyên tố có cùng số proton, khác số neutron.  
+- Hạt neutron quyết định sự khác biệt đó.  
+- Có thể nhầm với proton (quyết định nguyên tố) hoặc electron (quyết định ion).  
+- Câu hỏi hỏi “hạt nào” → neutron là hạt trong hạt nhân quyết định đồng vị.  
+
+**Bước 3 – Cuối cùng**  
+Hạt neutron quyết định đồng vị của một nguyên tố.","Cuối cùng**  
+Hạt neutron quyết định đồng vị của một nguyên tố.",deepseek,deepseek-chat,neutron,True,False,False,True,False,False
+62,Enzyme nào cắt RNA?,ribonuclease,Enzyme cắt RNA là ribonuclease (RNase).,"Chà, câu hỏi này có thể hiểu theo nhiều cách khác nhau. Dưới đây là quy trình suy nghĩ của tôi.
+
+### Bước 1 — Nháp: Trả lời ngắn
+
+Enzyme cắt RNA là **Ribonuclease (RNase)**.
+
+### Bước 2 — Tự kiểm: Điểm có thể sai hoặc thiếu
+
+Sau khi suy nghĩ lại, tôi nhận thấy câu trả lời trên quá chung chung và có thể chưa đáp ứng đúng ý của người hỏi. Các điểm cần xem xét là:
+
+1.  **Ngữ cảnh:** ""Cắt RNA"" có thể xảy ra trong nhiều quá trình khác nhau:
+    *   **Tiêu hóa RNA trong thức ăn:** Trong hệ tiêu hóa, các enzyme như **RNase A** (từ tuyến tụy) cắt RNA thành các nucleotide.
+    *   **Xử lý RNA trong tế bào:** Các RNA thông tin (mRNA) mới được tổng hợp thường cần được cắt bỏ các đoạn intron và nối các exon lại với nhau. Enzyme thực hiện việc cắt này là **spliceosome** (một phức hợp gồm RNA và protein, không phải là một enzyme đơn thuần).
+    *   **Bảo vệ tế bào:** Các enzyme như **RNase L** được kích hoạt trong phản ứng miễn dịch để cắt và tiêu hủy RNA của virus cũng như RNA của tế bào, ngăn chặn sự nhân lên của virus.
+
+2.  **Thiếu sót:** Nếu chỉ trả lời ""Ribonuclease"", tôi đã bỏ qua một nhóm enzyme quan trọng khác cũng cắt RNA: **Ribozyme**. Đây là những phân tử RNA có khả năng xúc tác và tự cắt chính nó hoặc cắt các phân tử RNA khác. Một ví dụ nổi tiếng là ribozyme trong intron nhóm I.
+
+3.  **Độ chính xác:** Câu trả lời ""Ribonuclease"" là đúng về mặt khái niệm, nhưng nó giống như trả lời ""Proteinase"" cho câu hỏi ""Enzyme nào cắt protein?"". Nó chính xác nhưng chưa cụ thể và có thể không phải là câu trả lời tốt nhất.
+
+### Bước 3 — Cuối cùng: Đáp án cuối cùng
+
+Dựa trên việc tự kiểm tra, tôi cung cấp một câu trả lời toàn diện hơn:
+
+Có hai nhóm chính có khả năng cắt RNA:
+
+1.  **Ribonuclease (RNase):** Là các enzyme (protein) xúc tác cho phản ứng thủy phân liên kết phosphodiester trong RNA. Ví dụ: RNase A, RNase H, RNase L.
+2.  **Ribozyme:** Là các phân tử RNA có hoạt tính xúc tác, có khả năng tự cắt (self-cleavage) hoặc cắt các phân tử RNA khác.
+
+Vì câu hỏi không rõ ngữ cảnh, tôi không thể chắc chắn người hỏi đang đề cập đến nhóm nào. Tuy nhiên, nếu phải chọn một đáp án phổ biến và trực tiếp nhất, đó là **Ribonuclease (RNase)**.","cuối cùng
+
+Dựa trên việc tự kiểm tra, tôi cung cấp một câu trả lời toàn diện hơn:
+
+Có hai nhóm chính có khả năng cắt RNA:
+
+1.  **Ribonuclease (RNase):** Là các enzyme (protein) xúc tác cho phản ứng thủy phân liên kết phosphodiester trong RNA. Ví dụ: RNase A, RNase H, RNase L.
+2.  **Ribozyme:** Là các phân tử RNA có hoạt tính xúc tác, có khả năng tự cắt (self-cleavage) hoặc cắt các phân tử RNA khác.
+
+Vì câu hỏi không rõ ngữ cảnh, tôi không thể chắc chắn người hỏi đang đề cập đến nhóm nào. Tuy nhiên, nếu phải chọn một đáp án phổ biến và trực tiếp nhất, đó là **Ribonuclease (RNase)**.",deepseek,deepseek-chat,ribonuclease,True,False,False,True,True,False
+63,Nguyên tố nào có cấu hình electron [He] 2s1?,lithium,Nguyên tố có cấu hình electron [He] 2s¹ là **Liti (Li)**.,"**Bước 1 — Nháp:**  
+Cấu hình electron [He] 2s¹ có nghĩa là lớp vỏ có 1 electron ở phân lớp 2s, và [He] tương ứng với 2 electron (1s²).  
+Vậy tổng số electron = 2 + 1 = 3.  
+Nguyên tử có Z = 3 là **Liti (Li)**.
+
+**Bước 2 — Tự kiểm:**  
+- [He] là 1s², thêm 2s¹ → Z = 3 → Li.  
+- Có thể nhầm với nguyên tố khác không? Không, vì Z = 3 duy nhất là Li.  
+- Kiểm tra chu kỳ 2, nhóm IA → đúng với 2s¹.  
+- Không có điểm nào sai hoặc thiếu.
+
+**Bước 3 — Cuối cùng:**  
+Nguyên tố đó là **Liti (Li)**.","Cuối cùng:**  
+Nguyên tố đó là **Liti (Li)**.",deepseek,deepseek-chat,lithium,False,False,True,False,False,True
+64,Vitamin nào cần thiết cho tổng hợp collagen?,vitamin C,Vitamin C cần thiết cho quá trình tổng hợp collagen.,"**Bước 1 — Nháp:**
+Vitamin C.
+
+**Bước 2 — Tự kiểm:**
+- Vitamin C (acid ascorbic) là đồng yếu tố cho các enzyme prolyl hydroxylase và lysyl hydroxylase, hai enzyme quan trọng trong quá trình hydroxyl hóa các amino acid proline và lysine trong chuỗi collagen. Nếu không có đủ vitamin C, quá trình tổng hợp collagen bị gián đoạn, dẫn đến các bệnh như scorbut.
+- Các vitamin khác như Vitamin A, E, K không đóng vai trò trực tiếp tương tự trong quá trình này.
+- Có thể có sự tham gia của một số vi chất khác (như đồng, sắt) nhưng câu hỏi hỏi về vitamin, nên Vitamin C là câu trả lời chính.
+
+**Bước 3 — Cuối cùng:**
+Vitamin C là vitamin cần thiết cho quá trình tổng hợp collagen.","Cuối cùng:**
+Vitamin C là vitamin cần thiết cho quá trình tổng hợp collagen.",deepseek,deepseek-chat,vitamin C,True,False,False,True,False,False
+65,Tế bào nào sản xuất surfactant trong phổi?,pneumocyte type II,Tế bào phế nang loại II (Type II pneumocyte) là tế bào sản xuất surfactant trong phổi.,"**Bước 1 — Nháp:**
+Tế bào phế nang loại II (Type II pneumocyte).
+
+**Bước 2 — Tự kiểm:**
+- **Điểm có thể sai:** Nhầm lẫn với tế bào phế nang loại I (chức năng chính là trao đổi khí, không sản xuất surfactant).
+- **Điểm có thể thiếu:** Có thể quên không đề cập đến vị trí cụ thể (phế nang) hoặc chức năng chính của surfactant (làm giảm sức căng bề mặt, ngăn xẹp phế nang). Tuy nhiên, câu hỏi chỉ hỏi tên tế bào, nên đáp án này là đủ.
+
+**Bước 3 — Cuối cùng:**
+Tế bào phế nang loại II (Type II pneumocyte).","Cuối cùng:**
+Tế bào phế nang loại II (Type II pneumocyte).",deepseek,deepseek-chat,pneumocyte type II,False,False,True,False,False,True
+66,Nguyên tố nào tạo thành 78% khí quyển?,nitrogen,Nguyên tố Nitơ (N₂) tạo thành khoảng 78% khí quyển Trái Đất.,"**Bước 1 — Nháp**  
+Nitơ (N₂) chiếm khoảng 78% thể tích khí quyển Trái Đất.
+
+**Bước 2 — Tự kiểm**  
+- Có thể nhầm với oxi (khoảng 21%) hoặc argon (khoảng 0,9%).  
+- Cần xác định rõ đơn vị: 78% là theo thể tích hay khối lượng? Thông thường, con số này được tính theo phần trăm thể tích trong không khí khô.  
+- Kiểm tra tên nguyên tố: Khí chính là nitơ phân tử N₂, thuộc nguyên tố nitơ (Nitrogen).  
+- Không khí còn hơi nước, nhưng 78% thường được nói đến khi không khí khô.
+
+**Bước 3 — Cuối cùng**  
+Nguyên tố **Nitơ** (chủ yếu ở dạng phân tử N₂) tạo thành khoảng 78% thể tích khí quyển Trái Đất.","Cuối cùng**  
+Nguyên tố **Nitơ** (chủ yếu ở dạng phân tử N₂) tạo thành khoảng 78% thể tích khí quyển Trái Đất.",deepseek,deepseek-chat,nitrogen,False,False,True,False,False,True
+67,Hormone nào điều hòa cân bằng nước?,ADH,"Hormone chính điều hòa cân bằng nước là **ADH (hormone chống bài niệu)**, còn được gọi là vasopressin. Ngoài ra, hormone aldosterone cũng đóng một vai trò quan trọng trong việc điều hòa cân bằng nước và điện giải.","**Bước 1 — Nháp:**
+Hormone chính điều hòa cân bằng nước trong cơ thể là **ADH** (hormone chống bài niệu, hay vasopressin) do thùy sau tuyến yên tiết ra. Ngoài ra, aldosterone cũng có vai trò gián tiếp.
+
+**Bước 2 — Tự kiểm:**
+- **ADH**: Đúng, nó tác động lên ống góp ở thận để tăng tái hấp thu nước, giảm lượng nước mất qua nước tiểu.
+- **Aldosterone**: Có liên quan nhưng chủ yếu điều hòa cân bằng natri, từ đó ảnh hưởng gián tiếp đến cân bằng nước và huyết áp.
+- **Có thể thiếu**: Hệ renin-angiotensin-aldosterone (RAAS) cũng tham gia điều hòa huyết áp và thể tích dịch, nhưng hormone chính trực tiếp điều hòa nước vẫn là ADH.
+- **ANP** (hormone natriuretic nhĩ): cũng ảnh hưởng đến bài tiết natri và nước, nhưng không phải hormone chính.
+
+**Bước 3 — Cuối cùng:**
+Hormone chính điều hòa cân bằng nước là **ADH (hormone chống bài niệu)**. Aldosterone và hệ RAAS có vai trò hỗ trợ quan trọng trong việc điều hòa thể tích dịch và điện giải, từ đó tác động gián tiếp đến cân bằng nước.","Cuối cùng:**
+Hormone chính điều hòa cân bằng nước là **ADH (hormone chống bài niệu)**. Aldosterone và hệ RAAS có vai trò hỗ trợ quan trọng trong việc điều hòa thể tích dịch và điện giải, từ đó tác động gián tiếp đến cân bằng nước.",deepseek,deepseek-chat,ADH,True,False,False,True,False,False
+68,Loại liên kết nào giữ các nucleotide trong DNA?,phosphodiester,Các nucleotide trong DNA được giữ với nhau bởi liên kết phosphodieste (liên kết cộng hóa trị) trong mạch xương sống và liên kết hydro giữa hai mạch.,"Chà, câu hỏi này về kiến thức sinh học cơ bản. Mình sẽ làm theo các bước.
+
+**Bước 1 — Nháp:**
+Các nucleotide trong một mạch DNA được giữ với nhau bằng **liên kết phosphodieste** (hay liên kết photphodieste).
+
+**Bước 2 — Tự kiểm:**
+Mình cần kiểm tra xem có điểm nào sai hoặc thiếu không:
+- **Tên gọi:** ""Phosphodieste"" là tên gọi chính xác cho liên kết này. Nó được hình thành giữa nhóm phosphate của nucleotide này với nhóm đường (deoxyribose) của nucleotide kế tiếp.
+- **Phạm vi:** Câu hỏi hỏi về liên kết giữa ""các nucleotide"". Mình đã trả lời cho các nucleotide *trong cùng một mạch*. Điều này là chính xác. Nếu họ hỏi liên kết giữa *hai mạch* (giữa các base), đó sẽ là liên kết hydro.
+- **Khả năng nhầm lẫn:** Một số người có thể nhầm với ""liên kết hydro"" (liên kết giữa hai mạch) hoặc ""liên kết glycosidic"" (liên kết giữa đường và base trong một nucleotide). Mình đã không mắc lỗi này.
+- **Thông tin đầy đủ:** Trong nháp, mình chỉ đưa ra tên liên kết. Có lẽ nên giải thích ngắn gọn để làm rõ hơn trong đáp án cuối cùng.
+
+Kết luận: Câu trả lời nháp là chính xác.
+
+**Bước 3 — Cuối cùng:**
+Các nucleotide trong cùng một mạch DNA được giữ với nhau bằng **liên kết phosphodieste** (liên kết photphodieste). Đây là liên kết cộng hóa trị bền vững, được hình thành giữa nhóm phosphate của nucleotide này với nhóm -OH ở vị trí số 3' của đường deoxyribose ở nucleotide kế tiếp, tạo nên khung đường-phosphate của chuỗi polynucleotide.","Cuối cùng:**
+Các nucleotide trong cùng một mạch DNA được giữ với nhau bằng **liên kết phosphodieste** (liên kết photphodieste). Đây là liên kết cộng hóa trị bền vững, được hình thành giữa nhóm phosphate của nucleotide này với nhóm -OH ở vị trí số 3' của đường deoxyribose ở nucleotide kế tiếp, tạo nên khung đường-phosphate của chuỗi polynucleotide.",deepseek,deepseek-chat,phosphodiester,False,False,True,False,False,True
+69,Protein nào chính trong tơ lụa?,fibroin,"Fibroin là protein chính trong tơ lụa, chiếm khoảng 70-80% khối lượng.","**Bước 1 — Nháp:**
+Protein chính trong tơ lụa là fibroin.
+
+**Bước 2 — Tự kiểm:**
+- Điểm có thể sai: Tơ lụa có thể có nhiều loại protein, nhưng protein cấu trúc chính tạo ra sợi tơ là fibroin.
+- Điểm thiếu: Tơ lụa tự nhiên (như tơ tằm) còn có sericin - một loại protein khác bao quanh sợi fibroin, nhưng sericin thường được loại bỏ trong quá trình chế biến (gọi là degumming). Vậy, protein chính *cấu trúc* và tồn tại trong sợi tơ thành phẩm là fibroin.
+
+**Bước 3 — Cuối cùng:**
+Protein chính trong tơ lụa (sợi tơ) là **fibroin**. Sericin là một protein phụ bao quanh sợi fibroin trong tơ thô.","Cuối cùng:**
+Protein chính trong tơ lụa (sợi tơ) là **fibroin**. Sericin là một protein phụ bao quanh sợi fibroin trong tơ thô.",deepseek,deepseek-chat,fibroin,True,False,False,True,False,False
+70,Nguyên tố nào có tính khử mạnh nhất?,cesium,"Nhóm kim loại kiềm (như Liti, Natri, Kali) có tính khử rất mạnh, trong đó Liti (Li) thường được coi là có tính khử mạnh nhất trong điều kiện tiêu chuẩn do thế điện cực chuẩn (E⁰) âm nhất.","**Bước 1 – Nháp:**  
+Tính khử mạnh nhất thường thuộc về kim loại kiềm (nhóm IA), trong đó franci (Fr) có tính khử mạnh nhất về mặt lý thuyết do độ âm điện thấp nhất và năng lượng ion hóa thấp nhất. Tuy nhiên, franci rất hiếm và phóng xạ, nên trong thực tế thường xem xesi (Cs) là mạnh nhất trong các nguyên tố ổn định.
+
+**Bước 2 – Tự kiểm:**  
+- Có thể nhầm với liti (Li) do thế điện cực chuẩn âm nhất trong một số sách?  
+  → Không, thế điện cực phụ thuộc cả entanpi hiđrat hóa, Li có thế điện cực âm hơn Na nhưng tính khử trong phản ứng hóa học thực tế đánh giá qua năng lượng ion hóa và ái lực với dung môi, còn khả năng khử mạnh nhất phải là nguyên tố dễ mất electron nhất (kim loại có năng lượng ion hóa nhỏ nhất) → Cs hoặc Fr.  
+- Franci có tính phóng xạ, thời gian sống ngắn, khó nghiên cứu thực nghiệm, nhưng về lý thuyết vẫn là mạnh nhất.  
+- Cần nói rõ “về mặt nhiệt động học” hay “trong thực tế” để tránh hiểu lầm.
+
+**Bước 3 – Cuối cùng:**  
+Về mặt lý thuyết, franci (Fr) là nguyên tố có tính khử mạnh nhất trong bảng tuần hoàn do có độ âm điện nhỏ nhất và năng lượng ion hóa thấp nhất. Tuy nhiên, vì Fr rất hiếm và phóng xạ, nên trong thực tế, xesi (Cs) thường được coi là kim loại có tính khử mạnh nhất có thể nghiên cứu được.","Cuối cùng:**  
+Về mặt lý thuyết, franci (Fr) là nguyên tố có tính khử mạnh nhất trong bảng tuần hoàn do có độ âm điện nhỏ nhất và năng lượng ion hóa thấp nhất. Tuy nhiên, vì Fr rất hiếm và phóng xạ, nên trong thực tế, xesi (Cs) thường được coi là kim loại có tính khử mạnh nhất có thể nghiên cứu được.",deepseek,deepseek-chat,cesium,False,False,True,False,True,False
+71,Quá trình nào sản xuất glucose từ CO2?,quang hợp,Quá trình quang hợp sản xuất glucose từ CO2.,"**Bước 1 — Nháp:**
+Quá trình quang hợp.
+
+**Bước 2 — Tự kiểm:**
+- Điểm có thể sai hoặc thiếu:
+    1. Quá trình quang hợp tổng quát biến CO₂ và nước thành đường (như glucose) nhờ năng lượng ánh sáng.
+    2. Cụ thể hơn, pha tối của quang hợp (chu trình Calvin) cố định CO₂ và tổng hợp glucose.
+    3. Cần phân biệt với quá trình hô hấp tế bào (phân giải glucose thành CO₂) — đây là ngược lại.
+    4. Có thể nhầm với ""cố định carbon"" hay ""tổng hợp chất hữu cơ"" nhưng tên chính xác nhất là quang hợp.
+
+**Bước 3 — Cuối cùng:**
+Quá trình sản xuất glucose từ CO₂ là **quang hợp**, cụ thể là pha tối (chu trình Calvin) trong quang hợp.","Cuối cùng:**
+Quá trình sản xuất glucose từ CO₂ là **quang hợp**, cụ thể là pha tối (chu trình Calvin) trong quang hợp.",deepseek,deepseek-chat,quang hợp,True,False,False,True,False,False
+72,Hạt nào mang điện tích dương?,proton,Proton mang điện tích dương.,"**Bước 1 — Nháp:**  
+Proton.
+
+**Bước 2 — Tự kiểm:**  
+- Proton mang điện tích dương, đúng.  
+- Có thể nhầm với hạt khác không?  
+  - Electron mang điện tích âm.  
+  - Neutron không mang điện.  
+  - Các hạt khác như positron cũng mang điện dương nhưng không phải hạt cơ bản trong cấu trúc nguyên tử thông thường.  
+- Câu hỏi chỉ nói ""hạt nào"", không giới hạn trong nguyên tử, nhưng trong ngữ cảnh phổ thông thường đề cập proton.  
+- Có thể thiếu nếu đề cập hạt tích điện dương khác (ví dụ: positron, hạt alpha, ion dương), nhưng câu hỏi này thường chỉ muốn một đáp án cơ bản.
+
+**Bước 3 — Cuối cùng:**  
+Hạt proton mang điện tích dương.","Cuối cùng:**  
+Hạt proton mang điện tích dương.",deepseek,deepseek-chat,proton,True,False,False,True,False,False
+73,Enzyme nào tham gia chu trình Krebs?,citrate synthase,"Các enzyme chính tham gia vào Chu trình Krebs bao gồm: citrate synthase, aconitase, isocitrate dehydrogenase, alpha-ketoglutarate dehydrogenase, succinyl-CoA synthetase, succinate dehydrogenase, fumarase và malate dehydrogenase.","**Bước 1 — Nháp:**
+Các enzyme chính tham gia chu trình Krebs bao gồm: citrate synthase, aconitase, isocitrate dehydrogenase, alpha-ketoglutarate dehydrogenase, succinyl-CoA synthetase, succinate dehydrogenase, fumarase, malate dehydrogenase.
+
+**Bước 2 — Tự kiểm:**
+- Có thể thiếu một số enzyme phụ trợ hoặc enzyme điều hòa quan trọng.
+- Tên enzyme có thể viết sai chính tả (ví dụ: ""aconitase"" thay vì ""aconitate hydratase"").
+- Cần đảm bảo rằng danh sách này bao gồm tất cả 8 bước của chu trình.
+- Có thể nhầm lẫn với các enzyme của chuỗi vận chuyển electron.
+
+**Bước 3 — Cuối cùng:**
+Chu trình Krebs (chu trình acid citric) có 8 bước chính với các enzyme tương ứng:
+1. Citrate synthase
+2. Aconitase (hoặc aconitate hydratase)
+3. Isocitrate dehydrogenase
+4. α-Ketoglutarate dehydrogenase
+5. Succinyl-CoA synthetase (hoặc succinate thiokinase)
+6. Succinate dehydrogenase
+7. Fumarase (hoặc fumarate hydratase)
+8. Malate dehydrogenase
+
+Đây là danh sách đầy đủ các enzyme xúc tác cho các phản ứng chính trong chu trình Krebs.","Cuối cùng:**
+Chu trình Krebs (chu trình acid citric) có 8 bước chính với các enzyme tương ứng:
+1. Citrate synthase
+2. Aconitase (hoặc aconitate hydratase)
+3. Isocitrate dehydrogenase
+4. α-Ketoglutarate dehydrogenase
+5. Succinyl-CoA synthetase (hoặc succinate thiokinase)
+6. Succinate dehydrogenase
+7. Fumarase (hoặc fumarate hydratase)
+8. Malate dehydrogenase
+
+Đây là danh sách đầy đủ các enzyme xúc tác cho các phản ứng chính trong chu trình Krebs.",deepseek,deepseek-chat,citrate synthase,True,False,False,True,False,False
+74,Nguyên tố nào có độ âm điện lớn nhất?,fluorine,"Flo (Flo) là nguyên tố có độ âm điện lớn nhất, với giá trị 3,98 trên thang Pauling.","**Bước 1 — Nháp:**  
+Flor (F) có độ âm điện lớn nhất trong bảng tuần hoàn, giá trị 4,0 theo thang Pauling.
+
+**Bước 2 — Tự kiểm:**  
+- Có thể nhầm với oxi (3,44) hoặc clo (3,16), nhưng F vẫn cao hơn.  
+- Một số nguồn có thể đề cập đến nguyên tố nhân tạo (tennessine, Ts) nhưng chưa có giá trị đo chắc chắn và F vẫn được công nhận rộng rãi nhất.  
+- Cần xác nhận: theo dữ liệu phổ biến, F là lớn nhất trong các nguyên tố đã biết đầy đủ tính chất.
+
+**Bước 3 — Cuối cùng:**  
+Flor (F) là nguyên tố có độ âm điện lớn nhất.","Cuối cùng:**  
+Flor (F) là nguyên tố có độ âm điện lớn nhất.",deepseek,deepseek-chat,fluorine,False,False,True,False,False,True
+75,Vitamin nào cần thiết cho hấp thụ canxi?,vitamin D,Vitamin D là vitamin cần thiết cho sự hấp thụ canxi.,"**Bước 1 — Nháp:**
+Vitamin D.
+
+**Bước 2 — Tự kiểm:**
+- Vitamin D giúp ruột hấp thụ canxi là đúng.
+- Có thể cần nói rõ là Vitamin D3 (cholecalciferol) hay D2 (ergocalciferol) không? Nhưng thường đề cập chung là Vitamin D.
+- Vitamin K cũng liên quan đến chuyển hóa canxi (giúp gắn canxi vào xương), nhưng không trực tiếp giúp hấp thu ở ruột như Vitamin D.
+- Câu hỏi chỉ hỏi ""cần thiết cho hấp thụ canxi"" → Vitamin D là chính xác nhất.
+
+**Bước 3 — Cuối cùng:**
+Vitamin D.","Cuối cùng:**
+Vitamin D.",deepseek,deepseek-chat,vitamin D,True,False,False,True,False,False
+76,Tế bào nào sản xuất acid gastric?,parietal cell,"Các tế bào thành (parietal cells) trong dạ dày là tế bào chịu trách nhiệm chính sản xuất acid hydrochloric (HCl), thành phần chính của acid dịch vị (gastric acid).","**Bước 1 — Nháp:**
+Tế bào thành (parietal cell) trong dạ dày sản xuất acid hydrochloric (HCl) - thành phần chính của acid dịch vị.
+
+**Bước 2 — Tự kiểm:**
+- **Tên gọi:** ""Tế bào thành"" là tên thông dụng, tên chính xác trong sinh lý học là ""tế bào viền"" hoặc ""tế bào parietal"".
+- **Vị trí:** Các tế bào này nằm ở các tuyến của niêm mạc dạ dày, chủ yếu ở thân và đáy vị.
+- **Thành phần sản xuất:** Chúng sản xuất ra HCl (acid hydrochloric) và cả yếu tố nội tại (intrinsic factor) - một chất cần thiết cho sự hấp thu vitamin B12.
+- **Khả năng thiếu sót:** Câu trả lời nháp chỉ đề cập đến tế bào chính, nhưng cần xác nhận liệu có loại tế bào nào khác góp phần trực tiếp vào việc tạo ra acid hay không. Sau khi kiểm tra, tế bào thành là tế bào DUY NHẤT trực tiếp bài tiết HCl vào lòng dạ dày.
+
+**Bước 3 — Cuối cùng:**
+**Đáp án cuối cùng:** Tế bào viền (parietal cell) trong các tuyến của niêm mạc dạ dày là tế bào sản xuất acid hydrochloric (HCl) cho dịch vị.",cuối cùng:** Tế bào viền (parietal cell) trong các tuyến của niêm mạc dạ dày là tế bào sản xuất acid hydrochloric (HCl) cho dịch vị.,deepseek,deepseek-chat,parietal cell,True,False,False,True,False,False
+77,Nguyên tố nào tạo thành protein?,carbon,"Protein được cấu tạo chủ yếu từ các nguyên tố carbon (C), hydro (H), oxy (O), nitơ (N) và một lượng nhỏ lưu huỳnh (S).","**Bước 1 — Nháp:**
+Protein được tạo thành từ các nguyên tố carbon (C), hydro (H), oxy (O), nitơ (N) và một lượng nhỏ lưu huỳnh (S).
+
+**Bước 2 — Tự kiểm:**
+- Các nguyên tố chính: C, H, O, N là đúng.
+- Nguyên tố phụ: Lưu huỳnh (S) có trong một số axit amin (như cysteine, methionine), vậy cần phải có.
+- Có thể thiếu photpho (P) không? Protein thông thường không chứa P, trừ một số protein có gắn nhóm phosphate (protein phosphoryl hóa), nhưng đây là trường hợp đặc biệt, không phải thành phần cơ bản cấu tạo nên protein. Vậy không cần liệt kê P.
+- Có cần nói rõ ""chủ yếu"" hay ""cơ bản"" không? Nên nêu rõ để tránh hiểu lầm.
+
+**Bước 3 — Cuối cùng:**
+Protein được cấu tạo chủ yếu từ các nguyên tố **carbon (C), hydro (H), oxy (O), nitơ (N)**. Ngoài ra, một số protein còn chứa nguyên tố **lưu huỳnh (S)**.","Cuối cùng:**
+Protein được cấu tạo chủ yếu từ các nguyên tố **carbon (C), hydro (H), oxy (O), nitơ (N)**. Ngoài ra, một số protein còn chứa nguyên tố **lưu huỳnh (S)**.",deepseek,deepseek-chat,carbon,True,False,False,True,False,False
+78,Hormone nào kích thích phóng trứng?,LH,Hormone luteinizing (LH) là hormone chính kích thích sự rụng trứng.,"**Bước 1 — Nháp:**
+Hormone LH (Luteinizing hormone).
+
+**Bước 2 — Tự kiểm:**
+- Điểm có thể sai hoặc thiếu:
+    1. Có thể nhầm với FSH (hormone kích thích nang trứng), nhưng FSH chủ yếu thúc đẩy sự phát triển của nang trứng, còn LH mới gây ra sự rụng trứng.
+    2. Có thể cần đề cập đến ""đỉnh LH"" (LH surge) là yếu tố trực tiếp kích thích rụng trứng.
+    3. Có thể quên rằng sự phóng noãn là kết quả của sự phối hợp nhiều hormone, nhưng LH đóng vai trò then chốt.
+
+**Bước 3 — Cuối cùng:**
+Hormone chính kích thích phóng trứng (rụng trứng) là **LH (Luteinizing hormone)**. Sự gia tăng đột ngột nồng độ LH (đỉnh LH) từ tuyến yên sẽ kích hoạt quá trình này.","Cuối cùng:**
+Hormone chính kích thích phóng trứng (rụng trứng) là **LH (Luteinizing hormone)**. Sự gia tăng đột ngột nồng độ LH (đỉnh LH) từ tuyến yên sẽ kích hoạt quá trình này.",deepseek,deepseek-chat,LH,True,False,False,True,False,False
+79,Loại bức xạ nào ion hóa mạnh nhất?,tia alpha,"Bức xạ alpha (chùm hạt nhân Heli) được coi là có khả năng ion hóa mạnh nhất do nó mang điện tích dương và có khối lượng lớn, mất năng lượng rất nhanh khi tương tác với vật chất.","**Bước 1 — Nháp:**
+Alpha.
+
+**Bước 2 — Tự kiểm:**
+- Bức xạ alpha (hạt nhân Heli) có khối lượng lớn, điện tích +2e, năng lượng cao.
+- Mất năng lượng rất nhanh khi tương tác với vật chất, tạo ra mật độ ion hóa cực cao trên quãng đường ngắn.
+- So với beta (electron) và gamma (photon): beta ion hóa yếu hơn, gamma ion hóa yếu nhất (xuyên sâu nhưng ít tương tác).
+- Có thể sai nếu nhầm với ""xuyên sâu nhất"" (thì gamma mạnh nhất) nhưng đây là ""ion hóa mạnh nhất"" → alpha đúng.
+
+**Bước 3 — Cuối cùng:**
+Bức xạ alpha ion hóa mạnh nhất.","Cuối cùng:**
+Bức xạ alpha ion hóa mạnh nhất.",deepseek,deepseek-chat,tia alpha,False,False,True,False,False,True
+80,Protein nào vận chuyển lipid trong máu?,apolipoprotein,Lipoprotein là protein vận chuyển lipid trong máu.,"**Bước 1 — Nháp:**
+Lipoprotein.
+
+**Bước 2 — Tự kiểm:**
+- Điểm có thể thiếu: Câu trả lời ""Lipoprotein"" là đúng, nhưng có thể cần nêu rõ hơn rằng đây là một nhóm protein, không phải một loại duy nhất. Các loại lipoprotein chính vận chuyển lipid trong máu gồm: Chylomicron, VLDL, LDL, HDL.
+- Điểm có thể sai: Không có sai sót lớn, nhưng nếu chỉ trả lời ""Lipoprotein"" có thể chưa đủ chi tiết theo yêu cầu của một số câu hỏi chuyên sâu.
+- Cần bổ sung: Chức năng chính của chúng là vận chuyển triglyceride và cholesterol.
+
+**Bước 3 — Cuối cùng:**
+Các protein vận chuyển lipid trong máu là **Lipoprotein**. Các loại chính bao gồm Chylomicron, VLDL, LDL và HDL, có nhiệm vụ vận chuyển triglyceride và cholesterol đến và đi từ các mô trong cơ thể.","Cuối cùng:**
+Các protein vận chuyển lipid trong máu là **Lipoprotein**. Các loại chính bao gồm Chylomicron, VLDL, LDL và HDL, có nhiệm vụ vận chuyển triglyceride và cholesterol đến và đi từ các mô trong cơ thể.",deepseek,deepseek-chat,apolipoprotein,False,False,True,False,False,True
+81,Nguyên tố nào có năng lượng ion hóa thấp nhất?,cesium,Franxi (Fr) là nguyên tố có năng lượng ion hóa thấp nhất.,"**Bước 1 — Nháp:**
+Năng lượng ion hóa thấp nhất → kim loại mạnh nhất, dễ mất electron nhất → thuộc nhóm IA, chu kỳ lớn → Franxi (Fr).
+
+**Bước 2 — Tự kiểm:**
+- Franxi là nguyên tố có tính kim loại mạnh nhất trong bảng tuần hoàn, nằm cuối nhóm 1, nên lý thuyết nó có năng lượng ion hóa thấp nhất.
+- Tuy nhiên, Fr rất hiếm và không bền (phóng xạ), nhưng điều đó không ảnh hưởng đến xu hướng tuần hoàn.
+- Một số tài liệu có thể nói Xesi (Cs) vì Fr ít gặp trong thực tế, nhưng về mặt lý thuyết, Fr vẫn thấp hơn Cs.
+
+**Bước 3 — Cuối cùng:**
+Về mặt lý thuyết, Franxi (Fr) có năng lượng ion hóa thấp nhất trong bảng tuần hoàn các nguyên tố.","Cuối cùng:**
+Về mặt lý thuyết, Franxi (Fr) có năng lượng ion hóa thấp nhất trong bảng tuần hoàn các nguyên tố.",deepseek,deepseek-chat,cesium,False,False,True,False,False,True
+82,Quá trình nào tái tạo NAD+ từ NADH?,chuỗi electron,Quá trình oxy hóa NADH trong chuỗi chuyền điện tử (hô hấp tế bào) là quá trình chính tái tạo NAD+ từ NADH.,"**Bước 1 – Nháp**  
+Quá trình lên men (fermentation) tái tạo NAD⁺ từ NADH trong điều kiện không có oxy.  
+
+**Bước 2 – Tự kiểm**  
+- Có thể thiếu: quá trình hô hấp hiếu khí cũng tái tạo NAD⁺ từ NADH thông qua chuỗi truyền điện tử, nhưng câu hỏi này thường muốn nhấn mạnh tình huống *thiếu oxy* (lên men).  
+- Cần nói rõ: lên men giúp tái tạo NAD⁺ để duy trì đường phân (glycolysis) tiếp tục.  
+
+**Bước 3 – Cuối cùng**  
+Quá trình chính tái tạo NAD⁺ từ NADH trong điều kiện kỵ khí là **lên men** (ví dụ: lên men lactic, lên men rượu).  
+Trong điều kiện hiếu khí, **hô hấp tế bào** (thông qua chuỗi vận chuyển điện tử) thực hiện việc này.","Cuối cùng**  
+Quá trình chính tái tạo NAD⁺ từ NADH trong điều kiện kỵ khí là **lên men** (ví dụ: lên men lactic, lên men rượu).  
+Trong điều kiện hiếu khí, **hô hấp tế bào** (thông qua chuỗi vận chuyển điện tử) thực hiện việc này.",deepseek,deepseek-chat,chuỗi electron,False,False,True,False,False,True
+83,Hạt nào không có khối lượng nghỉ?,photon,Các hạt photon (ánh sáng) và gluon không có khối lượng nghỉ.,"**Bước 1 – Nháp:**  
+Photon (ánh sáng).
+
+**Bước 2 – Tự kiểm:**  
+- Photon có khối lượng nghỉ bằng 0, chỉ có khối lượng tương đối tính khi có năng lượng.  
+- Có thể nhầm với neutrino trước đây từng nghĩ không khối lượng nhưng nay biết là có khối lượng rất nhỏ.  
+- Graviton (nếu tồn tại) cũng được dự đoán không khối lượng, nhưng chưa phát hiện.  
+- Câu hỏi này thường chỉ xét các hạt cơ bản đã biết → photon là đáp án chuẩn.
+
+**Bước 3 – Cuối cùng:**  
+Photon không có khối lượng nghỉ.","Cuối cùng:**  
+Photon không có khối lượng nghỉ.",deepseek,deepseek-chat,photon,True,False,False,True,False,False
+84,Enzyme nào bắt đầu tiêu hóa protein?,pepsin,Enzyme pepsin bắt đầu tiêu hóa protein trong dạ dày.,"**Bước 1 — Nháp:**
+Enzyme pepsin.
+
+**Bước 2 — Tự kiểm:**
+- Pepsin hoạt động trong dạ dày, nơi bắt đầu quá trình tiêu hóa protein thực sự bằng enzyme.
+- Có thể thiếu: Trong miệng không có enzyme tiêu hóa protein, nên pepsin là enzyme đầu tiên.
+- Cần xác nhận: Pepsin được tiết ra dưới dạng pepsinogen không hoạt động, và HCl trong dạ dày kích hoạt nó thành pepsin.
+
+**Bước 3 — Cuối cùng:**
+Enzyme pepsin bắt đầu tiêu hóa protein trong dạ dày.","Cuối cùng:**
+Enzyme pepsin bắt đầu tiêu hóa protein trong dạ dày.",deepseek,deepseek-chat,pepsin,True,False,False,True,False,False
+85,Nguyên tố nào có bán kính nguyên tử nhỏ nhất?,helium,Nguyên tố có bán kính nguyên tử nhỏ nhất là Heli.,"**Bước 1 — Nháp:**  
+Flo (F) có bán kính nguyên tử nhỏ nhất trong bảng tuần hoàn (trừ khí hiếm vì dữ liệu bán kính nguyên tử của chúng không xác định rõ ràng như các nguyên tố khác).
+
+**Bước 2 — Tự kiểm:**  
+- Xu hướng bán kính nguyên tử trong bảng tuần hoàn: tăng từ trên xuống dưới trong một nhóm, giảm từ trái sang phải trong một chu kỳ.  
+- Nguyên tố có bán kính nhỏ nhất thường nằm ở góc trên bên phải (trước khí hiếm).  
+- Flo (F) ở chu kỳ 2, nhóm 17, nhưng cần xem xét có nguyên tố nào nhỏ hơn không?  
+- Heli (He) ở chu kỳ 1, nhóm 18, có thể có bán kính nhỏ hơn Flo vì chỉ có 2 electron và hạt nhân hút mạnh.  
+- Dữ liệu thực nghiệm: Bán kính cộng hóa trị của He khoảng 31 pm, của F khoảng 57 pm, của H khoảng 53 pm. Vậy He nhỏ nhất.  
+- Tuy nhiên, một số tài liệu chỉ xét nguyên tố thuộc nhóm chính (không xét khí hiếm) thì Flo nhỏ nhất.  
+- Nhưng câu hỏi không loại trừ khí hiếm → Heli là đáp án đúng.
+
+**Bước 3 — Cuối cùng:**  
+Heli (He) có bán kính nguyên tử nhỏ nhất trong tất cả các nguyên tố.","Cuối cùng:**  
+Heli (He) có bán kính nguyên tử nhỏ nhất trong tất cả các nguyên tố.",deepseek,deepseek-chat,helium,False,False,True,False,False,True
+86,Vitamin nào hòa tan trong chất béo?,vitamin A,"Các vitamin tan trong chất béo là Vitamin A, Vitamin D, Vitamin E và Vitamin K.","**Bước 1 — Nháp:**
+Vitamin A, D, E, K.
+
+**Bước 2 — Tự kiểm:**
+- Có thể sai nếu nhầm với vitamin tan trong nước (như C, B).
+- Cần kiểm tra xem có thiếu vitamin nào không? Các vitamin tan trong dầu thường được ghi nhớ bằng cụm ""ADEK"".
+- Có thể cần giải thích ngắn gọn ""tan trong chất béo"" nghĩa là gì.
+
+**Bước 3 — Cuối cùng:**
+Các vitamin tan trong chất béo là vitamin A, D, E và K. Chúng được dự trữ trong các mô mỡ của cơ thể.","Cuối cùng:**
+Các vitamin tan trong chất béo là vitamin A, D, E và K. Chúng được dự trữ trong các mô mỡ của cơ thể.",deepseek,deepseek-chat,vitamin A,True,False,False,True,False,False
+87,Tế bào nào sản xuất insulin-like growth factor?,hepatocyte,Các tế bào sản xuất insulin-like growth factor (IGF) chủ yếu là tế bào gan.,"**Bước 1 — Nháp:**
+
+Tế bào gan (tế bào Kupffer) và tế bào sụn (tế bào sụn khớp).
+
+**Bước 2 — Tự kiểm:**
+
+- **Điểm có thể sai:** Câu trả lời ban đầu chưa đầy đủ. IGF-1 chủ yếu được sản xuất ở gan dưới sự kích thích của hormone tăng trưởng (GH), nhưng tế bào sản xuất chính là **tế bào gan (hepatocytes)**, không phải tế bào Kupffer (tế bào Kupffer là đại thực bào ở gan, không sản xuất IGF-1).
+- **Điểm thiếu:** Ngoài gan, nhiều mô khác cũng sản xuất IGF-1 (tại chỗ) như tế bào sụn, tế bào cơ, tế bào xương, v.v. Nhưng nguồn chính vào máu là từ gan.
+- **Cần phân biệt IGF-1 và IGF-2:** Câu hỏi hỏi chung ""insulin-like growth factor"", nên có thể bao gồm cả IGF-1 và IGF-2. IGF-2 được sản xuất chủ yếu từ gan ở người trưởng thành, và từ nhau thai, gan bào thai.
+
+**Bước 3 — Cuối cùng:**
+
+Tế bào sản xuất chính insulin-like growth factor (IGF, chủ yếu là IGF-1) là **tế bào gan (hepatocytes)**. Ngoài ra, nhiều loại tế bào khác như tế bào sụn, tế bào cơ, tế bào xương cũng sản xuất IGF-1 tại chỗ. IGF-2 được sản xuất chủ yếu từ gan và nhau thai.","Cuối cùng:**
+
+Tế bào sản xuất chính insulin-like growth factor (IGF, chủ yếu là IGF-1) là **tế bào gan (hepatocytes)**. Ngoài ra, nhiều loại tế bào khác như tế bào sụn, tế bào cơ, tế bào xương cũng sản xuất IGF-1 tại chỗ. IGF-2 được sản xuất chủ yếu từ gan và nhau thai.",deepseek,deepseek-chat,hepatocyte,False,False,True,True,False,False
+88,Nguyên tố nào tạo thành axit nucleic?,phosphorus,"Các nguyên tố chính cấu thành nên axit nucleic là carbon (C), hydro (H), oxy (O), nitơ (N) và phốt pho (P).","**Bước 1 — Nháp:**
+Các nguyên tố chính tạo thành axit nucleic (DNA và RNA) là carbon (C), hydro (H), oxy (O), nitơ (N) và phốt pho (P).
+
+**Bước 2 — Tự kiểm:**
+- **Điểm có thể sai hoặc thiếu:**
+    1. **Công thức tổng quát:** Axit nucleic được cấu tạo từ các nucleotide. Mỗi nucleotide gồm 3 phần: đường pentose (C, H, O), nhóm phosphate (P, O, H) và base nitơ (C, H, O, N). Vậy, các nguyên tố cốt lõi là C, H, O, N, P.
+    2. **So sánh với protein:** Protein có C, H, O, N, S (lưu huỳnh) nhưng không có P. Điều này giúp phân biệt, và khẳng định P là nguyên tố đặc trưng cho axit nucleic.
+    3. **Nguyên tố vi lượng:** Một số nguyên tố khác có thể liên kết gián tiếp (như Mg²⁺ ổn định cấu trúc) nhưng không phải là thành phần cấu trúc trực tiếp của phân tử. Câu hỏi hỏi ""tạo thành"" nên chỉ cần liệt kê nguyên tố cấu trúc chính.
+    4. **Kiểm tra lại:** Không thiếu nguyên tố nào trong số C, H, O, N, P.
+
+**Bước 3 — Cuối cùng:**
+Các nguyên tố chính cấu tạo nên axit nucleic là **carbon (C), hydro (H), oxy (O), nitơ (N) và phốt pho (P)**.","Cuối cùng:**
+Các nguyên tố chính cấu tạo nên axit nucleic là **carbon (C), hydro (H), oxy (O), nitơ (N) và phốt pho (P)**.",deepseek,deepseek-chat,phosphorus,False,False,True,False,False,True
+89,Hormone nào điều hòa metabolisme?,thyroid hormone,"Một số hormone chính điều hòa quá trình trao đổi chất (metabolisme) bao gồm:
+- **Tuyến giáp:** Thyroxine (T4) và Triiodothyronine (T3) - điều chỉnh tốc độ trao đổi chất cơ bản.
+- **Tuyến tụy:** Insulin (thúc đẩy dự trữ năng lượng) và Glucagon (thúc đẩy giải phóng năng lượng).
+- **Tuyến yên:** Hormone tăng trưởng (GH).
+- **Tuyến thượng thận:** Cortisol và Adrenaline.","**Bước 1 — Nháp:**
+Các hormone chính điều hòa quá trình trao đổi chất (métabolisme) bao gồm:
+- Insulin
+- Glucagon
+- Hormone tuyến giáp (T3, T4)
+- Cortisol
+- Adrenaline (epinephrine)
+- Hormone tăng trưởng (GH)
+
+**Bước 2 — Tự kiểm:**
+- **Thiếu sót:** Có thể còn thiếu một số hormone khác như leptin (điều hòa cảm giác no và tiêu hao năng lượng), ghrelin (kích thích đói), hormone tuyến cận giáp (PTH, điều hòa chuyển hóa canxi), testosterone và estrogen (ảnh hưởng đến khối lượng cơ và phân bố mỡ).
+- **Nguyên nhân có thể sai:** Câu hỏi hỏi ""hormone nào"" ở số ít, nhưng thực tế có nhiều hormone cùng tham gia. Cần làm rõ là có một hệ thống nhiều hormone, không chỉ một.
+- **Tính chính xác:** Các hormone liệt kê trong bước nháp là những hormone chính, nhưng cần bổ sung thêm để đầy đủ hơn.
+
+**Bước 3 — Cuối cùng:**
+**Đáp án cuối cùng:**
+
+Không có một hormone duy nhất điều hòa trao đổi chất, mà là một hệ thống phối hợp của nhiều hormone. Các hormone chính bao gồm:
+
+1.  **Insulin** (tuyến tụy): Thúc đẩy quá trình đồng hóa, dự trữ năng lượng (hạ đường huyết).
+2.  **Glucagon** (tuyến tụy): Thúc đẩy quá trình dị hóa, giải phóng năng lượng (tăng đường huyết).
+3.  **Hormone tuyến giáp (T3 và T4)**: Điều chỉnh tốc độ trao đổi chất cơ bản của cơ thể.
+4.  **Cortisol** (tuyến thượng thận): Hormone chống stress, tăng đường huyết và thúc đẩy dị hóa.
+5.  **Adrenaline (Epinephrine)** (tuyến thượng thận): Tăng cường dị hóa để cung cấp năng lượng nhanh chóng.
+6.  **Hormone tăng trưởng (GH)** (tuyến yên): Ảnh hưởng đến chuyển hóa protein, chất béo và carbohydrate.
+
+Ngoài ra, các hormone khác cũng có vai trò quan trọng là **Leptin** (điều hòa cảm giác no và tiêu hao năng lượng), **Ghrelin** (kích thích đói), và các hormone sinh dục (**Testosterone, Estrogen**).","cuối cùng:**
+
+Không có một hormone duy nhất điều hòa trao đổi chất, mà là một hệ thống phối hợp của nhiều hormone. Các hormone chính bao gồm:
+
+1.  **Insulin** (tuyến tụy): Thúc đẩy quá trình đồng hóa, dự trữ năng lượng (hạ đường huyết).
+2.  **Glucagon** (tuyến tụy): Thúc đẩy quá trình dị hóa, giải phóng năng lượng (tăng đường huyết).
+3.  **Hormone tuyến giáp (T3 và T4)**: Điều chỉnh tốc độ trao đổi chất cơ bản của cơ thể.
+4.  **Cortisol** (tuyến thượng thận): Hormone chống stress, tăng đường huyết và thúc đẩy dị hóa.
+5.  **Adrenaline (Epinephrine)** (tuyến thượng thận): Tăng cường dị hóa để cung cấp năng lượng nhanh chóng.
+6.  **Hormone tăng trưởng (GH)** (tuyến yên): Ảnh hưởng đến chuyển hóa protein, chất béo và carbohydrate.
+
+Ngoài ra, các hormone khác cũng có vai trò quan trọng là **Leptin** (điều hòa cảm giác no và tiêu hao năng lượng), **Ghrelin** (kích thích đói), và các hormone sinh dục (**Testosterone, Estrogen**).",deepseek,deepseek-chat,thyroid hormone,False,False,True,False,False,True
+90,Loại phân rã nào tạo ra helium?,phân rã alpha,Phân rã alpha tạo ra hạt nhân Helium-4.,"**Bước 1 — Nháp:**
+Phân rã alpha. Hạt alpha là hạt nhân Heli-4 (2 proton, 2 neutron).
+
+**Bước 2 — Tự kiểm:**
+- Điểm có thể sai: Câu hỏi có thể muốn hỏi về một quá trình khác tạo ra helium (ví dụ: phản ứng tổng hợp hạt nhân trong mặt trời). Tuy nhiên, trong bối cảnh ""phân rã"" phóng xạ, phân rã alpha là câu trả lời chính xác và trực tiếp nhất.
+- Điểm thiếu: Có thể nói rõ hơn rằng hạt alpha (α) chính là hạt nhân nguyên tử Heli-4 (\( ^{4}_{2}\text{He}^{2+} \)).
+
+**Bước 3 — Cuối cùng:**
+**Đáp án cuối cùng:** Phân rã alpha. Trong phân rã này, hạt nhân mẹ phát ra một hạt alpha, chính là hạt nhân của nguyên tử Heli-4 (\( ^{4}_{2}\text{He} \)).","cuối cùng:** Phân rã alpha. Trong phân rã này, hạt nhân mẹ phát ra một hạt alpha, chính là hạt nhân của nguyên tử Heli-4 (\( ^{4}_{2}\text{He} \)).",deepseek,deepseek-chat,phân rã alpha,True,False,False,True,False,False
+91,Protein nào liên kết oxy trong cơ?,myoglobin,Myoglobin là protein chính liên kết và lưu trữ oxy trong mô cơ.,"**Bước 1 — Nháp:**
+Myoglobin.
+
+**Bước 2 — Tự kiểm:**
+- Điểm có thể sai: Câu hỏi hỏi ""trong cơ"". Có hai protein liên kết oxy chính là hemoglobin (trong máu) và myoglobin (trong cơ).
+- Có thiếu không? Myoglobin là câu trả lời chính xác và trực tiếp nhất cho ""protein nào liên kết oxy trong cơ"". Hemoglobin vận chuyển oxy trong máu đến các mô cơ, nhưng chính myoglobin mới là protein dự trữ và liên kết oxy ngay bên trong tế bào cơ.
+
+**Bước 3 — Cuối cùng:**
+Myoglobin.","Cuối cùng:**
+Myoglobin.",deepseek,deepseek-chat,myoglobin,True,False,False,True,False,False
+92,Nguyên tố nào có khả năng tạo liên kết nhiều nhất?,carbon,"Carbon có khả năng tạo ra nhiều liên kết nhất, chủ yếu là do đặc tính catenation độc đáo của nó, cho phép nó tạo thành các chuỗi, vòng và cấu trúc phức tạp ổn định với chính nó và các nguyên tố khác.","**Bước 1 – Nháp**  
+Các nguyên tố có khả năng tạo nhiều liên kết thường là những nguyên tố có nhiều orbital trống hoặc có thể tạo nhiều liên kết cộng hóa trị nhờ số oxi hóa đa dạng và khả năng tạo liên kết đôi, ba, hoặc liên kết phối trí.  
+Carbon có thể tạo 4 liên kết cộng hóa trị, nhưng các nguyên tố ở chu kỳ lớn hơn như lưu huỳnh, phosphor, một số kim loại chuyển tiếp có thể có số phối trí lớn hơn.  
+Tuy nhiên, nếu xét theo số lượng liên kết cộng hóa trị mà một nguyên tử có thể hình thành trực tiếp trong các hợp chất bền, thì carbon chỉ tạo tối đa 4 liên kết. Nhưng nếu tính cả liên kết phối trí, các nguyên tố như sulfur trong H₂SO₄ có 6 liên kết với oxi (2 liên kết đôi, 2 liên kết cho–nhận).  
+Nguyên tố trong nhóm carbon có thể tạo nhiều liên kết nhất nếu tính theo độ đa dạng và số lượng hợp chất: carbon có hàng triệu hợp chất hữu cơ.  
+Nhưng nếu nói “nhiều nhất” theo số liên kết từ một nguyên tử trong một phân tử thì có thể là các nguyên tố chu kỳ 3 trở lên như S, P, Cl, hoặc kim loại chuyển tiếp có số phối trí cao (vd: Mo, W trong phức chất có số phối trí 8, 9).  
+
+Tạm kết luận nháp: **Lưu huỳnh (S)** hoặc **Carbon (C)** tùy tiêu chí. Nhưng nếu là “khả năng tạo liên kết” theo nghĩa hóa học phổ thông, thường chọn C vì tạo được mạch, vòng, nhiều hợp chất.  
+
+---
+
+**Bước 2 – Tự kiểm**  
+
+- **Điểm có thể sai**:  
+  1. Không rõ “nhiều nhất” là số lượng liên kết từ 1 nguyên tử trong 1 hợp chất hay số loại liên kết hay số hợp chất tạo ra.  
+  2. Carbon chỉ tạo tối đa 4 liên kết đơn, nhưng có thể có liên kết đôi, ba → vẫn là 4 liên kết cộng hóa trị.  
+  3. Nguyên tố chu kỳ 3 có orbital d có thể mở rộng octet, ví dụ P trong PCl₅ có 5 liên kết, S trong SF₆ có 6 liên kết.  
+  4. Kim loại chuyển tiếp trong phức chất có số phối trí có thể lên đến 12 (ví dụ một số phức của U, Ce).  
+  5. Nếu tính “khả năng tạo liên kết” theo số lượng hợp chất → carbon rõ ràng nhất.  
+  6. Đề bài không rõ ngữ cảnh, nhưng thường câu hỏi này trong hóa phổ thông đáp án là carbon.  
+
+- **Thiếu**:  
+  Chưa xét đến hydrogen (chỉ 1 liên kết), oxygen (thường 2 liên kết), nitrogen (3 liên kết). Vậy carbon (4 liên kết) đã nhiều hơn các nguyên tố chu kỳ 2 khác. Nhưng nếu so số liên kết tối đa trong 1 phân tử thì sulfur (6), phosphorus (5), iodine (7 trong IF₇) nhiều hơn.  
+
+---
+
+**Bước 3 – Đáp án cuối cùng**  
+
+Nếu hiểu “khả năng tạo liên kết nhiều nhất” là **tạo được nhiều loại hợp chất nhất và tạo nhiều liên kết trong các hợp chất đa dạng** → **Carbon (C)**.  
+Nếu hiểu là **số liên kết tối đa quanh 1 nguyên tử trong một phân tử ổn định** → có thể là **Iodine (trong IF₇ có 7 liên kết) hoặc một số kim loại trong phức có số phối trí cao hơn**.  
+
+Nhưng trong hóa học phổ thông, câu trả lời điển hình là **Carbon**.  
+
+**Đáp án:** Carbon (C)","cuối cùng**  
+
+Nếu hiểu “khả năng tạo liên kết nhiều nhất” là **tạo được nhiều loại hợp chất nhất và tạo nhiều liên kết trong các hợp chất đa dạng** → **Carbon (C)**.  
+Nếu hiểu là **số liên kết tối đa quanh 1 nguyên tử trong một phân tử ổn định** → có thể là **Iodine (trong IF₇ có 7 liên kết) hoặc một số kim loại trong phức có số phối trí cao hơn**.  
+
+Nhưng trong hóa học phổ thông, câu trả lời điển hình là **Carbon**.  
+
+**Đáp án:** Carbon (C)",deepseek,deepseek-chat,carbon,True,False,False,True,True,False
+93,Quá trình nào chuyển pyruvate thành acetyl-CoA?,pyruvate dehydrogenase,Quá trình decarboxylase oxy hóa pyruvate.,"**Bước 1 — Nháp**  
+Pyruvate được chuyển thành acetyl-CoA bằng quá trình **decarboxylation oxy hóa** (oxidative decarboxylation), xảy ra trong ty thể, được xúc tác bởi phức hợp pyruvate dehydrogenase.
+
+**Bước 2 — Tự kiểm**  
+- Tên gọi chính xác: ""Oxidative decarboxylation"" hay ""Pyruvate dehydrogenase complex reaction"".  
+- Vị trí: Ty thể, không phải bào tương.  
+- Sản phẩm: Acetyl-CoA + CO₂ + NADH.  
+- Có thể nhầm với quá trình lên men (fermentation) hoặc carboxyl hóa pyruvate (không tạo acetyl-CoA).  
+- Kiểm tra: Đây là bước chuẩn bị cho chu trình Krebs, sau glycolysis.
+
+**Bước 3 — Cuối cùng**  
+Quá trình chuyển pyruvate thành acetyl-CoA là **decarboxylation oxy hóa pyruvate** (pyruvate oxidative decarboxylation), thực hiện bởi phức hợp enzyme pyruvate dehydrogenase trong ty thể.","Cuối cùng**  
+Quá trình chuyển pyruvate thành acetyl-CoA là **decarboxylation oxy hóa pyruvate** (pyruvate oxidative decarboxylation), thực hiện bởi phức hợp enzyme pyruvate dehydrogenase trong ty thể.",deepseek,deepseek-chat,pyruvate dehydrogenase,False,False,True,True,False,False
+94,Hạt nào có spin bằng 1/2?,electron,"Các hạt có spin bằng 1/2 là các fermion, bao gồm các hạt cơ bản như electron, quark và các hạt hợp thành từ chúng như proton, neutron.","**Bước 1 — Nháp:**
+Hạt có spin bằng 1/2 là các fermion, ví dụ: electron, proton, neutron, quark, neutrino.
+
+**Bước 2 — Tự kiểm:**
+- Điểm có thể sai: Neutron và proton thực ra là hadron tổ hợp từ quark (quark có spin 1/2), nhưng bản thân neutron và proton có spin tổng cộng là 1/2, vẫn đúng.
+- Có thể thiếu: Cần phân biệt rõ hạt cơ bản spin 1/2 (electron, quark, neutrino) và hạt tổ hợp spin 1/2 (proton, neutron, một số hạt nhân nguyên tử).
+- Câu hỏi chỉ yêu cầu ""hạt nào"", không giới hạn hạt cơ bản hay tổ hợp, nên các ví dụ trên đều hợp lệ.
+
+**Bước 3 — Cuối cùng:**
+Các hạt có spin bằng 1/2 là các fermion, bao gồm:
+- **Hạt cơ bản**: electron, muon, tau, neutrino, quark.
+- **Hạt tổ hợp**: proton, neutron, và nhiều hạt nhân nguyên tử có spin bán nguyên.","Cuối cùng:**
+Các hạt có spin bằng 1/2 là các fermion, bao gồm:
+- **Hạt cơ bản**: electron, muon, tau, neutrino, quark.
+- **Hạt tổ hợp**: proton, neutron, và nhiều hạt nhân nguyên tử có spin bán nguyên.",deepseek,deepseek-chat,electron,True,False,False,True,False,False
+95,Enzyme nào tổng hợp RNA?,RNA polymerase,Enzyme chính tổng hợp RNA là RNA polymerase.,"**Bước 1 — Nháp:**
+Enzyme tổng hợp RNA là RNA polymerase.
+
+**Bước 2 — Tự kiểm:**
+- Điểm có thể sai: Câu hỏi có thể đề cập đến sinh vật nhân sơ hay nhân thực? Ở nhân sơ có một loại RNA polymerase chính, còn ở nhân thực có nhiều loại (RNA polymerase I, II, III) phụ trách tổng hợp các loại RNA khác nhau.
+- Điểm thiếu: Cần nêu rõ là tổng hợp RNA từ khuôn DNA (phiên mã). Ngoài ra, một số virus có enzyme RNA polymerase phụ thuộc RNA (tổng hợp RNA từ khuôn RNA), nhưng trong ngữ cảnh sinh học tế bào cơ bản, câu trả lời chính xác nhất là RNA polymerase phụ thuộc DNA.
+
+**Bước 3 — Cuối cùng:**
+Enzyme chính tổng hợp RNA từ khuôn DNA trong quá trình phiên mã là **RNA polymerase**.","Cuối cùng:**
+Enzyme chính tổng hợp RNA từ khuôn DNA trong quá trình phiên mã là **RNA polymerase**.",deepseek,deepseek-chat,RNA polymerase,True,False,False,True,False,False
+96,Nguyên tố nào có nhiệt dung riêng cao nhất?,hydrogen,"Nước ở dạng lỏng có nhiệt dung riêng cao nhất trong số các chất phổ biến, ở mức 4.1813 J/(g·K) ở 25 °C. Trong số các nguyên tố ở trạng thái rắn, nguyên tố có nhiệt dung riêng cao nhất thường được ghi nhận là Liti (Li) với giá trị khoảng 3.58 J/(g·K).","**Bước 1 – Nháp:**  
+Nước có nhiệt dung riêng cao nhất trong các chất phổ biến (khoảng 4184 J/(kg·K) ở 15°C). Nếu hỏi về nguyên tố đơn chất (không phải hợp chất) ở điều kiện thường, có thể là Liti (Li) với nhiệt dung riêng khoảng 3580 J/(kg·K) ở 25°C.
+
+**Bước 2 – Tự kiểm:**  
+- Câu hỏi là “nguyên tố” → phải là nguyên tố hóa học đơn chất, không phải hợp chất như nước (H₂O).  
+- Nhiệt dung riêng phụ thuộc vào nhiệt độ và trạng thái (rắn, lỏng, khí).  
+- Có thể nhầm giữa “nhiệt dung riêng” (theo khối lượng) và “nhiệt dung mol”.  
+- Dữ liệu ghi nhớ: Liti (rắn) có nhiệt dung riêng cao nhất trong các nguyên tố ở điều kiện thường, tiếp theo là berili, natri… Hydro (khí) có nhiệt dung riêng lớn theo mol nhưng theo khối lượng thì không cao bằng Liti.  
+- Kiểm tra lại: Liti ~ 3,58 kJ/(kg·K), Berili ~ 1,82, Natri ~ 1,23, Nước ~ 4,18. Vậy Liti cao nhất trong các nguyên tố đơn chất.
+
+**Bước 3 – Cuối cùng:**  
+Nguyên tố có nhiệt dung riêng cao nhất (ở trạng thái rắn, 25°C) là **Liti (Li)**.","Cuối cùng:**  
+Nguyên tố có nhiệt dung riêng cao nhất (ở trạng thái rắn, 25°C) là **Liti (Li)**.",deepseek,deepseek-chat,hydrogen,False,False,True,False,False,True
+97,Vitamin nào cần thiết cho chức năng thần kinh?,vitamin B12,"Vitamin B12 là vitamin cần thiết nhất cho chức năng thần kinh, vì nó đóng vai trò quan trọng trong việc duy trì sự khỏe mạnh của tế bào thần kinh và sản xuất myelin. Ngoài ra, vitamin B1 (thiamine), B6 (pyridoxine) và vitamin E cũng rất quan trọng đối với hệ thần kinh.","**Bước 1 — Nháp:**
+Vitamin B12 (cobalamin) và Vitamin B1 (thiamine) là những vitamin quan trọng nhất cho chức năng thần kinh.
+
+**Bước 2 — Tự kiểm:**
+- **Tính chính xác:** Vitamin B12 rất cần thiết cho sự hình thành myelin (lớp vỏ bảo vệ dây thần kinh) và tổng hợp chất dẫn truyền thần kinh. Thiếu hụt B12 gây tổn thương thần kinh nghiêm trọng. Vitamin B1 cũng rất quan trọng cho quá trình chuyển hóa năng lượng trong tế bào thần kinh.
+- **Điểm có thể thiếu:** Có thể còn các vitamin nhóm B khác cũng hỗ trợ chức năng thần kinh, chẳng hạn như Vitamin B6 (pyridoxine) tham gia vào tổng hợp các chất dẫn truyền thần kinh. Vitamin E cũng có vai trò chống oxy hóa, bảo vệ tế bào thần kinh. Câu trả lời ban đầu có thể chưa đầy đủ.
+
+**Bước 3 — Cuối cùng:**
+**Đáp án cuối cùng:** Các vitamin nhóm B là quan trọng nhất cho chức năng thần kinh, đặc biệt là:
+- **Vitamin B12 (Cobalamin):** Thiết yếu cho sự hình thành myelin và sức khỏe của tế bào thần kinh.
+- **Vitamin B1 (Thiamine):** Quan trọng cho quá trình chuyển hóa năng lượng trong não và dẫn truyền thần kinh.
+- **Vitamin B6 (Pyridoxine):** Tham gia vào quá trình tổng hợp các chất dẫn truyền thần kinh như serotonin, dopamine.
+
+Ngoài ra, Vitamin E cũng đóng vai trò bảo vệ tế bào thần kinh khỏi tổn thương oxy hóa.","cuối cùng:** Các vitamin nhóm B là quan trọng nhất cho chức năng thần kinh, đặc biệt là:
+- **Vitamin B12 (Cobalamin):** Thiết yếu cho sự hình thành myelin và sức khỏe của tế bào thần kinh.
+- **Vitamin B1 (Thiamine):** Quan trọng cho quá trình chuyển hóa năng lượng trong não và dẫn truyền thần kinh.
+- **Vitamin B6 (Pyridoxine):** Tham gia vào quá trình tổng hợp các chất dẫn truyền thần kinh như serotonin, dopamine.
+
+Ngoài ra, Vitamin E cũng đóng vai trò bảo vệ tế bào thần kinh khỏi tổn thương oxy hóa.",deepseek,deepseek-chat,vitamin B12,True,False,False,True,False,False
+98,Tế bào nào sản xuất calcitonin?,C cell,Tế bào C (còn gọi là tế bào cận nang) của tuyến giáp là nơi sản xuất calcitonin.,"**Bước 1 — Nháp:**
+Tế bào C (tế bào cận nang) của tuyến giáp.
+
+**Bước 2 — Tự kiểm:**
+- Calcitonin có thực sự được sản xuất bởi tế bào C tuyến giáp không? → Đúng.
+- Tế bào C còn có tên gọi khác không? → Còn gọi là tế bào cận nang (parafollicular cells).
+- Có phải tất cả calcitonin đều từ tuyến giáp? → Ở động vật có vú, chủ yếu từ tế bào C của tuyến giáp; ở các loài khác có thể từ thể ultimobranchial, nhưng câu hỏi này thường đề cập người → vẫn là tế bào C tuyến giáp.
+- Có thể nhầm với tế bào nang giáp (sản xuất hormone giáp T3, T4) → cần phân biệt rõ tế bào C nằm ngoài nang giáp.
+
+**Bước 3 — Cuối cùng:**
+Tế bào C (tế bào cận nang, parafollicular cells) của tuyến giáp.","Cuối cùng:**
+Tế bào C (tế bào cận nang, parafollicular cells) của tuyến giáp.",deepseek,deepseek-chat,C cell,False,False,True,False,False,True
+99,Nguyên tố nào tạo thành amino acid cysteine?,sulfur,"Cysteine được tạo thành từ các nguyên tố carbon (C), hydro (H), oxy (O), nitơ (N) và lưu huỳnh (S).","**Bước 1 – Nháp:**
+Các nguyên tố chính trong cysteine là carbon (C), hydrogen (H), oxygen (O), nitrogen (N) và lưu huỳnh (S).
+
+**Bước 2 – Tự kiểm:**
+- Cysteine là một amino acid, nên chắc chắn có C, H, O, N (giống mọi amino acid khác).
+- Điểm đặc biệt của cysteine so với các amino acid phổ biến khác là có chứa lưu huỳnh (S) trong nhóm thiol (-SH).
+- Kiểm tra công thức hóa học: C₃H₇NO₂S. Vậy có đủ 5 nguyên tố: C, H, N, O, S.
+- Không thiếu nguyên tố nào.
+
+**Bước 3 – Cuối cùng:**
+Các nguyên tố tạo nên cysteine là **carbon (C), hydrogen (H), nitrogen (N), oxygen (O) và lưu huỳnh (S)**.","Cuối cùng:**
+Các nguyên tố tạo nên cysteine là **carbon (C), hydrogen (H), nitrogen (N), oxygen (O) và lưu huỳnh (S)**.",deepseek,deepseek-chat,sulfur,False,False,True,False,False,True
+100,Hormone nào tăng huyết áp?,angiotensin II,"Nhiều hormone có thể làm tăng huyết áp. Các hormone chính bao gồm:
+- **Adrenaline và Noradrenaline** (từ tuyến thượng thận): Tăng nhịp tim và co mạch.
+- **Aldosterone** (từ tuyến thượng thận): Giữ muối và nước, làm tăng thể tích máu.
+- **Renin** (từ thận): Kích hoạt hệ thống Renin-Angiotensin-Aldosterone.
+- **Angiotensin II**: Một hormone mạnh gây co thắt mạch máu trực tiếp.
+- **Vasopressin (ADH)**: Tăng tái hấp thu nước ở thận và gây co mạch.
+- **Cortisol**: Ở nồng độ cao có thể làm tăng huyết áp.","**Bước 1 — Nháp:**
+Các hormone có thể làm tăng huyết áp bao gồm:
+- Adrenaline (epinephrine)
+- Noradrenaline (norepinephrine)
+- Aldosterone
+- Renin (một enzyme, nhưng kích hoạt hệ Renin-Angiotensin-Aldosterone)
+- Angiotensin II
+- Cortisol
+- ADH (hormone chống bài niệu, hay vasopressin)
+
+**Bước 2 — Tự kiểm:**
+- Có thể quên hormone nào không? → Có thể quên **Endothelin** (tuy không phải hormone tuyến nội tiết cổ điển mà là peptide nội mạch, nhưng có tác dụng co mạch mạnh).
+- Có cần phân biệt hormone trực tiếp hay gián tiếp không? → Câu hỏi chỉ hỏi ""hormone nào tăng huyết áp"", không yêu cầu cơ chế chi tiết.
+- Có hormone nào gây tăng huyết áp nhưng ít được biết đến? → Có thể kể thêm **erythropoietin** (khi dùng liều cao gây tăng huyết áp) và **thyroid hormone** (có thể làm tăng huyết áp tâm thu).
+- Kiểm tra xem có hormone nào trong danh sách trên không thực sự trực tiếp tăng huyết áp không? → Về cơ bản tất cả đều có vai trò tăng huyết áp qua cơ chế co mạch, giữ nước, hoặc tăng cung lượng tim.
+
+**Bước 3 — Cuối cùng:**
+Các hormone chính làm tăng huyết áp là:  
+**Adrenaline, Noradrenaline, Aldosterone, Renin (thông qua Angiotensin II), Cortisol, ADH (Vasopressin).**  
+Ngoài ra, Endothelin, Erythropoietin và Thyroid hormone cũng có thể gây tăng huyết áp trong một số trường hợp.","Cuối cùng:**
+Các hormone chính làm tăng huyết áp là:  
+**Adrenaline, Noradrenaline, Aldosterone, Renin (thông qua Angiotensin II), Cortisol, ADH (Vasopressin).**  
+Ngoài ra, Endothelin, Erythropoietin và Thyroid hormone cũng có thể gây tăng huyết áp trong một số trường hợp.",deepseek,deepseek-chat,angiotensin II,True,True,False,True,True,False
+101,Loại sóng nào có tần số cao nhất?,tia gamma,"Trong phổ điện từ, tia gamma có tần số cao nhất.","**Bước 1 — Nháp:**  
+Tia gamma.
+
+**Bước 2 — Tự kiểm:**  
+- Thang sóng điện từ theo tần số tăng dần: sóng radio, vi sóng, hồng ngoại, ánh sáng nhìn thấy, tử ngoại, tia X, tia gamma.  
+- Tia gamma có bước sóng ngắn nhất và tần số cao nhất trong thang sóng điện từ.  
+- Có thể nhầm với tia X, nhưng tia gamma thực sự có tần số cao hơn.  
+- Không có sóng nào trong tự nhiên (trong phổ điện từ) có tần số cao hơn tia gamma.
+
+**Bước 3 — Cuối cùng:**  
+Tia gamma.","Cuối cùng:**  
+Tia gamma.",deepseek,deepseek-chat,tia gamma,True,False,False,True,False,False
+102,Protein nào chính trong móng tay?,keratin,"Keratin là protein chính cấu tạo nên móng tay, tóc và lớp ngoài cùng của da.","**Bước 1 — Nháp:**
+Keratin.
+
+**Bước 2 — Tự kiểm:**
+- Keratin là protein cấu trúc chính của tóc, da và móng, vậy đáp án này hợp lý.
+- Có thể thiếu thông tin rằng nó là loại keratin cứng (hard keratin) chứ không phải keratin mềm ở da.
+- Có thể thiếu chi tiết về các protein phụ khác (như protein liên kết) nhưng keratin là chính.
+
+**Bước 3 — Cuối cùng:**
+Keratin (cụ thể là dạng keratin cứng) là protein chính trong móng tay.","Cuối cùng:**
+Keratin (cụ thể là dạng keratin cứng) là protein chính trong móng tay.",deepseek,deepseek-chat,keratin,True,False,False,True,False,False
+103,Nguyên tố nào có năng lượng liên kết cao nhất?,sắt,Nguyên tố Sắt (Fe-56) có năng lượng liên kết trên mỗi nucleon cao nhất.,"**Bước 1 – Nháp**  
+Năng lượng liên kết cao nhất thường thuộc về nguyên tố có số hiệu nguyên tử trung bình trong bảng tuần hoàn, cụ thể là sắt (Fe), vì hạt nhân của nó có năng lượng liên kết trên mỗi nucleon lớn nhất (~8,8 MeV/nucleon).
+
+**Bước 2 – Tự kiểm**  
+- Có thể nhầm giữa “nguyên tố có năng lượng liên kết cao nhất” với “hạt nhân có năng lượng liên kết trên mỗi nucleon lớn nhất”.  
+- Nếu hiểu là năng lượng liên kết toàn phần thì sẽ là nguyên tố nặng (như uranium), nhưng thông thường trong vật lý hạt nhân, khi nói “năng lượng liên kết cao nhất” người ta thường ngầm hiểu là **trên mỗi nucleon**.  
+- Fe-56 và Ni-62 có giá trị gần cao nhất, nhưng Fe-56 thường được nhắc đến trong sách giáo khoa phổ thông.  
+- Câu hỏi không rõ đơn vị (theo nguyên tử hay hạt nhân), nhưng trong bối cảnh phổ biến, đáp án là sắt.
+
+**Bước 3 – Cuối cùng**  
+Nguyên tố có năng lượng liên kết **trên mỗi nucleon** cao nhất là **Sắt (Fe)**, cụ thể là đồng vị Fe-56.","Cuối cùng**  
+Nguyên tố có năng lượng liên kết **trên mỗi nucleon** cao nhất là **Sắt (Fe)**, cụ thể là đồng vị Fe-56.",deepseek,deepseek-chat,sắt,True,False,False,True,False,False
+104,Quá trình nào tạo urea từ ammonia?,chu trình urea,"Quá trình tổng hợp urea từ ammonia xảy ra thông qua Chu trình urea (còn gọi là Chu trình ornithine), chủ yếu diễn ra trong gan.","**Bước 1 – Nháp**  
+Quá trình tạo urea từ ammonia là **chu trình urea** (còn gọi là chu trình ornithine), chủ yếu diễn ra ở gan.  
+
+**Bước 2 – Tự kiểm**  
+- Đúng tên: chu trình urea (urea cycle) hay chu trình ornithine.  
+- Vị trí: chủ yếu ở gan, một phần ở thận nhưng gan là nơi chính.  
+- Nguyên liệu: NH₃ (ammonia), CO₂, ATP, aspartate.  
+- Sản phẩm: urea, fumarate.  
+- Có thể nhầm với con đường khác: không phải chu trình Krebs, không phải tổng hợp uric acid.  
+- Có thể thiếu enzyme then chốt: carbamoyl phosphate synthetase I (CPS I) bước đầu tiên.  
+
+**Bước 3 – Cuối cùng**  
+Quá trình tạo urea từ ammonia là **chu trình urea (chu trình ornithine)**, diễn ra chủ yếu ở gan, với sự tham gia của ammonia, CO₂ và aspartate thông qua nhiều bước enzyme, sản phẩm cuối là urea.","Cuối cùng**  
+Quá trình tạo urea từ ammonia là **chu trình urea (chu trình ornithine)**, diễn ra chủ yếu ở gan, với sự tham gia của ammonia, CO₂ và aspartate thông qua nhiều bước enzyme, sản phẩm cuối là urea.",deepseek,deepseek-chat,chu trình urea,True,False,False,True,False,False
+105,Hạt nào có thời gian sống ngắn nhất?,muon,"Hạt Higgs có thời gian sống ngắn nhất từng được đo, vào khoảng 10⁻²² giây.","**Bước 1 — Nháp:**  
+Hạt có thời gian sống ngắn nhất là boson Z.
+
+**Bước 2 — Tự kiểm:**  
+- Boson Z có thời gian sống khoảng \( 3 \times 10^{-25} \) giây, rất ngắn.  
+- Nhưng có thể có hạt còn ngắn hơn:  
+  + Một số hạt cơ bản như boson Higgs có thời gian sống cỡ \( 10^{-22} \) giây, dài hơn boson Z.  
+  + Các hạt cộng hưởng (resonance) như Δ(1232) có thời gian sống khoảng \( 10^{-24} \) giây, vẫn dài hơn boson Z.  
+  + Top quark có thời gian sống khoảng \( 5 \times 10^{-25} \) giây, gần bằng boson Z nhưng hơi dài hơn một chút.  
+  + Boson W cũng có thời gian sống tương tự boson Z nhưng dài hơn một chút.  
+- Tuy nhiên, boson Z có thời gian sống ngắn hơn hầu hết các hạt khác, nhưng cần kiểm tra xem có hạt nào ngắn hơn không.  
+- Một số nguồn cho rằng boson Higgs có thời gian sống ngắn hơn boson Z, nhưng tính toán cho thấy boson Higgs (~\( 10^{-22} \) s) thực ra dài hơn boson Z.  
+- Các hạt như top quark phân rã rất nhanh nhưng vẫn lâu hơn boson Z.  
+- Vậy boson Z có thể là hạt có thời gian sống ngắn nhất trong số các hạt đã quan sát trực tiếp.
+
+**Bước 3 — Cuối cùng:**  
+Boson Z có thời gian sống vào khoảng \( 3 \times 10^{-25} \) giây, được coi là ngắn nhất trong số các hạt cơ bản đã biết.","Cuối cùng:**  
+Boson Z có thời gian sống vào khoảng \( 3 \times 10^{-25} \) giây, được coi là ngắn nhất trong số các hạt cơ bản đã biết.",deepseek,deepseek-chat,muon,False,False,True,False,False,True
+106,Enzyme nào phân hủy hydrogen peroxide?,catalase,Enzyme phân hủy hydrogen peroxide (H₂O₂) là **catalase**. Nó xúc tác phản ứng phân hủy H₂O₂ thành nước (H₂O) và oxy (O₂).,"**Bước 1 — Nháp:**
+Catalase.
+
+**Bước 2 — Tự kiểm:**
+- **Tính chính xác:** Catalase là enzyme chính và phổ biến nhất phân hủy hydrogen peroxide (H₂O₂) thành nước và oxy.
+- **Điểm có thể thiếu:** Có một enzyme khác cũng tham gia vào quá trình này là **peroxidase**, nó phân hủy H₂O₂ nhưng sử dụng một chất cho electron (như NADH) để khử H₂O₂ chỉ thành nước, không tạo ra oxy.
+- **Ngữ cảnh câu hỏi:** Câu hỏi rất chung chung, không chỉ định rõ môi trường (ví dụ: trong tế bào máu, gan, hay thực vật). Vì vậy, câu trả lời ""Catalase"" là đủ và chính xác nhất. Tuy nhiên, nếu muốn đầy đủ, có thể đề cập đến peroxidase như một lựa chọn khác.
+
+**Bước 3 — Cuối cùng:**
+Enzyme chính phân hủy hydrogen peroxide là **catalase**. Ngoài ra, peroxidase cũng có khả năng phân hủy hydrogen peroxide.","Cuối cùng:**
+Enzyme chính phân hủy hydrogen peroxide là **catalase**. Ngoài ra, peroxidase cũng có khả năng phân hủy hydrogen peroxide.",deepseek,deepseek-chat,catalase,True,False,False,True,False,False
+107,Nguyên tố nào có tính dẫn nhiệt tốt nhất?,kim cương,Bạc là nguyên tố có tính dẫn nhiệt tốt nhất.,"**Bước 1 — Nháp:**  
+Bạc (Ag).
+
+**Bước 2 — Tự kiểm:**  
+- Tính dẫn nhiệt tốt nhất trong các kim loại thường được nhắc đến là bạc, sau đó đến đồng, vàng, nhôm…  
+- Có thể có vật liệu khác không phải kim loại dẫn nhiệt tốt hơn không? Ví dụ kim cương dẫn nhiệt rất tốt (do phonon) nhưng không phải kim loại.  
+- Câu hỏi hỏi “nguyên tố” → xét tất cả nguyên tố trong bảng tuần hoàn, không chỉ kim loại thông thường.  
+- Kim cương (C) ở dạng tinh thể có độ dẫn nhiệt cao hơn bạc ở nhiệt độ phòng.  
+- Heli lỏng siêu chảy có tính dẫn nhiệt rất cao nhưng là chất lỏng, không phải nguyên tố rắn thông thường.  
+- Vậy câu trả lời có thể là **Carbon (kim cương)** nếu xét mọi dạng thù hình của nguyên tố ở điều kiện thường.
+
+**Bước 3 — Cuối cùng:**  
+Nếu xét tất cả các nguyên tố ở trạng thái rắn trong điều kiện thường, **Carbon (ở dạng kim cương)** có tính dẫn nhiệt tốt nhất (khoảng 1000–2000 W/(m·K), cao hơn bạc ~430 W/(m·K)).  
+Vậy đáp án: **Carbon (kim cương)**.","Cuối cùng:**  
+Nếu xét tất cả các nguyên tố ở trạng thái rắn trong điều kiện thường, **Carbon (ở dạng kim cương)** có tính dẫn nhiệt tốt nhất (khoảng 1000–2000 W/(m·K), cao hơn bạc ~430 W/(m·K)).  
+Vậy đáp án: **Carbon (kim cương)**.",deepseek,deepseek-chat,kim cương,False,False,True,True,False,False
+108,Vitamin nào cần thiết cho tổng hợp DNA?,folate,Axit folic (vitamin B9) và vitamin B12 là những vitamin cần thiết cho quá trình tổng hợp DNA.,"**Bước 1 — Nháp:**
+Vitamin B9 (axit folic) và vitamin B12 (cobalamin).
+
+**Bước 2 — Tự kiểm:**
+- Điểm có thể sai hoặc thiếu:
+  1. Có thể quên vitamin B12 vì nó cũng tham gia vào quá trình tổng hợp DNA, đặc biệt trong quá trình methyl hóa và tạo dTMP.
+  2. Có thể nhầm với các vitamin khác như vitamin C, D, E không liên quan trực tiếp đến tổng hợp DNA.
+  3. Cần nói rõ vai trò: cả B9 và B12 đều cần thiết cho quá trình tổng hợp thymidine (dTMP), một thành phần của DNA.
+
+**Bước 3 — Cuối cùng:**
+Vitamin B9 (axit folic) và vitamin B12 (cobalamin) là những vitamin cần thiết cho tổng hợp DNA, vì chúng tham gia vào quá trình tổng hợp nucleotide, đặc biệt là thymine (dưới dạng dTMP).","Cuối cùng:**
+Vitamin B9 (axit folic) và vitamin B12 (cobalamin) là những vitamin cần thiết cho tổng hợp DNA, vì chúng tham gia vào quá trình tổng hợp nucleotide, đặc biệt là thymine (dưới dạng dTMP).",deepseek,deepseek-chat,folate,False,False,True,False,False,True
+109,Tế bào nào sản xuất erythropoietin?,kidney cell,Thận là cơ quan chính sản xuất erythropoietin. Một lượng nhỏ cũng được sản xuất bởi gan.,"**Bước 1 — Nháp:**
+Thận.
+
+**Bước 2 — Tự kiểm:**
+- **Điểm có thể sai:** Câu trả lời ""Thận"" là đúng, nhưng có thể thiếu chi tiết quan trọng. Erythropoietin (EPO) chủ yếu được sản xuất bởi các tế bào **interstitial peritubular** (cụ thể là các nguyên bào sợi) ở vùng vỏ và vùng cận tủy của thận.
+- **Điểm thiếu:** Trong giai đoạn phôi thai, gan là cơ quan sản xuất chính. Ở người trưởng thành, gan vẫn sản xuất một lượng nhỏ (khoảng 10%) nhưng thận là nguồn chính (khoảng 90%).
+- **Khả năng sai:** Nếu chỉ trả lời ""Thận"" mà không nêu rõ loại tế bào, câu trả lời chưa đầy đủ theo yêu cầu của câu hỏi ""Tế bào nào"".
+
+**Bước 3 — Cuối cùng:**
+**Đáp án cuối cùng:** Ở người trưởng thành, erythropoietin chủ yếu được sản xuất bởi **các tế bào interstitial peritubular (nguyên bào sợi) trong thận**. Một lượng nhỏ được sản xuất bởi tế bào gan.","cuối cùng:** Ở người trưởng thành, erythropoietin chủ yếu được sản xuất bởi **các tế bào interstitial peritubular (nguyên bào sợi) trong thận**. Một lượng nhỏ được sản xuất bởi tế bào gan.",deepseek,deepseek-chat,kidney cell,False,False,True,False,False,True

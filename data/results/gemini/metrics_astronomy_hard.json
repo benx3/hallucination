@@ -1,0 +1,18 @@
+{
+  "total_questions": 115,
+  "direct": {
+    "correct_rate": 0.24347826086956523,
+    "uncertainty_rate": 0.16521739130434782,
+    "hallucination_rate": 0.6347826086956522
+  },
+  "selfcrit": {
+    "correct_rate": 0.26956521739130435,
+    "uncertainty_rate": 0.5391304347826087,
+    "hallucination_rate": 0.33043478260869563
+  },
+  "improvement": {
+    "correct_delta": 0.02608695652173912,
+    "hallucination_delta": 0.30434782608695654,
+    "uncertainty_delta": 0.3739130434782609
+  }
+}

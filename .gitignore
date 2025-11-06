@@ -47,9 +47,10 @@ Thumbs.db
 
 # Project specific
 configs/config.json
-data/results/*/*.csv
-data/results/*/*.json
-data/results/*/*.txt
+# Allow all data files for Streamlit Cloud deployment
+# data/results/*/*.csv
+# data/results/*/*.json
+# data/results/*/*.txt
 !data/results/*/README.md
 *.log
 logs/
