@@ -1,9 +1,0 @@
-{
-  "n_questions": 50,
-  "accuracy_direct": 0.84,
-  "accuracy_selfcrit": 0.84,
-  "hallu_rate_direct": 0.16,
-  "hallu_rate_selfcrit": 0.14,
-  "accuracy_gain": 0.0,
-  "hallu_reduction": 0.02
-}

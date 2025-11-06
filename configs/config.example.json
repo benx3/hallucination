@@ -1,0 +1,91 @@
+{
+  "_comment": "Template cho API configuration - Copy thành config.json và điền API keys",
+  "apis": {
+    "openai": {
+      "enabled": true,
+      "api_key": "YOUR_OPENAI_API_KEY_HERE",
+      "base_url": "https://api.openai.com/v1",
+      "models": [
+        "gpt-4o-mini",
+        "gpt-4o",
+        "gpt-3.5-turbo",
+        "gpt-4-turbo"
+      ],
+      "default_model": "gpt-4o-mini",
+      "timeout": 120,
+      "max_retries": 3
+    },
+    "deepseek": {
+      "enabled": true,
+      "api_key": "YOUR_DEEPSEEK_API_KEY_HERE", 
+      "base_url": "https://api.deepseek.com",
+      "models": [
+        "deepseek-chat",
+        "deepseek-coder"
+      ],
+      "default_model": "deepseek-chat",
+      "timeout": 120,
+      "max_retries": 3
+    },
+    "gemini": {
+      "enabled": true,
+      "api_key": "YOUR_GOOGLE_API_KEY_HERE",
+      "base_url": "https://generativelanguage.googleapis.com",
+      "models": [
+        "gemini-1.5-flash",
+        "gemini-1.5-pro",
+        "gemini-pro"
+      ],
+      "default_model": "gemini-1.5-flash",
+      "timeout": 120,
+      "max_retries": 3,
+      "safety_settings": {
+        "HARM_CATEGORY_HARASSMENT": "BLOCK_NONE",
+        "HARM_CATEGORY_HATE_SPEECH": "BLOCK_NONE", 
+        "HARM_CATEGORY_SEXUALLY_EXPLICIT": "BLOCK_NONE",
+        "HARM_CATEGORY_DANGEROUS_CONTENT": "BLOCK_NONE"
+      }
+    },
+    "ollama": {
+      "enabled": true,
+      "api_key": null,
+      "base_url": "http://localhost:11434",
+      "models": [
+        "llama3.2",
+        "llama3.1", 
+        "qwen2",
+        "mistral",
+        "phi3",
+        "codellama"
+      ],
+      "default_model": "llama3.2",
+      "timeout": 300,
+      "max_retries": 1
+    }
+  },
+  "experiments": {
+    "default_timeout": 300,
+    "parallel_limit": 1,
+    "auto_retry": true,
+    "save_intermediate": true,
+    "export_format": ["csv", "json", "txt"]
+  },
+  "ui": {
+    "theme": "light",
+    "port": 8501,
+    "auto_refresh": true,
+    "max_display_questions": 100,
+    "chart_colors": {
+      "openai": "#00A67E",
+      "deepseek": "#FF6B6B", 
+      "gemini": "#4285F4",
+      "ollama": "#000000"
+    }
+  },
+  "paths": {
+    "data_dir": "data",
+    "results_dir": "data/results",
+    "exports_dir": "exports",
+    "logs_dir": "logs"
+  }
+}

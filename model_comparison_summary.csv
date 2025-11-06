@@ -1,0 +1,17 @@
+Model Family,Directory,n_questions,accuracy_direct,accuracy_selfcrit,hallu_rate_direct,hallu_rate_selfcrit,accuracy_gain,hallu_reduction
+OpenAI GPT,openai_astronomy_hard,0,0,0,0,0,0,0
+OpenAI GPT,openai_mathematics_hard,0,0,0,0,0,0,0
+OpenAI GPT,openai_questions_50_hard,0,0,0,0,0,0,0
+OpenAI GPT,openai_scientific_facts_basic,0,0,0,0,0,0,0
+Ollama,ollama_astronomy_hard,0,0,0,0,0,0,0
+Ollama,ollama_mathematics_hard,0,0,0,0,0,0,0
+Ollama,ollama_questions_50_hard,0,0,0,0,0,0,0
+Ollama,ollama_scientific_facts_basic,0,0,0,0,0,0,0
+DeepSeek,deepseek_astronomy_hard,0,0,0,0,0,0,0
+DeepSeek,deepseek_mathematics_hard,0,0,0,0,0,0,0
+DeepSeek,deepseek_questions_50_hard,0,0,0,0,0,0,0
+DeepSeek,deepseek_scientific_facts_basic,0,0,0,0,0,0,0
+Gemini,gemini_astronomy_hard,0,0,0,0,0,0,0
+Gemini,gemini_mathematics_hard,0,0,0,0,0,0,0
+Gemini,gemini_questions_50_hard,0,0,0,0,0,0,0
+Gemini,gemini_scientific_facts_basic,0,0,0,0,0,0,0
