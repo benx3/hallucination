@@ -231,9 +231,26 @@ def extract_hallucination_cases(results_data, max_per_api=10):
         if "graded_data" in result:
             df = result["graded_data"]
             
-            # Find hallucination cases
-            direct_hallu = df[df['direct_hallucination'] == True]
-            selfcrit_hallu = df[df['selfcrit_hallucination'] == True]
+            # Find hallucination cases with error handling
+            try:
+                # Try different possible column names
+                if 'direct_hallucination' in df.columns:
+                    direct_hallu = df[df['direct_hallucination'] == True]
+                elif 'is_hallucinated' in df.columns and 'prompt_type' in df.columns:
+                    direct_hallu = df[(df['is_hallucinated'] == True) & (df['prompt_type'] == 'direct')]
+                else:
+                    direct_hallu = pd.DataFrame()  # Empty if no matching columns
+                
+                if 'selfcrit_hallucination' in df.columns:
+                    selfcrit_hallu = df[df['selfcrit_hallucination'] == True]
+                elif 'is_hallucinated' in df.columns and 'prompt_type' in df.columns:
+                    selfcrit_hallu = df[(df['is_hallucinated'] == True) & (df['prompt_type'] == 'self_critique')]
+                else:
+                    selfcrit_hallu = pd.DataFrame()  # Empty if no matching columns
+            except Exception as e:
+                print(f"Error processing hallucination data for {api}/{dataset}: {e}")
+                direct_hallu = pd.DataFrame()
+                selfcrit_hallu = pd.DataFrame()
             
             # Sample random cases
             if len(direct_hallu) > 0:
@@ -255,10 +272,10 @@ def extract_hallucination_cases(results_data, max_per_api=10):
                         # Use prompt from CSV if available, otherwise reconstruct
                         "Direct_Prompt": direct_prompt,
                         "Evaluation_Details": {
-                            "is_correct": row['direct_correct'],
-                            "is_uncertain": row['direct_uncertain'], 
-                            "is_hallucination": row['direct_hallucination'],
-                            "calculation_steps": f"Correct={row['direct_correct']}, Uncertain={row['direct_uncertain']} → Hallucination={row['direct_hallucination']} (Confident but Wrong)",
+                            "is_correct": row.get('direct_correct', row.get('is_correct', False)),
+                            "is_uncertain": row.get('direct_uncertain', row.get('is_uncertain', False)), 
+                            "is_hallucination": row.get('direct_hallucination', row.get('is_hallucinated', False)),
+                            "calculation_steps": f"Correct={row.get('direct_correct', row.get('is_correct', False))}, Uncertain={row.get('direct_uncertain', row.get('is_uncertain', False))} → Hallucination={row.get('direct_hallucination', row.get('is_hallucinated', False))} (Confident but Wrong)",
                             "reasoning": "Hallucination = NOT correct AND NOT uncertain (confident wrong answer)"
                         }
                     })
@@ -283,10 +300,10 @@ def extract_hallucination_cases(results_data, max_per_api=10):
                         "SelfCrit_Prompt": selfcrit_prompt,
                         "SelfCrit_Steps": row.get('selfcrit_answer', ''),
                         "Evaluation_Details": {
-                            "is_correct": row['selfcrit_correct'],
-                            "is_uncertain": row['selfcrit_uncertain'],
-                            "is_hallucination": row['selfcrit_hallucination'],
-                            "calculation_steps": f"Correct={row['selfcrit_correct']}, Uncertain={row['selfcrit_uncertain']} → Hallucination={row['selfcrit_hallucination']} (Confident but Wrong)",
+                            "is_correct": row.get('selfcrit_correct', row.get('is_correct', False)),
+                            "is_uncertain": row.get('selfcrit_uncertain', row.get('is_uncertain', False)),
+                            "is_hallucination": row.get('selfcrit_hallucination', row.get('is_hallucinated', False)),
+                            "calculation_steps": f"Correct={row.get('selfcrit_correct', row.get('is_correct', False))}, Uncertain={row.get('selfcrit_uncertain', row.get('is_uncertain', False))} → Hallucination={row.get('selfcrit_hallucination', row.get('is_hallucinated', False))} (Confident but Wrong)",
                             "reasoning": "Hallucination = NOT correct AND NOT uncertain (confident wrong answer)"
                         }
                     })
@@ -306,8 +323,26 @@ def create_hallucination_analysis_chart(results_data):
             df = result["graded_data"]
             
             total_questions = len(df)
-            direct_hallu_count = len(df[df['direct_hallucination'] == True])
-            selfcrit_hallu_count = len(df[df['selfcrit_hallucination'] == True])
+            
+            # Count hallucinations with error handling
+            try:
+                if 'direct_hallucination' in df.columns:
+                    direct_hallu_count = len(df[df['direct_hallucination'] == True])
+                elif 'is_hallucinated' in df.columns and 'prompt_type' in df.columns:
+                    direct_hallu_count = len(df[(df['is_hallucinated'] == True) & (df['prompt_type'] == 'direct')])
+                else:
+                    direct_hallu_count = 0
+                    
+                if 'selfcrit_hallucination' in df.columns:
+                    selfcrit_hallu_count = len(df[df['selfcrit_hallucination'] == True])
+                elif 'is_hallucinated' in df.columns and 'prompt_type' in df.columns:
+                    selfcrit_hallu_count = len(df[(df['is_hallucinated'] == True) & (df['prompt_type'] == 'self_critique')])
+                else:
+                    selfcrit_hallu_count = 0
+            except Exception as e:
+                print(f"Error counting hallucinations for {api}/{dataset}: {e}")
+                direct_hallu_count = 0
+                selfcrit_hallu_count = 0
             
             hallu_data.append({
                 "API": api.upper(),
