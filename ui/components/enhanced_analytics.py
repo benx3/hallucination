@@ -262,8 +262,8 @@ def extract_hallucination_cases(results_data, max_per_api=10):
                     hallucination_cases.append({
                         "API": api.upper(),
                         "Dataset": dataset,
-                        "Question": row['question'],
-                        "Correct_Answer": row['gold_answer'],
+                        "Question": row.get('question', ''),
+                        "Correct_Answer": row.get('gold_answer', row.get('answer', row.get('correct_answer', ''))),
                         "LLM_Answer": row.get('direct_answer', ''),
                         "Full_Answer": row.get('direct_answer', ''),
                         "Prompt_Type": "Direct",
@@ -289,8 +289,8 @@ def extract_hallucination_cases(results_data, max_per_api=10):
                     hallucination_cases.append({
                         "API": api.upper(),
                         "Dataset": dataset,
-                        "Question": row['question'],
-                        "Correct_Answer": row['gold_answer'],
+                        "Question": row.get('question', ''),
+                        "Correct_Answer": row.get('gold_answer', row.get('answer', row.get('correct_answer', ''))),
                         "LLM_Answer": row.get('selfcrit_final_span', ''),
                         "Full_Answer": row.get('selfcrit_answer', ''),
                         "Prompt_Type": "Self-Critique",
